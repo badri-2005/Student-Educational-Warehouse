@@ -1,0 +1,64 @@
+{
+  "classification": {
+    "DecisionTree": {
+      "model": "DecisionTree",
+      "accuracy": 0.9958,
+      "precision_macro": 0.9961,
+      "recall_macro": 0.9975,
+      "f1_macro": 0.9968,
+      "confusion_matrix": [
+        [
+          23,
+          0,
+          0
+        ],
+        [
+          0,
+          132,
+          1
+        ],
+        [
+          0,
+          0,
+          84
+        ]
+      ]
+    },
+    "RandomForest": {
+      "model": "RandomForest",
+      "accuracy": 0.9792,
+      "precision_macro": 0.9702,
+      "recall_macro": 0.974,
+      "f1_macro": 0.972,
+      "confusion_matrix": [
+        [
+          22,
+          0,
+          1
+        ],
+        [
+          0,
+          130,
+          3
+        ],
+        [
+          1,
+          0,
+          83
+        ]
+      ]
+    }
+  },
+  "clustering": {
+    "k": 2,
+    "labels": {
+      "0": "High-performing, highly engaged",
+      "1": "Low-performing, low engagement"
+    }
+  },
+  "pca_variance_explained": [
+    0.6924870032219512,
+    0.07313608966910692
+  ],
+  "anomalies_detected": 60
+}

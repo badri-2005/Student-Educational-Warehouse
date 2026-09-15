@@ -1,0 +1,5 @@
+{
+  "contamination": 0.05,
+  "n_anomalies": 60,
+  "n_total": 1200
+}

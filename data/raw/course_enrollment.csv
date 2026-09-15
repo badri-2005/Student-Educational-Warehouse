@@ -1,0 +1,4665 @@
+student_id,course_id,course_name,department,semester
+STU00001,EE304,Power Electronics,EEE,1
+STU00001,EE305,Circuit Theory,EEE,2
+STU00001,EE304,Power Electronics,EEE,3
+STU00001,EE302,Control Systems,EEE,4
+STU00001,EE304,Power Electronics,EEE,5
+STU00001,EE302,Control Systems,EEE,6
+STU00002,EE301,Power Systems,EEE,1
+STU00002,EE301,Power Systems,EEE,2
+STU00002,EE301,Power Systems,EEE,3
+STU00002,EE304,Power Electronics,EEE,4
+STU00002,EE303,Electrical Machines,EEE,5
+STU00003,EC303,Communication Systems,ECE,1
+STU00003,EC301,Signals and Systems,ECE,2
+STU00004,EE304,Power Electronics,EEE,1
+STU00004,EE304,Power Electronics,EEE,2
+STU00004,EE305,Circuit Theory,EEE,3
+STU00004,EE303,Electrical Machines,EEE,4
+STU00005,EC301,Signals and Systems,ECE,1
+STU00005,EC303,Communication Systems,ECE,2
+STU00005,EC301,Signals and Systems,ECE,3
+STU00006,CS304,Computer Networks,CSE,1
+STU00006,CS305,Data Warehousing and Mining,CSE,2
+STU00007,IT302,Cloud Computing,IT,1
+STU00007,IT304,Information Security,IT,2
+STU00008,CE301,Structural Analysis,CIVIL,1
+STU00008,CE302,Geotechnical Eng,CIVIL,2
+STU00008,CE302,Geotechnical Eng,CIVIL,3
+STU00009,IT302,Cloud Computing,IT,1
+STU00009,IT304,Information Security,IT,2
+STU00010,ME305,Heat Transfer,MECH,1
+STU00010,ME304,Manufacturing Tech,MECH,2
+STU00010,ME304,Manufacturing Tech,MECH,3
+STU00010,ME304,Manufacturing Tech,MECH,4
+STU00010,ME302,Fluid Mechanics,MECH,5
+STU00010,ME301,Thermodynamics,MECH,6
+STU00011,EE304,Power Electronics,EEE,1
+STU00011,EE302,Control Systems,EEE,2
+STU00011,EE301,Power Systems,EEE,3
+STU00011,EE301,Power Systems,EEE,4
+STU00012,EE301,Power Systems,EEE,1
+STU00012,EE304,Power Electronics,EEE,2
+STU00012,EE302,Control Systems,EEE,3
+STU00012,EE305,Circuit Theory,EEE,4
+STU00012,EE301,Power Systems,EEE,5
+STU00013,EC302,Digital Electronics,ECE,1
+STU00013,EC304,VLSI Design,ECE,2
+STU00013,EC305,Microprocessors,ECE,3
+STU00013,EC305,Microprocessors,ECE,4
+STU00013,EC305,Microprocessors,ECE,5
+STU00014,EE304,Power Electronics,EEE,1
+STU00014,EE304,Power Electronics,EEE,2
+STU00015,CE304,Concrete Tech,CIVIL,1
+STU00015,CE304,Concrete Tech,CIVIL,2
+STU00015,CE301,Structural Analysis,CIVIL,3
+STU00015,CE305,Transportation Eng,CIVIL,4
+STU00016,EC304,VLSI Design,ECE,1
+STU00016,EC302,Digital Electronics,ECE,2
+STU00016,EC304,VLSI Design,ECE,3
+STU00017,EC305,Microprocessors,ECE,1
+STU00017,EC305,Microprocessors,ECE,2
+STU00018,IT305,Mobile Computing,IT,1
+STU00018,IT305,Mobile Computing,IT,2
+STU00018,IT304,Information Security,IT,3
+STU00018,IT304,Information Security,IT,4
+STU00018,IT305,Mobile Computing,IT,5
+STU00019,CS303,Operating Systems,CSE,1
+STU00019,CS301,Data Structures,CSE,2
+STU00019,CS302,DBMS,CSE,3
+STU00019,CS303,Operating Systems,CSE,4
+STU00020,IT304,Information Security,IT,1
+STU00020,IT304,Information Security,IT,2
+STU00020,IT303,Software Engineering,IT,3
+STU00020,IT303,Software Engineering,IT,4
+STU00021,IT302,Cloud Computing,IT,1
+STU00021,IT303,Software Engineering,IT,2
+STU00021,IT301,Web Technologies,IT,3
+STU00022,EE303,Electrical Machines,EEE,1
+STU00022,EE301,Power Systems,EEE,2
+STU00023,CS304,Computer Networks,CSE,1
+STU00023,CS305,Data Warehousing and Mining,CSE,2
+STU00024,EE301,Power Systems,EEE,1
+STU00024,EE305,Circuit Theory,EEE,2
+STU00024,EE303,Electrical Machines,EEE,3
+STU00024,EE305,Circuit Theory,EEE,4
+STU00025,ME305,Heat Transfer,MECH,1
+STU00025,ME304,Manufacturing Tech,MECH,2
+STU00025,ME302,Fluid Mechanics,MECH,3
+STU00025,ME304,Manufacturing Tech,MECH,4
+STU00026,CE305,Transportation Eng,CIVIL,1
+STU00026,CE303,Surveying,CIVIL,2
+STU00026,CE302,Geotechnical Eng,CIVIL,3
+STU00027,EC305,Microprocessors,ECE,1
+STU00027,EC303,Communication Systems,ECE,2
+STU00028,CS303,Operating Systems,CSE,1
+STU00028,CS302,DBMS,CSE,2
+STU00029,ME301,Thermodynamics,MECH,1
+STU00029,ME303,Machine Design,MECH,2
+STU00029,ME305,Heat Transfer,MECH,3
+STU00029,ME304,Manufacturing Tech,MECH,4
+STU00029,ME303,Machine Design,MECH,5
+STU00029,ME303,Machine Design,MECH,6
+STU00030,EE305,Circuit Theory,EEE,1
+STU00030,EE302,Control Systems,EEE,2
+STU00030,EE304,Power Electronics,EEE,3
+STU00030,EE305,Circuit Theory,EEE,4
+STU00030,EE305,Circuit Theory,EEE,5
+STU00031,IT305,Mobile Computing,IT,1
+STU00031,IT305,Mobile Computing,IT,2
+STU00032,CS304,Computer Networks,CSE,1
+STU00032,CS305,Data Warehousing and Mining,CSE,2
+STU00032,CS305,Data Warehousing and Mining,CSE,3
+STU00033,EC302,Digital Electronics,ECE,1
+STU00033,EC304,VLSI Design,ECE,2
+STU00033,EC302,Digital Electronics,ECE,3
+STU00033,EC303,Communication Systems,ECE,4
+STU00033,EC304,VLSI Design,ECE,5
+STU00033,EC301,Signals and Systems,ECE,6
+STU00034,ME303,Machine Design,MECH,1
+STU00034,ME302,Fluid Mechanics,MECH,2
+STU00034,ME305,Heat Transfer,MECH,3
+STU00034,ME304,Manufacturing Tech,MECH,4
+STU00034,ME301,Thermodynamics,MECH,5
+STU00035,EC301,Signals and Systems,ECE,1
+STU00035,EC303,Communication Systems,ECE,2
+STU00035,EC304,VLSI Design,ECE,3
+STU00036,ME301,Thermodynamics,MECH,1
+STU00036,ME302,Fluid Mechanics,MECH,2
+STU00036,ME302,Fluid Mechanics,MECH,3
+STU00036,ME303,Machine Design,MECH,4
+STU00036,ME305,Heat Transfer,MECH,5
+STU00037,EE304,Power Electronics,EEE,1
+STU00037,EE301,Power Systems,EEE,2
+STU00038,EC305,Microprocessors,ECE,1
+STU00038,EC301,Signals and Systems,ECE,2
+STU00038,EC303,Communication Systems,ECE,3
+STU00038,EC304,VLSI Design,ECE,4
+STU00039,EC301,Signals and Systems,ECE,1
+STU00039,EC305,Microprocessors,ECE,2
+STU00039,EC304,VLSI Design,ECE,3
+STU00040,CE305,Transportation Eng,CIVIL,1
+STU00040,CE303,Surveying,CIVIL,2
+STU00040,CE305,Transportation Eng,CIVIL,3
+STU00041,CS304,Computer Networks,CSE,1
+STU00041,CS302,DBMS,CSE,2
+STU00041,CS302,DBMS,CSE,3
+STU00042,CE304,Concrete Tech,CIVIL,1
+STU00042,CE303,Surveying,CIVIL,2
+STU00042,CE304,Concrete Tech,CIVIL,3
+STU00042,CE301,Structural Analysis,CIVIL,4
+STU00043,CE304,Concrete Tech,CIVIL,1
+STU00043,CE302,Geotechnical Eng,CIVIL,2
+STU00043,CE302,Geotechnical Eng,CIVIL,3
+STU00043,CE304,Concrete Tech,CIVIL,4
+STU00043,CE303,Surveying,CIVIL,5
+STU00043,CE305,Transportation Eng,CIVIL,6
+STU00044,EC302,Digital Electronics,ECE,1
+STU00044,EC305,Microprocessors,ECE,2
+STU00045,EE303,Electrical Machines,EEE,1
+STU00045,EE305,Circuit Theory,EEE,2
+STU00045,EE304,Power Electronics,EEE,3
+STU00045,EE301,Power Systems,EEE,4
+STU00046,CS303,Operating Systems,CSE,1
+STU00046,CS302,DBMS,CSE,2
+STU00046,CS302,DBMS,CSE,3
+STU00046,CS304,Computer Networks,CSE,4
+STU00047,CE301,Structural Analysis,CIVIL,1
+STU00047,CE301,Structural Analysis,CIVIL,2
+STU00047,CE304,Concrete Tech,CIVIL,3
+STU00047,CE303,Surveying,CIVIL,4
+STU00047,CE301,Structural Analysis,CIVIL,5
+STU00048,IT305,Mobile Computing,IT,1
+STU00048,IT303,Software Engineering,IT,2
+STU00048,IT305,Mobile Computing,IT,3
+STU00048,IT304,Information Security,IT,4
+STU00049,ME302,Fluid Mechanics,MECH,1
+STU00049,ME302,Fluid Mechanics,MECH,2
+STU00050,CE302,Geotechnical Eng,CIVIL,1
+STU00050,CE303,Surveying,CIVIL,2
+STU00050,CE301,Structural Analysis,CIVIL,3
+STU00050,CE302,Geotechnical Eng,CIVIL,4
+STU00050,CE305,Transportation Eng,CIVIL,5
+STU00051,CS304,Computer Networks,CSE,1
+STU00051,CS302,DBMS,CSE,2
+STU00051,CS302,DBMS,CSE,3
+STU00051,CS303,Operating Systems,CSE,4
+STU00052,IT304,Information Security,IT,1
+STU00052,IT302,Cloud Computing,IT,2
+STU00053,CS305,Data Warehousing and Mining,CSE,1
+STU00053,CS301,Data Structures,CSE,2
+STU00053,CS305,Data Warehousing and Mining,CSE,3
+STU00053,CS301,Data Structures,CSE,4
+STU00053,CS302,DBMS,CSE,5
+STU00054,IT301,Web Technologies,IT,1
+STU00054,IT305,Mobile Computing,IT,2
+STU00054,IT305,Mobile Computing,IT,3
+STU00055,EC301,Signals and Systems,ECE,1
+STU00055,EC302,Digital Electronics,ECE,2
+STU00055,EC301,Signals and Systems,ECE,3
+STU00056,ME304,Manufacturing Tech,MECH,1
+STU00056,ME302,Fluid Mechanics,MECH,2
+STU00056,ME302,Fluid Mechanics,MECH,3
+STU00056,ME303,Machine Design,MECH,4
+STU00056,ME304,Manufacturing Tech,MECH,5
+STU00057,EE302,Control Systems,EEE,1
+STU00057,EE303,Electrical Machines,EEE,2
+STU00057,EE304,Power Electronics,EEE,3
+STU00057,EE304,Power Electronics,EEE,4
+STU00057,EE301,Power Systems,EEE,5
+STU00058,CS302,DBMS,CSE,1
+STU00058,CS302,DBMS,CSE,2
+STU00058,CS305,Data Warehousing and Mining,CSE,3
+STU00058,CS301,Data Structures,CSE,4
+STU00059,EE302,Control Systems,EEE,1
+STU00059,EE304,Power Electronics,EEE,2
+STU00059,EE304,Power Electronics,EEE,3
+STU00059,EE305,Circuit Theory,EEE,4
+STU00059,EE301,Power Systems,EEE,5
+STU00060,IT301,Web Technologies,IT,1
+STU00060,IT303,Software Engineering,IT,2
+STU00060,IT304,Information Security,IT,3
+STU00060,IT305,Mobile Computing,IT,4
+STU00060,IT301,Web Technologies,IT,5
+STU00060,IT305,Mobile Computing,IT,6
+STU00061,IT304,Information Security,IT,1
+STU00061,IT302,Cloud Computing,IT,2
+STU00061,IT305,Mobile Computing,IT,3
+STU00061,IT303,Software Engineering,IT,4
+STU00062,EC304,VLSI Design,ECE,1
+STU00062,EC304,VLSI Design,ECE,2
+STU00062,EC301,Signals and Systems,ECE,3
+STU00062,EC305,Microprocessors,ECE,4
+STU00062,EC302,Digital Electronics,ECE,5
+STU00062,EC301,Signals and Systems,ECE,6
+STU00063,ME302,Fluid Mechanics,MECH,1
+STU00063,ME303,Machine Design,MECH,2
+STU00064,IT303,Software Engineering,IT,1
+STU00064,IT305,Mobile Computing,IT,2
+STU00064,IT305,Mobile Computing,IT,3
+STU00064,IT304,Information Security,IT,4
+STU00064,IT303,Software Engineering,IT,5
+STU00065,EC305,Microprocessors,ECE,1
+STU00065,EC301,Signals and Systems,ECE,2
+STU00065,EC302,Digital Electronics,ECE,3
+STU00066,CE302,Geotechnical Eng,CIVIL,1
+STU00066,CE304,Concrete Tech,CIVIL,2
+STU00066,CE302,Geotechnical Eng,CIVIL,3
+STU00067,CE301,Structural Analysis,CIVIL,1
+STU00067,CE301,Structural Analysis,CIVIL,2
+STU00067,CE303,Surveying,CIVIL,3
+STU00067,CE304,Concrete Tech,CIVIL,4
+STU00067,CE301,Structural Analysis,CIVIL,5
+STU00068,ME303,Machine Design,MECH,1
+STU00068,ME302,Fluid Mechanics,MECH,2
+STU00069,CE302,Geotechnical Eng,CIVIL,1
+STU00069,CE305,Transportation Eng,CIVIL,2
+STU00069,CE305,Transportation Eng,CIVIL,3
+STU00070,EE305,Circuit Theory,EEE,1
+STU00070,EE304,Power Electronics,EEE,2
+STU00070,EE302,Control Systems,EEE,3
+STU00070,EE301,Power Systems,EEE,4
+STU00070,EE301,Power Systems,EEE,5
+STU00070,EE301,Power Systems,EEE,6
+STU00071,ME305,Heat Transfer,MECH,1
+STU00071,ME303,Machine Design,MECH,2
+STU00071,ME301,Thermodynamics,MECH,3
+STU00071,ME304,Manufacturing Tech,MECH,4
+STU00072,ME303,Machine Design,MECH,1
+STU00072,ME303,Machine Design,MECH,2
+STU00072,ME305,Heat Transfer,MECH,3
+STU00072,ME303,Machine Design,MECH,4
+STU00072,ME302,Fluid Mechanics,MECH,5
+STU00073,IT303,Software Engineering,IT,1
+STU00073,IT301,Web Technologies,IT,2
+STU00073,IT301,Web Technologies,IT,3
+STU00073,IT303,Software Engineering,IT,4
+STU00074,IT304,Information Security,IT,1
+STU00074,IT301,Web Technologies,IT,2
+STU00074,IT302,Cloud Computing,IT,3
+STU00075,IT303,Software Engineering,IT,1
+STU00075,IT301,Web Technologies,IT,2
+STU00075,IT304,Information Security,IT,3
+STU00075,IT303,Software Engineering,IT,4
+STU00075,IT303,Software Engineering,IT,5
+STU00076,IT305,Mobile Computing,IT,1
+STU00076,IT304,Information Security,IT,2
+STU00076,IT304,Information Security,IT,3
+STU00076,IT303,Software Engineering,IT,4
+STU00077,IT304,Information Security,IT,1
+STU00077,IT305,Mobile Computing,IT,2
+STU00078,IT304,Information Security,IT,1
+STU00078,IT301,Web Technologies,IT,2
+STU00078,IT304,Information Security,IT,3
+STU00078,IT302,Cloud Computing,IT,4
+STU00078,IT305,Mobile Computing,IT,5
+STU00079,ME304,Manufacturing Tech,MECH,1
+STU00079,ME301,Thermodynamics,MECH,2
+STU00079,ME303,Machine Design,MECH,3
+STU00079,ME302,Fluid Mechanics,MECH,4
+STU00080,CE305,Transportation Eng,CIVIL,1
+STU00080,CE303,Surveying,CIVIL,2
+STU00080,CE305,Transportation Eng,CIVIL,3
+STU00081,EE305,Circuit Theory,EEE,1
+STU00081,EE305,Circuit Theory,EEE,2
+STU00082,CS301,Data Structures,CSE,1
+STU00082,CS305,Data Warehousing and Mining,CSE,2
+STU00082,CS303,Operating Systems,CSE,3
+STU00082,CS305,Data Warehousing and Mining,CSE,4
+STU00082,CS305,Data Warehousing and Mining,CSE,5
+STU00083,EC304,VLSI Design,ECE,1
+STU00083,EC302,Digital Electronics,ECE,2
+STU00084,CE301,Structural Analysis,CIVIL,1
+STU00084,CE303,Surveying,CIVIL,2
+STU00085,CE304,Concrete Tech,CIVIL,1
+STU00085,CE305,Transportation Eng,CIVIL,2
+STU00085,CE303,Surveying,CIVIL,3
+STU00085,CE302,Geotechnical Eng,CIVIL,4
+STU00085,CE301,Structural Analysis,CIVIL,5
+STU00085,CE301,Structural Analysis,CIVIL,6
+STU00086,CS301,Data Structures,CSE,1
+STU00086,CS304,Computer Networks,CSE,2
+STU00086,CS301,Data Structures,CSE,3
+STU00086,CS304,Computer Networks,CSE,4
+STU00086,CS304,Computer Networks,CSE,5
+STU00086,CS303,Operating Systems,CSE,6
+STU00087,CS303,Operating Systems,CSE,1
+STU00087,CS302,DBMS,CSE,2
+STU00087,CS301,Data Structures,CSE,3
+STU00087,CS301,Data Structures,CSE,4
+STU00087,CS302,DBMS,CSE,5
+STU00088,EE304,Power Electronics,EEE,1
+STU00088,EE302,Control Systems,EEE,2
+STU00088,EE305,Circuit Theory,EEE,3
+STU00089,IT303,Software Engineering,IT,1
+STU00089,IT302,Cloud Computing,IT,2
+STU00090,ME301,Thermodynamics,MECH,1
+STU00090,ME302,Fluid Mechanics,MECH,2
+STU00090,ME304,Manufacturing Tech,MECH,3
+STU00090,ME304,Manufacturing Tech,MECH,4
+STU00090,ME304,Manufacturing Tech,MECH,5
+STU00091,EE303,Electrical Machines,EEE,1
+STU00091,EE301,Power Systems,EEE,2
+STU00091,EE301,Power Systems,EEE,3
+STU00092,EC304,VLSI Design,ECE,1
+STU00092,EC305,Microprocessors,ECE,2
+STU00092,EC301,Signals and Systems,ECE,3
+STU00092,EC304,VLSI Design,ECE,4
+STU00092,EC305,Microprocessors,ECE,5
+STU00093,EC301,Signals and Systems,ECE,1
+STU00093,EC304,VLSI Design,ECE,2
+STU00093,EC305,Microprocessors,ECE,3
+STU00094,CS304,Computer Networks,CSE,1
+STU00094,CS301,Data Structures,CSE,2
+STU00094,CS305,Data Warehousing and Mining,CSE,3
+STU00094,CS304,Computer Networks,CSE,4
+STU00095,CS302,DBMS,CSE,1
+STU00095,CS302,DBMS,CSE,2
+STU00096,IT304,Information Security,IT,1
+STU00096,IT305,Mobile Computing,IT,2
+STU00096,IT305,Mobile Computing,IT,3
+STU00096,IT305,Mobile Computing,IT,4
+STU00097,CE303,Surveying,CIVIL,1
+STU00097,CE304,Concrete Tech,CIVIL,2
+STU00097,CE304,Concrete Tech,CIVIL,3
+STU00098,CS302,DBMS,CSE,1
+STU00098,CS301,Data Structures,CSE,2
+STU00098,CS302,DBMS,CSE,3
+STU00098,CS302,DBMS,CSE,4
+STU00098,CS305,Data Warehousing and Mining,CSE,5
+STU00098,CS301,Data Structures,CSE,6
+STU00099,EE303,Electrical Machines,EEE,1
+STU00099,EE302,Control Systems,EEE,2
+STU00099,EE301,Power Systems,EEE,3
+STU00099,EE303,Electrical Machines,EEE,4
+STU00099,EE302,Control Systems,EEE,5
+STU00100,CE301,Structural Analysis,CIVIL,1
+STU00100,CE303,Surveying,CIVIL,2
+STU00100,CE301,Structural Analysis,CIVIL,3
+STU00100,CE301,Structural Analysis,CIVIL,4
+STU00100,CE304,Concrete Tech,CIVIL,5
+STU00100,CE303,Surveying,CIVIL,6
+STU00101,EC305,Microprocessors,ECE,1
+STU00101,EC302,Digital Electronics,ECE,2
+STU00102,ME304,Manufacturing Tech,MECH,1
+STU00102,ME301,Thermodynamics,MECH,2
+STU00103,ME305,Heat Transfer,MECH,1
+STU00103,ME305,Heat Transfer,MECH,2
+STU00103,ME305,Heat Transfer,MECH,3
+STU00103,ME302,Fluid Mechanics,MECH,4
+STU00103,ME302,Fluid Mechanics,MECH,5
+STU00103,ME302,Fluid Mechanics,MECH,6
+STU00104,ME305,Heat Transfer,MECH,1
+STU00104,ME301,Thermodynamics,MECH,2
+STU00104,ME303,Machine Design,MECH,3
+STU00104,ME302,Fluid Mechanics,MECH,4
+STU00104,ME302,Fluid Mechanics,MECH,5
+STU00105,CS301,Data Structures,CSE,1
+STU00105,CS304,Computer Networks,CSE,2
+STU00105,CS303,Operating Systems,CSE,3
+STU00105,CS301,Data Structures,CSE,4
+STU00105,CS303,Operating Systems,CSE,5
+STU00106,EC302,Digital Electronics,ECE,1
+STU00106,EC305,Microprocessors,ECE,2
+STU00106,EC302,Digital Electronics,ECE,3
+STU00106,EC304,VLSI Design,ECE,4
+STU00107,EE304,Power Electronics,EEE,1
+STU00107,EE301,Power Systems,EEE,2
+STU00107,EE302,Control Systems,EEE,3
+STU00107,EE305,Circuit Theory,EEE,4
+STU00107,EE301,Power Systems,EEE,5
+STU00108,EC304,VLSI Design,ECE,1
+STU00108,EC304,VLSI Design,ECE,2
+STU00108,EC304,VLSI Design,ECE,3
+STU00108,EC302,Digital Electronics,ECE,4
+STU00109,IT303,Software Engineering,IT,1
+STU00109,IT304,Information Security,IT,2
+STU00109,IT303,Software Engineering,IT,3
+STU00109,IT301,Web Technologies,IT,4
+STU00109,IT305,Mobile Computing,IT,5
+STU00109,IT304,Information Security,IT,6
+STU00110,CS305,Data Warehousing and Mining,CSE,1
+STU00110,CS303,Operating Systems,CSE,2
+STU00110,CS302,DBMS,CSE,3
+STU00111,ME301,Thermodynamics,MECH,1
+STU00111,ME304,Manufacturing Tech,MECH,2
+STU00112,CS305,Data Warehousing and Mining,CSE,1
+STU00112,CS302,DBMS,CSE,2
+STU00112,CS305,Data Warehousing and Mining,CSE,3
+STU00112,CS305,Data Warehousing and Mining,CSE,4
+STU00112,CS302,DBMS,CSE,5
+STU00112,CS301,Data Structures,CSE,6
+STU00113,EE303,Electrical Machines,EEE,1
+STU00113,EE305,Circuit Theory,EEE,2
+STU00113,EE301,Power Systems,EEE,3
+STU00114,IT305,Mobile Computing,IT,1
+STU00114,IT301,Web Technologies,IT,2
+STU00114,IT301,Web Technologies,IT,3
+STU00114,IT303,Software Engineering,IT,4
+STU00115,ME303,Machine Design,MECH,1
+STU00115,ME305,Heat Transfer,MECH,2
+STU00115,ME303,Machine Design,MECH,3
+STU00115,ME303,Machine Design,MECH,4
+STU00115,ME304,Manufacturing Tech,MECH,5
+STU00116,CE303,Surveying,CIVIL,1
+STU00116,CE303,Surveying,CIVIL,2
+STU00117,EC302,Digital Electronics,ECE,1
+STU00117,EC304,VLSI Design,ECE,2
+STU00118,ME301,Thermodynamics,MECH,1
+STU00118,ME302,Fluid Mechanics,MECH,2
+STU00119,EC304,VLSI Design,ECE,1
+STU00119,EC303,Communication Systems,ECE,2
+STU00119,EC305,Microprocessors,ECE,3
+STU00120,EE305,Circuit Theory,EEE,1
+STU00120,EE304,Power Electronics,EEE,2
+STU00120,EE304,Power Electronics,EEE,3
+STU00120,EE302,Control Systems,EEE,4
+STU00121,CE302,Geotechnical Eng,CIVIL,1
+STU00121,CE304,Concrete Tech,CIVIL,2
+STU00121,CE305,Transportation Eng,CIVIL,3
+STU00121,CE302,Geotechnical Eng,CIVIL,4
+STU00121,CE304,Concrete Tech,CIVIL,5
+STU00121,CE302,Geotechnical Eng,CIVIL,6
+STU00122,IT305,Mobile Computing,IT,1
+STU00122,IT301,Web Technologies,IT,2
+STU00123,EE305,Circuit Theory,EEE,1
+STU00123,EE301,Power Systems,EEE,2
+STU00123,EE301,Power Systems,EEE,3
+STU00123,EE303,Electrical Machines,EEE,4
+STU00124,EE303,Electrical Machines,EEE,1
+STU00124,EE301,Power Systems,EEE,2
+STU00124,EE302,Control Systems,EEE,3
+STU00124,EE301,Power Systems,EEE,4
+STU00125,EC302,Digital Electronics,ECE,1
+STU00125,EC304,VLSI Design,ECE,2
+STU00125,EC301,Signals and Systems,ECE,3
+STU00125,EC301,Signals and Systems,ECE,4
+STU00126,CS304,Computer Networks,CSE,1
+STU00126,CS305,Data Warehousing and Mining,CSE,2
+STU00126,CS303,Operating Systems,CSE,3
+STU00126,CS304,Computer Networks,CSE,4
+STU00126,CS302,DBMS,CSE,5
+STU00127,CS304,Computer Networks,CSE,1
+STU00127,CS303,Operating Systems,CSE,2
+STU00127,CS305,Data Warehousing and Mining,CSE,3
+STU00127,CS304,Computer Networks,CSE,4
+STU00127,CS304,Computer Networks,CSE,5
+STU00128,EE301,Power Systems,EEE,1
+STU00128,EE303,Electrical Machines,EEE,2
+STU00128,EE302,Control Systems,EEE,3
+STU00128,EE305,Circuit Theory,EEE,4
+STU00128,EE305,Circuit Theory,EEE,5
+STU00128,EE305,Circuit Theory,EEE,6
+STU00129,IT305,Mobile Computing,IT,1
+STU00129,IT305,Mobile Computing,IT,2
+STU00129,IT304,Information Security,IT,3
+STU00130,CS305,Data Warehousing and Mining,CSE,1
+STU00130,CS301,Data Structures,CSE,2
+STU00131,CE302,Geotechnical Eng,CIVIL,1
+STU00131,CE301,Structural Analysis,CIVIL,2
+STU00131,CE304,Concrete Tech,CIVIL,3
+STU00132,EC301,Signals and Systems,ECE,1
+STU00132,EC304,VLSI Design,ECE,2
+STU00132,EC304,VLSI Design,ECE,3
+STU00132,EC305,Microprocessors,ECE,4
+STU00132,EC304,VLSI Design,ECE,5
+STU00133,IT301,Web Technologies,IT,1
+STU00133,IT305,Mobile Computing,IT,2
+STU00134,ME302,Fluid Mechanics,MECH,1
+STU00134,ME303,Machine Design,MECH,2
+STU00134,ME302,Fluid Mechanics,MECH,3
+STU00134,ME304,Manufacturing Tech,MECH,4
+STU00135,EC305,Microprocessors,ECE,1
+STU00135,EC302,Digital Electronics,ECE,2
+STU00136,EC303,Communication Systems,ECE,1
+STU00136,EC301,Signals and Systems,ECE,2
+STU00137,ME304,Manufacturing Tech,MECH,1
+STU00137,ME303,Machine Design,MECH,2
+STU00137,ME301,Thermodynamics,MECH,3
+STU00138,CS302,DBMS,CSE,1
+STU00138,CS304,Computer Networks,CSE,2
+STU00138,CS301,Data Structures,CSE,3
+STU00139,CE303,Surveying,CIVIL,1
+STU00139,CE305,Transportation Eng,CIVIL,2
+STU00140,EC304,VLSI Design,ECE,1
+STU00140,EC304,VLSI Design,ECE,2
+STU00141,CE303,Surveying,CIVIL,1
+STU00141,CE302,Geotechnical Eng,CIVIL,2
+STU00142,ME305,Heat Transfer,MECH,1
+STU00142,ME304,Manufacturing Tech,MECH,2
+STU00142,ME305,Heat Transfer,MECH,3
+STU00142,ME302,Fluid Mechanics,MECH,4
+STU00143,EE302,Control Systems,EEE,1
+STU00143,EE305,Circuit Theory,EEE,2
+STU00143,EE305,Circuit Theory,EEE,3
+STU00143,EE301,Power Systems,EEE,4
+STU00143,EE304,Power Electronics,EEE,5
+STU00143,EE302,Control Systems,EEE,6
+STU00144,EE304,Power Electronics,EEE,1
+STU00144,EE305,Circuit Theory,EEE,2
+STU00145,CE303,Surveying,CIVIL,1
+STU00145,CE305,Transportation Eng,CIVIL,2
+STU00145,CE301,Structural Analysis,CIVIL,3
+STU00145,CE305,Transportation Eng,CIVIL,4
+STU00145,CE303,Surveying,CIVIL,5
+STU00146,CS301,Data Structures,CSE,1
+STU00146,CS305,Data Warehousing and Mining,CSE,2
+STU00146,CS304,Computer Networks,CSE,3
+STU00146,CS305,Data Warehousing and Mining,CSE,4
+STU00146,CS303,Operating Systems,CSE,5
+STU00147,EC303,Communication Systems,ECE,1
+STU00147,EC303,Communication Systems,ECE,2
+STU00147,EC302,Digital Electronics,ECE,3
+STU00147,EC305,Microprocessors,ECE,4
+STU00147,EC301,Signals and Systems,ECE,5
+STU00148,IT305,Mobile Computing,IT,1
+STU00148,IT301,Web Technologies,IT,2
+STU00149,CS304,Computer Networks,CSE,1
+STU00149,CS304,Computer Networks,CSE,2
+STU00149,CS301,Data Structures,CSE,3
+STU00150,CE301,Structural Analysis,CIVIL,1
+STU00150,CE304,Concrete Tech,CIVIL,2
+STU00150,CE304,Concrete Tech,CIVIL,3
+STU00150,CE301,Structural Analysis,CIVIL,4
+STU00150,CE304,Concrete Tech,CIVIL,5
+STU00151,EE304,Power Electronics,EEE,1
+STU00151,EE302,Control Systems,EEE,2
+STU00151,EE303,Electrical Machines,EEE,3
+STU00152,ME301,Thermodynamics,MECH,1
+STU00152,ME302,Fluid Mechanics,MECH,2
+STU00152,ME304,Manufacturing Tech,MECH,3
+STU00153,EE303,Electrical Machines,EEE,1
+STU00153,EE305,Circuit Theory,EEE,2
+STU00154,CS302,DBMS,CSE,1
+STU00154,CS301,Data Structures,CSE,2
+STU00155,CE305,Transportation Eng,CIVIL,1
+STU00155,CE302,Geotechnical Eng,CIVIL,2
+STU00155,CE305,Transportation Eng,CIVIL,3
+STU00155,CE301,Structural Analysis,CIVIL,4
+STU00155,CE301,Structural Analysis,CIVIL,5
+STU00155,CE303,Surveying,CIVIL,6
+STU00156,CE303,Surveying,CIVIL,1
+STU00156,CE301,Structural Analysis,CIVIL,2
+STU00156,CE305,Transportation Eng,CIVIL,3
+STU00156,CE301,Structural Analysis,CIVIL,4
+STU00156,CE301,Structural Analysis,CIVIL,5
+STU00156,CE304,Concrete Tech,CIVIL,6
+STU00157,IT301,Web Technologies,IT,1
+STU00157,IT304,Information Security,IT,2
+STU00157,IT305,Mobile Computing,IT,3
+STU00157,IT302,Cloud Computing,IT,4
+STU00158,ME304,Manufacturing Tech,MECH,1
+STU00158,ME303,Machine Design,MECH,2
+STU00158,ME304,Manufacturing Tech,MECH,3
+STU00158,ME303,Machine Design,MECH,4
+STU00159,EC301,Signals and Systems,ECE,1
+STU00159,EC304,VLSI Design,ECE,2
+STU00159,EC302,Digital Electronics,ECE,3
+STU00159,EC302,Digital Electronics,ECE,4
+STU00159,EC303,Communication Systems,ECE,5
+STU00159,EC301,Signals and Systems,ECE,6
+STU00160,CE304,Concrete Tech,CIVIL,1
+STU00160,CE305,Transportation Eng,CIVIL,2
+STU00160,CE303,Surveying,CIVIL,3
+STU00160,CE301,Structural Analysis,CIVIL,4
+STU00160,CE302,Geotechnical Eng,CIVIL,5
+STU00161,EC303,Communication Systems,ECE,1
+STU00161,EC301,Signals and Systems,ECE,2
+STU00162,CE304,Concrete Tech,CIVIL,1
+STU00162,CE301,Structural Analysis,CIVIL,2
+STU00163,CS304,Computer Networks,CSE,1
+STU00163,CS301,Data Structures,CSE,2
+STU00164,EE304,Power Electronics,EEE,1
+STU00164,EE303,Electrical Machines,EEE,2
+STU00165,ME301,Thermodynamics,MECH,1
+STU00165,ME305,Heat Transfer,MECH,2
+STU00166,ME304,Manufacturing Tech,MECH,1
+STU00166,ME301,Thermodynamics,MECH,2
+STU00166,ME302,Fluid Mechanics,MECH,3
+STU00166,ME304,Manufacturing Tech,MECH,4
+STU00167,IT304,Information Security,IT,1
+STU00167,IT303,Software Engineering,IT,2
+STU00167,IT304,Information Security,IT,3
+STU00167,IT305,Mobile Computing,IT,4
+STU00167,IT301,Web Technologies,IT,5
+STU00168,EC305,Microprocessors,ECE,1
+STU00168,EC305,Microprocessors,ECE,2
+STU00169,CE302,Geotechnical Eng,CIVIL,1
+STU00169,CE303,Surveying,CIVIL,2
+STU00169,CE304,Concrete Tech,CIVIL,3
+STU00169,CE302,Geotechnical Eng,CIVIL,4
+STU00169,CE302,Geotechnical Eng,CIVIL,5
+STU00169,CE301,Structural Analysis,CIVIL,6
+STU00170,ME305,Heat Transfer,MECH,1
+STU00170,ME305,Heat Transfer,MECH,2
+STU00170,ME303,Machine Design,MECH,3
+STU00170,ME302,Fluid Mechanics,MECH,4
+STU00171,EC305,Microprocessors,ECE,1
+STU00171,EC303,Communication Systems,ECE,2
+STU00171,EC301,Signals and Systems,ECE,3
+STU00171,EC301,Signals and Systems,ECE,4
+STU00172,EC305,Microprocessors,ECE,1
+STU00172,EC304,VLSI Design,ECE,2
+STU00172,EC302,Digital Electronics,ECE,3
+STU00172,EC302,Digital Electronics,ECE,4
+STU00172,EC303,Communication Systems,ECE,5
+STU00172,EC304,VLSI Design,ECE,6
+STU00173,CE303,Surveying,CIVIL,1
+STU00173,CE305,Transportation Eng,CIVIL,2
+STU00173,CE304,Concrete Tech,CIVIL,3
+STU00173,CE302,Geotechnical Eng,CIVIL,4
+STU00173,CE304,Concrete Tech,CIVIL,5
+STU00173,CE304,Concrete Tech,CIVIL,6
+STU00174,ME302,Fluid Mechanics,MECH,1
+STU00174,ME304,Manufacturing Tech,MECH,2
+STU00175,CS304,Computer Networks,CSE,1
+STU00175,CS304,Computer Networks,CSE,2
+STU00175,CS304,Computer Networks,CSE,3
+STU00176,EE303,Electrical Machines,EEE,1
+STU00176,EE301,Power Systems,EEE,2
+STU00177,CS305,Data Warehousing and Mining,CSE,1
+STU00177,CS302,DBMS,CSE,2
+STU00178,EE302,Control Systems,EEE,1
+STU00178,EE301,Power Systems,EEE,2
+STU00178,EE302,Control Systems,EEE,3
+STU00178,EE303,Electrical Machines,EEE,4
+STU00178,EE302,Control Systems,EEE,5
+STU00179,IT303,Software Engineering,IT,1
+STU00179,IT302,Cloud Computing,IT,2
+STU00179,IT301,Web Technologies,IT,3
+STU00180,EC301,Signals and Systems,ECE,1
+STU00180,EC302,Digital Electronics,ECE,2
+STU00180,EC301,Signals and Systems,ECE,3
+STU00180,EC302,Digital Electronics,ECE,4
+STU00181,EE302,Control Systems,EEE,1
+STU00181,EE303,Electrical Machines,EEE,2
+STU00181,EE305,Circuit Theory,EEE,3
+STU00181,EE301,Power Systems,EEE,4
+STU00181,EE302,Control Systems,EEE,5
+STU00182,ME302,Fluid Mechanics,MECH,1
+STU00182,ME303,Machine Design,MECH,2
+STU00182,ME305,Heat Transfer,MECH,3
+STU00183,CS301,Data Structures,CSE,1
+STU00183,CS305,Data Warehousing and Mining,CSE,2
+STU00183,CS302,DBMS,CSE,3
+STU00184,EC301,Signals and Systems,ECE,1
+STU00184,EC302,Digital Electronics,ECE,2
+STU00184,EC302,Digital Electronics,ECE,3
+STU00185,ME305,Heat Transfer,MECH,1
+STU00185,ME302,Fluid Mechanics,MECH,2
+STU00185,ME305,Heat Transfer,MECH,3
+STU00185,ME304,Manufacturing Tech,MECH,4
+STU00185,ME302,Fluid Mechanics,MECH,5
+STU00186,CE305,Transportation Eng,CIVIL,1
+STU00186,CE304,Concrete Tech,CIVIL,2
+STU00186,CE303,Surveying,CIVIL,3
+STU00186,CE305,Transportation Eng,CIVIL,4
+STU00187,IT302,Cloud Computing,IT,1
+STU00187,IT304,Information Security,IT,2
+STU00187,IT304,Information Security,IT,3
+STU00188,CE304,Concrete Tech,CIVIL,1
+STU00188,CE305,Transportation Eng,CIVIL,2
+STU00188,CE303,Surveying,CIVIL,3
+STU00188,CE305,Transportation Eng,CIVIL,4
+STU00189,EE301,Power Systems,EEE,1
+STU00189,EE304,Power Electronics,EEE,2
+STU00189,EE302,Control Systems,EEE,3
+STU00190,IT305,Mobile Computing,IT,1
+STU00190,IT304,Information Security,IT,2
+STU00190,IT304,Information Security,IT,3
+STU00190,IT304,Information Security,IT,4
+STU00190,IT304,Information Security,IT,5
+STU00191,EE304,Power Electronics,EEE,1
+STU00191,EE302,Control Systems,EEE,2
+STU00191,EE302,Control Systems,EEE,3
+STU00191,EE301,Power Systems,EEE,4
+STU00192,CS303,Operating Systems,CSE,1
+STU00192,CS303,Operating Systems,CSE,2
+STU00193,CE301,Structural Analysis,CIVIL,1
+STU00193,CE303,Surveying,CIVIL,2
+STU00194,IT302,Cloud Computing,IT,1
+STU00194,IT302,Cloud Computing,IT,2
+STU00194,IT303,Software Engineering,IT,3
+STU00194,IT303,Software Engineering,IT,4
+STU00194,IT305,Mobile Computing,IT,5
+STU00194,IT305,Mobile Computing,IT,6
+STU00195,IT303,Software Engineering,IT,1
+STU00195,IT303,Software Engineering,IT,2
+STU00196,CE305,Transportation Eng,CIVIL,1
+STU00196,CE304,Concrete Tech,CIVIL,2
+STU00196,CE304,Concrete Tech,CIVIL,3
+STU00196,CE302,Geotechnical Eng,CIVIL,4
+STU00196,CE304,Concrete Tech,CIVIL,5
+STU00197,IT305,Mobile Computing,IT,1
+STU00197,IT304,Information Security,IT,2
+STU00197,IT301,Web Technologies,IT,3
+STU00197,IT302,Cloud Computing,IT,4
+STU00197,IT304,Information Security,IT,5
+STU00197,IT304,Information Security,IT,6
+STU00198,CE301,Structural Analysis,CIVIL,1
+STU00198,CE302,Geotechnical Eng,CIVIL,2
+STU00198,CE303,Surveying,CIVIL,3
+STU00198,CE304,Concrete Tech,CIVIL,4
+STU00198,CE303,Surveying,CIVIL,5
+STU00198,CE304,Concrete Tech,CIVIL,6
+STU00199,CS305,Data Warehousing and Mining,CSE,1
+STU00199,CS303,Operating Systems,CSE,2
+STU00199,CS305,Data Warehousing and Mining,CSE,3
+STU00199,CS302,DBMS,CSE,4
+STU00199,CS303,Operating Systems,CSE,5
+STU00200,CS302,DBMS,CSE,1
+STU00200,CS301,Data Structures,CSE,2
+STU00200,CS302,DBMS,CSE,3
+STU00200,CS301,Data Structures,CSE,4
+STU00200,CS305,Data Warehousing and Mining,CSE,5
+STU00201,ME301,Thermodynamics,MECH,1
+STU00201,ME301,Thermodynamics,MECH,2
+STU00201,ME301,Thermodynamics,MECH,3
+STU00201,ME301,Thermodynamics,MECH,4
+STU00202,EC301,Signals and Systems,ECE,1
+STU00202,EC303,Communication Systems,ECE,2
+STU00202,EC302,Digital Electronics,ECE,3
+STU00203,EC301,Signals and Systems,ECE,1
+STU00203,EC301,Signals and Systems,ECE,2
+STU00203,EC305,Microprocessors,ECE,3
+STU00203,EC302,Digital Electronics,ECE,4
+STU00203,EC304,VLSI Design,ECE,5
+STU00203,EC302,Digital Electronics,ECE,6
+STU00204,EC305,Microprocessors,ECE,1
+STU00204,EC304,VLSI Design,ECE,2
+STU00204,EC304,VLSI Design,ECE,3
+STU00205,EE302,Control Systems,EEE,1
+STU00205,EE304,Power Electronics,EEE,2
+STU00205,EE302,Control Systems,EEE,3
+STU00206,CE302,Geotechnical Eng,CIVIL,1
+STU00206,CE303,Surveying,CIVIL,2
+STU00206,CE301,Structural Analysis,CIVIL,3
+STU00206,CE304,Concrete Tech,CIVIL,4
+STU00206,CE304,Concrete Tech,CIVIL,5
+STU00206,CE305,Transportation Eng,CIVIL,6
+STU00207,CE304,Concrete Tech,CIVIL,1
+STU00207,CE304,Concrete Tech,CIVIL,2
+STU00207,CE301,Structural Analysis,CIVIL,3
+STU00207,CE304,Concrete Tech,CIVIL,4
+STU00207,CE303,Surveying,CIVIL,5
+STU00207,CE305,Transportation Eng,CIVIL,6
+STU00208,EE302,Control Systems,EEE,1
+STU00208,EE305,Circuit Theory,EEE,2
+STU00208,EE304,Power Electronics,EEE,3
+STU00208,EE302,Control Systems,EEE,4
+STU00208,EE304,Power Electronics,EEE,5
+STU00209,CS302,DBMS,CSE,1
+STU00209,CS305,Data Warehousing and Mining,CSE,2
+STU00209,CS301,Data Structures,CSE,3
+STU00210,IT304,Information Security,IT,1
+STU00210,IT303,Software Engineering,IT,2
+STU00210,IT301,Web Technologies,IT,3
+STU00210,IT304,Information Security,IT,4
+STU00210,IT302,Cloud Computing,IT,5
+STU00211,IT305,Mobile Computing,IT,1
+STU00211,IT304,Information Security,IT,2
+STU00211,IT301,Web Technologies,IT,3
+STU00212,CE303,Surveying,CIVIL,1
+STU00212,CE302,Geotechnical Eng,CIVIL,2
+STU00212,CE301,Structural Analysis,CIVIL,3
+STU00212,CE303,Surveying,CIVIL,4
+STU00212,CE302,Geotechnical Eng,CIVIL,5
+STU00213,CE304,Concrete Tech,CIVIL,1
+STU00213,CE301,Structural Analysis,CIVIL,2
+STU00213,CE305,Transportation Eng,CIVIL,3
+STU00213,CE304,Concrete Tech,CIVIL,4
+STU00213,CE304,Concrete Tech,CIVIL,5
+STU00214,ME302,Fluid Mechanics,MECH,1
+STU00214,ME305,Heat Transfer,MECH,2
+STU00214,ME302,Fluid Mechanics,MECH,3
+STU00215,CS305,Data Warehousing and Mining,CSE,1
+STU00215,CS302,DBMS,CSE,2
+STU00216,IT303,Software Engineering,IT,1
+STU00216,IT304,Information Security,IT,2
+STU00217,CE302,Geotechnical Eng,CIVIL,1
+STU00217,CE305,Transportation Eng,CIVIL,2
+STU00217,CE304,Concrete Tech,CIVIL,3
+STU00218,ME301,Thermodynamics,MECH,1
+STU00218,ME303,Machine Design,MECH,2
+STU00218,ME301,Thermodynamics,MECH,3
+STU00218,ME301,Thermodynamics,MECH,4
+STU00218,ME302,Fluid Mechanics,MECH,5
+STU00218,ME303,Machine Design,MECH,6
+STU00219,EC301,Signals and Systems,ECE,1
+STU00219,EC304,VLSI Design,ECE,2
+STU00219,EC301,Signals and Systems,ECE,3
+STU00220,CS301,Data Structures,CSE,1
+STU00220,CS301,Data Structures,CSE,2
+STU00220,CS302,DBMS,CSE,3
+STU00221,IT305,Mobile Computing,IT,1
+STU00221,IT303,Software Engineering,IT,2
+STU00221,IT305,Mobile Computing,IT,3
+STU00221,IT305,Mobile Computing,IT,4
+STU00221,IT305,Mobile Computing,IT,5
+STU00222,ME301,Thermodynamics,MECH,1
+STU00222,ME302,Fluid Mechanics,MECH,2
+STU00222,ME303,Machine Design,MECH,3
+STU00222,ME302,Fluid Mechanics,MECH,4
+STU00222,ME304,Manufacturing Tech,MECH,5
+STU00223,CS304,Computer Networks,CSE,1
+STU00223,CS304,Computer Networks,CSE,2
+STU00224,CE303,Surveying,CIVIL,1
+STU00224,CE301,Structural Analysis,CIVIL,2
+STU00225,EE304,Power Electronics,EEE,1
+STU00225,EE305,Circuit Theory,EEE,2
+STU00225,EE301,Power Systems,EEE,3
+STU00226,EC301,Signals and Systems,ECE,1
+STU00226,EC304,VLSI Design,ECE,2
+STU00226,EC303,Communication Systems,ECE,3
+STU00226,EC303,Communication Systems,ECE,4
+STU00227,CE303,Surveying,CIVIL,1
+STU00227,CE305,Transportation Eng,CIVIL,2
+STU00228,EC305,Microprocessors,ECE,1
+STU00228,EC305,Microprocessors,ECE,2
+STU00228,EC302,Digital Electronics,ECE,3
+STU00228,EC305,Microprocessors,ECE,4
+STU00228,EC303,Communication Systems,ECE,5
+STU00229,IT302,Cloud Computing,IT,1
+STU00229,IT301,Web Technologies,IT,2
+STU00229,IT303,Software Engineering,IT,3
+STU00229,IT303,Software Engineering,IT,4
+STU00229,IT302,Cloud Computing,IT,5
+STU00230,CS301,Data Structures,CSE,1
+STU00230,CS305,Data Warehousing and Mining,CSE,2
+STU00230,CS303,Operating Systems,CSE,3
+STU00231,ME303,Machine Design,MECH,1
+STU00231,ME305,Heat Transfer,MECH,2
+STU00231,ME303,Machine Design,MECH,3
+STU00231,ME302,Fluid Mechanics,MECH,4
+STU00232,EC302,Digital Electronics,ECE,1
+STU00232,EC305,Microprocessors,ECE,2
+STU00232,EC302,Digital Electronics,ECE,3
+STU00232,EC305,Microprocessors,ECE,4
+STU00233,CS303,Operating Systems,CSE,1
+STU00233,CS304,Computer Networks,CSE,2
+STU00233,CS301,Data Structures,CSE,3
+STU00233,CS301,Data Structures,CSE,4
+STU00233,CS301,Data Structures,CSE,5
+STU00233,CS302,DBMS,CSE,6
+STU00234,ME302,Fluid Mechanics,MECH,1
+STU00234,ME302,Fluid Mechanics,MECH,2
+STU00235,ME304,Manufacturing Tech,MECH,1
+STU00235,ME302,Fluid Mechanics,MECH,2
+STU00235,ME302,Fluid Mechanics,MECH,3
+STU00235,ME302,Fluid Mechanics,MECH,4
+STU00235,ME303,Machine Design,MECH,5
+STU00236,EE304,Power Electronics,EEE,1
+STU00236,EE303,Electrical Machines,EEE,2
+STU00236,EE301,Power Systems,EEE,3
+STU00236,EE304,Power Electronics,EEE,4
+STU00236,EE302,Control Systems,EEE,5
+STU00236,EE304,Power Electronics,EEE,6
+STU00237,CE305,Transportation Eng,CIVIL,1
+STU00237,CE302,Geotechnical Eng,CIVIL,2
+STU00237,CE301,Structural Analysis,CIVIL,3
+STU00237,CE304,Concrete Tech,CIVIL,4
+STU00237,CE303,Surveying,CIVIL,5
+STU00237,CE305,Transportation Eng,CIVIL,6
+STU00238,EE304,Power Electronics,EEE,1
+STU00238,EE303,Electrical Machines,EEE,2
+STU00238,EE303,Electrical Machines,EEE,3
+STU00238,EE305,Circuit Theory,EEE,4
+STU00239,IT303,Software Engineering,IT,1
+STU00239,IT304,Information Security,IT,2
+STU00240,ME302,Fluid Mechanics,MECH,1
+STU00240,ME301,Thermodynamics,MECH,2
+STU00240,ME304,Manufacturing Tech,MECH,3
+STU00241,EC304,VLSI Design,ECE,1
+STU00241,EC304,VLSI Design,ECE,2
+STU00241,EC303,Communication Systems,ECE,3
+STU00241,EC304,VLSI Design,ECE,4
+STU00241,EC301,Signals and Systems,ECE,5
+STU00242,CE302,Geotechnical Eng,CIVIL,1
+STU00242,CE304,Concrete Tech,CIVIL,2
+STU00242,CE303,Surveying,CIVIL,3
+STU00242,CE303,Surveying,CIVIL,4
+STU00242,CE304,Concrete Tech,CIVIL,5
+STU00242,CE302,Geotechnical Eng,CIVIL,6
+STU00243,EE301,Power Systems,EEE,1
+STU00243,EE301,Power Systems,EEE,2
+STU00243,EE303,Electrical Machines,EEE,3
+STU00243,EE302,Control Systems,EEE,4
+STU00243,EE302,Control Systems,EEE,5
+STU00244,EE301,Power Systems,EEE,1
+STU00244,EE304,Power Electronics,EEE,2
+STU00245,ME301,Thermodynamics,MECH,1
+STU00245,ME304,Manufacturing Tech,MECH,2
+STU00245,ME304,Manufacturing Tech,MECH,3
+STU00245,ME303,Machine Design,MECH,4
+STU00245,ME305,Heat Transfer,MECH,5
+STU00245,ME304,Manufacturing Tech,MECH,6
+STU00246,CS305,Data Warehousing and Mining,CSE,1
+STU00246,CS302,DBMS,CSE,2
+STU00247,IT304,Information Security,IT,1
+STU00247,IT301,Web Technologies,IT,2
+STU00247,IT304,Information Security,IT,3
+STU00248,IT301,Web Technologies,IT,1
+STU00248,IT305,Mobile Computing,IT,2
+STU00249,ME304,Manufacturing Tech,MECH,1
+STU00249,ME302,Fluid Mechanics,MECH,2
+STU00249,ME302,Fluid Mechanics,MECH,3
+STU00249,ME302,Fluid Mechanics,MECH,4
+STU00250,EE305,Circuit Theory,EEE,1
+STU00250,EE304,Power Electronics,EEE,2
+STU00250,EE302,Control Systems,EEE,3
+STU00251,ME302,Fluid Mechanics,MECH,1
+STU00251,ME303,Machine Design,MECH,2
+STU00252,EE305,Circuit Theory,EEE,1
+STU00252,EE302,Control Systems,EEE,2
+STU00252,EE303,Electrical Machines,EEE,3
+STU00252,EE304,Power Electronics,EEE,4
+STU00252,EE303,Electrical Machines,EEE,5
+STU00253,CS301,Data Structures,CSE,1
+STU00253,CS304,Computer Networks,CSE,2
+STU00253,CS301,Data Structures,CSE,3
+STU00253,CS301,Data Structures,CSE,4
+STU00254,ME305,Heat Transfer,MECH,1
+STU00254,ME301,Thermodynamics,MECH,2
+STU00255,ME301,Thermodynamics,MECH,1
+STU00255,ME305,Heat Transfer,MECH,2
+STU00255,ME304,Manufacturing Tech,MECH,3
+STU00255,ME303,Machine Design,MECH,4
+STU00255,ME303,Machine Design,MECH,5
+STU00255,ME303,Machine Design,MECH,6
+STU00256,IT303,Software Engineering,IT,1
+STU00256,IT304,Information Security,IT,2
+STU00256,IT303,Software Engineering,IT,3
+STU00257,EE301,Power Systems,EEE,1
+STU00257,EE304,Power Electronics,EEE,2
+STU00258,EC305,Microprocessors,ECE,1
+STU00258,EC305,Microprocessors,ECE,2
+STU00259,EC303,Communication Systems,ECE,1
+STU00259,EC305,Microprocessors,ECE,2
+STU00259,EC305,Microprocessors,ECE,3
+STU00260,EE301,Power Systems,EEE,1
+STU00260,EE301,Power Systems,EEE,2
+STU00260,EE301,Power Systems,EEE,3
+STU00261,EC302,Digital Electronics,ECE,1
+STU00261,EC304,VLSI Design,ECE,2
+STU00261,EC303,Communication Systems,ECE,3
+STU00261,EC304,VLSI Design,ECE,4
+STU00261,EC304,VLSI Design,ECE,5
+STU00262,EE302,Control Systems,EEE,1
+STU00262,EE305,Circuit Theory,EEE,2
+STU00262,EE302,Control Systems,EEE,3
+STU00262,EE301,Power Systems,EEE,4
+STU00262,EE305,Circuit Theory,EEE,5
+STU00262,EE302,Control Systems,EEE,6
+STU00263,CE304,Concrete Tech,CIVIL,1
+STU00263,CE302,Geotechnical Eng,CIVIL,2
+STU00264,CE301,Structural Analysis,CIVIL,1
+STU00264,CE304,Concrete Tech,CIVIL,2
+STU00264,CE302,Geotechnical Eng,CIVIL,3
+STU00265,ME303,Machine Design,MECH,1
+STU00265,ME303,Machine Design,MECH,2
+STU00265,ME301,Thermodynamics,MECH,3
+STU00265,ME305,Heat Transfer,MECH,4
+STU00265,ME301,Thermodynamics,MECH,5
+STU00266,IT305,Mobile Computing,IT,1
+STU00266,IT303,Software Engineering,IT,2
+STU00266,IT304,Information Security,IT,3
+STU00267,IT302,Cloud Computing,IT,1
+STU00267,IT301,Web Technologies,IT,2
+STU00267,IT301,Web Technologies,IT,3
+STU00268,ME303,Machine Design,MECH,1
+STU00268,ME301,Thermodynamics,MECH,2
+STU00269,EC303,Communication Systems,ECE,1
+STU00269,EC305,Microprocessors,ECE,2
+STU00269,EC303,Communication Systems,ECE,3
+STU00270,IT305,Mobile Computing,IT,1
+STU00270,IT304,Information Security,IT,2
+STU00270,IT303,Software Engineering,IT,3
+STU00270,IT302,Cloud Computing,IT,4
+STU00270,IT301,Web Technologies,IT,5
+STU00270,IT301,Web Technologies,IT,6
+STU00271,CS302,DBMS,CSE,1
+STU00271,CS302,DBMS,CSE,2
+STU00271,CS304,Computer Networks,CSE,3
+STU00271,CS305,Data Warehousing and Mining,CSE,4
+STU00272,EC301,Signals and Systems,ECE,1
+STU00272,EC303,Communication Systems,ECE,2
+STU00272,EC303,Communication Systems,ECE,3
+STU00273,EE304,Power Electronics,EEE,1
+STU00273,EE304,Power Electronics,EEE,2
+STU00273,EE303,Electrical Machines,EEE,3
+STU00274,CS302,DBMS,CSE,1
+STU00274,CS302,DBMS,CSE,2
+STU00274,CS304,Computer Networks,CSE,3
+STU00275,CS301,Data Structures,CSE,1
+STU00275,CS303,Operating Systems,CSE,2
+STU00275,CS304,Computer Networks,CSE,3
+STU00276,CE304,Concrete Tech,CIVIL,1
+STU00276,CE305,Transportation Eng,CIVIL,2
+STU00276,CE303,Surveying,CIVIL,3
+STU00276,CE305,Transportation Eng,CIVIL,4
+STU00276,CE301,Structural Analysis,CIVIL,5
+STU00277,IT305,Mobile Computing,IT,1
+STU00277,IT303,Software Engineering,IT,2
+STU00277,IT302,Cloud Computing,IT,3
+STU00277,IT304,Information Security,IT,4
+STU00278,ME302,Fluid Mechanics,MECH,1
+STU00278,ME302,Fluid Mechanics,MECH,2
+STU00278,ME301,Thermodynamics,MECH,3
+STU00278,ME305,Heat Transfer,MECH,4
+STU00279,EC304,VLSI Design,ECE,1
+STU00279,EC302,Digital Electronics,ECE,2
+STU00279,EC301,Signals and Systems,ECE,3
+STU00280,CE302,Geotechnical Eng,CIVIL,1
+STU00280,CE301,Structural Analysis,CIVIL,2
+STU00280,CE305,Transportation Eng,CIVIL,3
+STU00280,CE302,Geotechnical Eng,CIVIL,4
+STU00280,CE302,Geotechnical Eng,CIVIL,5
+STU00281,EE302,Control Systems,EEE,1
+STU00281,EE304,Power Electronics,EEE,2
+STU00282,IT302,Cloud Computing,IT,1
+STU00282,IT301,Web Technologies,IT,2
+STU00282,IT304,Information Security,IT,3
+STU00282,IT304,Information Security,IT,4
+STU00282,IT301,Web Technologies,IT,5
+STU00282,IT301,Web Technologies,IT,6
+STU00283,EE304,Power Electronics,EEE,1
+STU00283,EE301,Power Systems,EEE,2
+STU00284,EC301,Signals and Systems,ECE,1
+STU00284,EC304,VLSI Design,ECE,2
+STU00284,EC304,VLSI Design,ECE,3
+STU00284,EC305,Microprocessors,ECE,4
+STU00285,EC303,Communication Systems,ECE,1
+STU00285,EC305,Microprocessors,ECE,2
+STU00286,ME301,Thermodynamics,MECH,1
+STU00286,ME305,Heat Transfer,MECH,2
+STU00286,ME301,Thermodynamics,MECH,3
+STU00286,ME302,Fluid Mechanics,MECH,4
+STU00286,ME302,Fluid Mechanics,MECH,5
+STU00287,EE305,Circuit Theory,EEE,1
+STU00287,EE303,Electrical Machines,EEE,2
+STU00288,CE302,Geotechnical Eng,CIVIL,1
+STU00288,CE302,Geotechnical Eng,CIVIL,2
+STU00289,ME303,Machine Design,MECH,1
+STU00289,ME301,Thermodynamics,MECH,2
+STU00289,ME305,Heat Transfer,MECH,3
+STU00289,ME303,Machine Design,MECH,4
+STU00289,ME304,Manufacturing Tech,MECH,5
+STU00289,ME302,Fluid Mechanics,MECH,6
+STU00290,IT305,Mobile Computing,IT,1
+STU00290,IT305,Mobile Computing,IT,2
+STU00291,ME305,Heat Transfer,MECH,1
+STU00291,ME303,Machine Design,MECH,2
+STU00291,ME305,Heat Transfer,MECH,3
+STU00292,EC301,Signals and Systems,ECE,1
+STU00292,EC301,Signals and Systems,ECE,2
+STU00293,IT303,Software Engineering,IT,1
+STU00293,IT302,Cloud Computing,IT,2
+STU00293,IT305,Mobile Computing,IT,3
+STU00294,EE302,Control Systems,EEE,1
+STU00294,EE301,Power Systems,EEE,2
+STU00294,EE303,Electrical Machines,EEE,3
+STU00294,EE302,Control Systems,EEE,4
+STU00295,CS301,Data Structures,CSE,1
+STU00295,CS304,Computer Networks,CSE,2
+STU00295,CS305,Data Warehousing and Mining,CSE,3
+STU00295,CS301,Data Structures,CSE,4
+STU00295,CS302,DBMS,CSE,5
+STU00296,EC305,Microprocessors,ECE,1
+STU00296,EC304,VLSI Design,ECE,2
+STU00296,EC303,Communication Systems,ECE,3
+STU00296,EC304,VLSI Design,ECE,4
+STU00296,EC305,Microprocessors,ECE,5
+STU00296,EC301,Signals and Systems,ECE,6
+STU00297,IT305,Mobile Computing,IT,1
+STU00297,IT305,Mobile Computing,IT,2
+STU00298,ME303,Machine Design,MECH,1
+STU00298,ME303,Machine Design,MECH,2
+STU00299,CE302,Geotechnical Eng,CIVIL,1
+STU00299,CE303,Surveying,CIVIL,2
+STU00299,CE301,Structural Analysis,CIVIL,3
+STU00299,CE302,Geotechnical Eng,CIVIL,4
+STU00300,EE301,Power Systems,EEE,1
+STU00300,EE305,Circuit Theory,EEE,2
+STU00301,ME304,Manufacturing Tech,MECH,1
+STU00301,ME305,Heat Transfer,MECH,2
+STU00301,ME305,Heat Transfer,MECH,3
+STU00301,ME305,Heat Transfer,MECH,4
+STU00301,ME305,Heat Transfer,MECH,5
+STU00301,ME301,Thermodynamics,MECH,6
+STU00302,EE304,Power Electronics,EEE,1
+STU00302,EE303,Electrical Machines,EEE,2
+STU00302,EE304,Power Electronics,EEE,3
+STU00302,EE303,Electrical Machines,EEE,4
+STU00303,CE302,Geotechnical Eng,CIVIL,1
+STU00303,CE302,Geotechnical Eng,CIVIL,2
+STU00303,CE305,Transportation Eng,CIVIL,3
+STU00303,CE301,Structural Analysis,CIVIL,4
+STU00303,CE302,Geotechnical Eng,CIVIL,5
+STU00303,CE304,Concrete Tech,CIVIL,6
+STU00304,EE303,Electrical Machines,EEE,1
+STU00304,EE305,Circuit Theory,EEE,2
+STU00304,EE303,Electrical Machines,EEE,3
+STU00304,EE305,Circuit Theory,EEE,4
+STU00304,EE303,Electrical Machines,EEE,5
+STU00305,EC304,VLSI Design,ECE,1
+STU00305,EC301,Signals and Systems,ECE,2
+STU00305,EC301,Signals and Systems,ECE,3
+STU00305,EC301,Signals and Systems,ECE,4
+STU00306,EC301,Signals and Systems,ECE,1
+STU00306,EC303,Communication Systems,ECE,2
+STU00306,EC301,Signals and Systems,ECE,3
+STU00306,EC305,Microprocessors,ECE,4
+STU00306,EC304,VLSI Design,ECE,5
+STU00306,EC305,Microprocessors,ECE,6
+STU00307,CE301,Structural Analysis,CIVIL,1
+STU00307,CE301,Structural Analysis,CIVIL,2
+STU00307,CE305,Transportation Eng,CIVIL,3
+STU00307,CE302,Geotechnical Eng,CIVIL,4
+STU00307,CE305,Transportation Eng,CIVIL,5
+STU00308,EE305,Circuit Theory,EEE,1
+STU00308,EE302,Control Systems,EEE,2
+STU00308,EE303,Electrical Machines,EEE,3
+STU00309,EC303,Communication Systems,ECE,1
+STU00309,EC304,VLSI Design,ECE,2
+STU00309,EC304,VLSI Design,ECE,3
+STU00309,EC303,Communication Systems,ECE,4
+STU00309,EC303,Communication Systems,ECE,5
+STU00309,EC305,Microprocessors,ECE,6
+STU00310,EC303,Communication Systems,ECE,1
+STU00310,EC303,Communication Systems,ECE,2
+STU00310,EC302,Digital Electronics,ECE,3
+STU00310,EC305,Microprocessors,ECE,4
+STU00311,CS303,Operating Systems,CSE,1
+STU00311,CS304,Computer Networks,CSE,2
+STU00311,CS301,Data Structures,CSE,3
+STU00312,ME305,Heat Transfer,MECH,1
+STU00312,ME303,Machine Design,MECH,2
+STU00313,EC301,Signals and Systems,ECE,1
+STU00313,EC303,Communication Systems,ECE,2
+STU00313,EC304,VLSI Design,ECE,3
+STU00313,EC301,Signals and Systems,ECE,4
+STU00314,IT304,Information Security,IT,1
+STU00314,IT301,Web Technologies,IT,2
+STU00314,IT304,Information Security,IT,3
+STU00314,IT304,Information Security,IT,4
+STU00314,IT302,Cloud Computing,IT,5
+STU00315,IT304,Information Security,IT,1
+STU00315,IT303,Software Engineering,IT,2
+STU00315,IT303,Software Engineering,IT,3
+STU00316,EE305,Circuit Theory,EEE,1
+STU00316,EE301,Power Systems,EEE,2
+STU00316,EE304,Power Electronics,EEE,3
+STU00317,CE303,Surveying,CIVIL,1
+STU00317,CE301,Structural Analysis,CIVIL,2
+STU00317,CE302,Geotechnical Eng,CIVIL,3
+STU00318,ME303,Machine Design,MECH,1
+STU00318,ME302,Fluid Mechanics,MECH,2
+STU00318,ME304,Manufacturing Tech,MECH,3
+STU00319,CE302,Geotechnical Eng,CIVIL,1
+STU00319,CE304,Concrete Tech,CIVIL,2
+STU00320,ME304,Manufacturing Tech,MECH,1
+STU00320,ME305,Heat Transfer,MECH,2
+STU00321,IT303,Software Engineering,IT,1
+STU00321,IT305,Mobile Computing,IT,2
+STU00321,IT302,Cloud Computing,IT,3
+STU00322,CE301,Structural Analysis,CIVIL,1
+STU00322,CE302,Geotechnical Eng,CIVIL,2
+STU00323,IT301,Web Technologies,IT,1
+STU00323,IT301,Web Technologies,IT,2
+STU00323,IT304,Information Security,IT,3
+STU00323,IT304,Information Security,IT,4
+STU00323,IT303,Software Engineering,IT,5
+STU00323,IT304,Information Security,IT,6
+STU00324,EC302,Digital Electronics,ECE,1
+STU00324,EC305,Microprocessors,ECE,2
+STU00324,EC302,Digital Electronics,ECE,3
+STU00324,EC301,Signals and Systems,ECE,4
+STU00324,EC302,Digital Electronics,ECE,5
+STU00325,CE304,Concrete Tech,CIVIL,1
+STU00325,CE305,Transportation Eng,CIVIL,2
+STU00325,CE302,Geotechnical Eng,CIVIL,3
+STU00326,EC301,Signals and Systems,ECE,1
+STU00326,EC304,VLSI Design,ECE,2
+STU00326,EC303,Communication Systems,ECE,3
+STU00327,ME304,Manufacturing Tech,MECH,1
+STU00327,ME305,Heat Transfer,MECH,2
+STU00327,ME301,Thermodynamics,MECH,3
+STU00328,EE304,Power Electronics,EEE,1
+STU00328,EE302,Control Systems,EEE,2
+STU00328,EE303,Electrical Machines,EEE,3
+STU00328,EE304,Power Electronics,EEE,4
+STU00328,EE305,Circuit Theory,EEE,5
+STU00329,IT303,Software Engineering,IT,1
+STU00329,IT303,Software Engineering,IT,2
+STU00330,IT303,Software Engineering,IT,1
+STU00330,IT302,Cloud Computing,IT,2
+STU00330,IT301,Web Technologies,IT,3
+STU00330,IT301,Web Technologies,IT,4
+STU00331,EC303,Communication Systems,ECE,1
+STU00331,EC303,Communication Systems,ECE,2
+STU00332,EC305,Microprocessors,ECE,1
+STU00332,EC304,VLSI Design,ECE,2
+STU00332,EC303,Communication Systems,ECE,3
+STU00332,EC303,Communication Systems,ECE,4
+STU00333,CS301,Data Structures,CSE,1
+STU00333,CS301,Data Structures,CSE,2
+STU00333,CS303,Operating Systems,CSE,3
+STU00333,CS303,Operating Systems,CSE,4
+STU00334,IT303,Software Engineering,IT,1
+STU00334,IT305,Mobile Computing,IT,2
+STU00334,IT301,Web Technologies,IT,3
+STU00335,ME305,Heat Transfer,MECH,1
+STU00335,ME301,Thermodynamics,MECH,2
+STU00335,ME302,Fluid Mechanics,MECH,3
+STU00336,IT301,Web Technologies,IT,1
+STU00336,IT303,Software Engineering,IT,2
+STU00337,CE305,Transportation Eng,CIVIL,1
+STU00337,CE301,Structural Analysis,CIVIL,2
+STU00337,CE302,Geotechnical Eng,CIVIL,3
+STU00338,IT303,Software Engineering,IT,1
+STU00338,IT303,Software Engineering,IT,2
+STU00338,IT301,Web Technologies,IT,3
+STU00338,IT301,Web Technologies,IT,4
+STU00338,IT304,Information Security,IT,5
+STU00338,IT302,Cloud Computing,IT,6
+STU00339,ME303,Machine Design,MECH,1
+STU00339,ME305,Heat Transfer,MECH,2
+STU00339,ME302,Fluid Mechanics,MECH,3
+STU00340,EC305,Microprocessors,ECE,1
+STU00340,EC302,Digital Electronics,ECE,2
+STU00340,EC305,Microprocessors,ECE,3
+STU00340,EC305,Microprocessors,ECE,4
+STU00340,EC304,VLSI Design,ECE,5
+STU00341,CS302,DBMS,CSE,1
+STU00341,CS302,DBMS,CSE,2
+STU00341,CS305,Data Warehousing and Mining,CSE,3
+STU00342,CE304,Concrete Tech,CIVIL,1
+STU00342,CE303,Surveying,CIVIL,2
+STU00342,CE303,Surveying,CIVIL,3
+STU00342,CE305,Transportation Eng,CIVIL,4
+STU00342,CE302,Geotechnical Eng,CIVIL,5
+STU00342,CE301,Structural Analysis,CIVIL,6
+STU00343,IT301,Web Technologies,IT,1
+STU00343,IT303,Software Engineering,IT,2
+STU00343,IT303,Software Engineering,IT,3
+STU00343,IT302,Cloud Computing,IT,4
+STU00344,EC301,Signals and Systems,ECE,1
+STU00344,EC303,Communication Systems,ECE,2
+STU00344,EC303,Communication Systems,ECE,3
+STU00344,EC305,Microprocessors,ECE,4
+STU00344,EC302,Digital Electronics,ECE,5
+STU00344,EC305,Microprocessors,ECE,6
+STU00345,IT301,Web Technologies,IT,1
+STU00345,IT303,Software Engineering,IT,2
+STU00345,IT303,Software Engineering,IT,3
+STU00345,IT303,Software Engineering,IT,4
+STU00346,EC305,Microprocessors,ECE,1
+STU00346,EC304,VLSI Design,ECE,2
+STU00346,EC305,Microprocessors,ECE,3
+STU00346,EC304,VLSI Design,ECE,4
+STU00346,EC303,Communication Systems,ECE,5
+STU00346,EC302,Digital Electronics,ECE,6
+STU00347,ME304,Manufacturing Tech,MECH,1
+STU00347,ME304,Manufacturing Tech,MECH,2
+STU00347,ME302,Fluid Mechanics,MECH,3
+STU00348,ME304,Manufacturing Tech,MECH,1
+STU00348,ME304,Manufacturing Tech,MECH,2
+STU00349,ME302,Fluid Mechanics,MECH,1
+STU00349,ME302,Fluid Mechanics,MECH,2
+STU00349,ME301,Thermodynamics,MECH,3
+STU00350,ME302,Fluid Mechanics,MECH,1
+STU00350,ME305,Heat Transfer,MECH,2
+STU00350,ME301,Thermodynamics,MECH,3
+STU00351,EC304,VLSI Design,ECE,1
+STU00351,EC304,VLSI Design,ECE,2
+STU00352,IT305,Mobile Computing,IT,1
+STU00352,IT301,Web Technologies,IT,2
+STU00353,EE304,Power Electronics,EEE,1
+STU00353,EE301,Power Systems,EEE,2
+STU00353,EE301,Power Systems,EEE,3
+STU00353,EE302,Control Systems,EEE,4
+STU00353,EE303,Electrical Machines,EEE,5
+STU00354,CS301,Data Structures,CSE,1
+STU00354,CS301,Data Structures,CSE,2
+STU00354,CS301,Data Structures,CSE,3
+STU00354,CS302,DBMS,CSE,4
+STU00354,CS305,Data Warehousing and Mining,CSE,5
+STU00354,CS302,DBMS,CSE,6
+STU00355,EE304,Power Electronics,EEE,1
+STU00355,EE302,Control Systems,EEE,2
+STU00355,EE305,Circuit Theory,EEE,3
+STU00355,EE305,Circuit Theory,EEE,4
+STU00356,ME301,Thermodynamics,MECH,1
+STU00356,ME305,Heat Transfer,MECH,2
+STU00357,EE305,Circuit Theory,EEE,1
+STU00357,EE302,Control Systems,EEE,2
+STU00358,EC301,Signals and Systems,ECE,1
+STU00358,EC304,VLSI Design,ECE,2
+STU00358,EC302,Digital Electronics,ECE,3
+STU00359,EC302,Digital Electronics,ECE,1
+STU00359,EC301,Signals and Systems,ECE,2
+STU00359,EC302,Digital Electronics,ECE,3
+STU00359,EC302,Digital Electronics,ECE,4
+STU00360,ME303,Machine Design,MECH,1
+STU00360,ME305,Heat Transfer,MECH,2
+STU00360,ME301,Thermodynamics,MECH,3
+STU00360,ME301,Thermodynamics,MECH,4
+STU00361,EC302,Digital Electronics,ECE,1
+STU00361,EC304,VLSI Design,ECE,2
+STU00361,EC305,Microprocessors,ECE,3
+STU00361,EC304,VLSI Design,ECE,4
+STU00361,EC303,Communication Systems,ECE,5
+STU00361,EC303,Communication Systems,ECE,6
+STU00362,EC304,VLSI Design,ECE,1
+STU00362,EC303,Communication Systems,ECE,2
+STU00362,EC301,Signals and Systems,ECE,3
+STU00362,EC302,Digital Electronics,ECE,4
+STU00363,EE304,Power Electronics,EEE,1
+STU00363,EE304,Power Electronics,EEE,2
+STU00363,EE301,Power Systems,EEE,3
+STU00364,EC302,Digital Electronics,ECE,1
+STU00364,EC303,Communication Systems,ECE,2
+STU00364,EC302,Digital Electronics,ECE,3
+STU00364,EC303,Communication Systems,ECE,4
+STU00365,EE304,Power Electronics,EEE,1
+STU00365,EE304,Power Electronics,EEE,2
+STU00365,EE302,Control Systems,EEE,3
+STU00365,EE304,Power Electronics,EEE,4
+STU00365,EE305,Circuit Theory,EEE,5
+STU00366,CS305,Data Warehousing and Mining,CSE,1
+STU00366,CS305,Data Warehousing and Mining,CSE,2
+STU00366,CS304,Computer Networks,CSE,3
+STU00366,CS305,Data Warehousing and Mining,CSE,4
+STU00366,CS305,Data Warehousing and Mining,CSE,5
+STU00366,CS301,Data Structures,CSE,6
+STU00367,ME301,Thermodynamics,MECH,1
+STU00367,ME301,Thermodynamics,MECH,2
+STU00367,ME305,Heat Transfer,MECH,3
+STU00367,ME302,Fluid Mechanics,MECH,4
+STU00368,EE303,Electrical Machines,EEE,1
+STU00368,EE302,Control Systems,EEE,2
+STU00369,CE302,Geotechnical Eng,CIVIL,1
+STU00369,CE302,Geotechnical Eng,CIVIL,2
+STU00369,CE302,Geotechnical Eng,CIVIL,3
+STU00369,CE302,Geotechnical Eng,CIVIL,4
+STU00369,CE302,Geotechnical Eng,CIVIL,5
+STU00370,EE304,Power Electronics,EEE,1
+STU00370,EE301,Power Systems,EEE,2
+STU00371,EC301,Signals and Systems,ECE,1
+STU00371,EC305,Microprocessors,ECE,2
+STU00371,EC301,Signals and Systems,ECE,3
+STU00371,EC303,Communication Systems,ECE,4
+STU00371,EC301,Signals and Systems,ECE,5
+STU00371,EC301,Signals and Systems,ECE,6
+STU00372,CE304,Concrete Tech,CIVIL,1
+STU00372,CE302,Geotechnical Eng,CIVIL,2
+STU00372,CE302,Geotechnical Eng,CIVIL,3
+STU00372,CE304,Concrete Tech,CIVIL,4
+STU00372,CE303,Surveying,CIVIL,5
+STU00372,CE301,Structural Analysis,CIVIL,6
+STU00373,EE302,Control Systems,EEE,1
+STU00373,EE301,Power Systems,EEE,2
+STU00374,CS302,DBMS,CSE,1
+STU00374,CS304,Computer Networks,CSE,2
+STU00374,CS304,Computer Networks,CSE,3
+STU00374,CS305,Data Warehousing and Mining,CSE,4
+STU00374,CS302,DBMS,CSE,5
+STU00374,CS302,DBMS,CSE,6
+STU00375,IT305,Mobile Computing,IT,1
+STU00375,IT302,Cloud Computing,IT,2
+STU00376,CS305,Data Warehousing and Mining,CSE,1
+STU00376,CS302,DBMS,CSE,2
+STU00376,CS302,DBMS,CSE,3
+STU00376,CS304,Computer Networks,CSE,4
+STU00376,CS303,Operating Systems,CSE,5
+STU00377,CS302,DBMS,CSE,1
+STU00377,CS303,Operating Systems,CSE,2
+STU00377,CS302,DBMS,CSE,3
+STU00377,CS301,Data Structures,CSE,4
+STU00377,CS301,Data Structures,CSE,5
+STU00378,IT303,Software Engineering,IT,1
+STU00378,IT302,Cloud Computing,IT,2
+STU00378,IT302,Cloud Computing,IT,3
+STU00378,IT301,Web Technologies,IT,4
+STU00378,IT305,Mobile Computing,IT,5
+STU00378,IT303,Software Engineering,IT,6
+STU00379,ME302,Fluid Mechanics,MECH,1
+STU00379,ME302,Fluid Mechanics,MECH,2
+STU00379,ME301,Thermodynamics,MECH,3
+STU00379,ME305,Heat Transfer,MECH,4
+STU00379,ME301,Thermodynamics,MECH,5
+STU00379,ME303,Machine Design,MECH,6
+STU00380,ME301,Thermodynamics,MECH,1
+STU00380,ME303,Machine Design,MECH,2
+STU00380,ME305,Heat Transfer,MECH,3
+STU00380,ME303,Machine Design,MECH,4
+STU00381,CE302,Geotechnical Eng,CIVIL,1
+STU00381,CE303,Surveying,CIVIL,2
+STU00381,CE305,Transportation Eng,CIVIL,3
+STU00381,CE305,Transportation Eng,CIVIL,4
+STU00382,EE305,Circuit Theory,EEE,1
+STU00382,EE304,Power Electronics,EEE,2
+STU00383,CE302,Geotechnical Eng,CIVIL,1
+STU00383,CE304,Concrete Tech,CIVIL,2
+STU00383,CE301,Structural Analysis,CIVIL,3
+STU00383,CE302,Geotechnical Eng,CIVIL,4
+STU00384,EE305,Circuit Theory,EEE,1
+STU00384,EE304,Power Electronics,EEE,2
+STU00384,EE303,Electrical Machines,EEE,3
+STU00385,EE305,Circuit Theory,EEE,1
+STU00385,EE301,Power Systems,EEE,2
+STU00385,EE302,Control Systems,EEE,3
+STU00385,EE305,Circuit Theory,EEE,4
+STU00386,IT305,Mobile Computing,IT,1
+STU00386,IT301,Web Technologies,IT,2
+STU00386,IT302,Cloud Computing,IT,3
+STU00387,ME301,Thermodynamics,MECH,1
+STU00387,ME301,Thermodynamics,MECH,2
+STU00387,ME303,Machine Design,MECH,3
+STU00387,ME303,Machine Design,MECH,4
+STU00387,ME301,Thermodynamics,MECH,5
+STU00387,ME305,Heat Transfer,MECH,6
+STU00388,IT301,Web Technologies,IT,1
+STU00388,IT302,Cloud Computing,IT,2
+STU00388,IT303,Software Engineering,IT,3
+STU00388,IT303,Software Engineering,IT,4
+STU00389,CE301,Structural Analysis,CIVIL,1
+STU00389,CE301,Structural Analysis,CIVIL,2
+STU00389,CE303,Surveying,CIVIL,3
+STU00390,EC305,Microprocessors,ECE,1
+STU00390,EC304,VLSI Design,ECE,2
+STU00390,EC305,Microprocessors,ECE,3
+STU00390,EC303,Communication Systems,ECE,4
+STU00390,EC304,VLSI Design,ECE,5
+STU00391,EE301,Power Systems,EEE,1
+STU00391,EE302,Control Systems,EEE,2
+STU00391,EE302,Control Systems,EEE,3
+STU00391,EE303,Electrical Machines,EEE,4
+STU00392,EC305,Microprocessors,ECE,1
+STU00392,EC301,Signals and Systems,ECE,2
+STU00392,EC304,VLSI Design,ECE,3
+STU00393,ME303,Machine Design,MECH,1
+STU00393,ME304,Manufacturing Tech,MECH,2
+STU00394,EE301,Power Systems,EEE,1
+STU00394,EE301,Power Systems,EEE,2
+STU00395,IT302,Cloud Computing,IT,1
+STU00395,IT303,Software Engineering,IT,2
+STU00395,IT303,Software Engineering,IT,3
+STU00395,IT305,Mobile Computing,IT,4
+STU00395,IT302,Cloud Computing,IT,5
+STU00396,CE303,Surveying,CIVIL,1
+STU00396,CE301,Structural Analysis,CIVIL,2
+STU00397,ME302,Fluid Mechanics,MECH,1
+STU00397,ME303,Machine Design,MECH,2
+STU00397,ME305,Heat Transfer,MECH,3
+STU00397,ME301,Thermodynamics,MECH,4
+STU00397,ME304,Manufacturing Tech,MECH,5
+STU00398,IT301,Web Technologies,IT,1
+STU00398,IT301,Web Technologies,IT,2
+STU00398,IT303,Software Engineering,IT,3
+STU00399,EE301,Power Systems,EEE,1
+STU00399,EE301,Power Systems,EEE,2
+STU00399,EE304,Power Electronics,EEE,3
+STU00400,CS304,Computer Networks,CSE,1
+STU00400,CS305,Data Warehousing and Mining,CSE,2
+STU00400,CS303,Operating Systems,CSE,3
+STU00400,CS301,Data Structures,CSE,4
+STU00401,CS303,Operating Systems,CSE,1
+STU00401,CS302,DBMS,CSE,2
+STU00401,CS303,Operating Systems,CSE,3
+STU00401,CS304,Computer Networks,CSE,4
+STU00401,CS305,Data Warehousing and Mining,CSE,5
+STU00402,CE303,Surveying,CIVIL,1
+STU00402,CE301,Structural Analysis,CIVIL,2
+STU00402,CE301,Structural Analysis,CIVIL,3
+STU00402,CE303,Surveying,CIVIL,4
+STU00402,CE301,Structural Analysis,CIVIL,5
+STU00403,EC302,Digital Electronics,ECE,1
+STU00403,EC303,Communication Systems,ECE,2
+STU00403,EC304,VLSI Design,ECE,3
+STU00403,EC305,Microprocessors,ECE,4
+STU00403,EC304,VLSI Design,ECE,5
+STU00404,CE305,Transportation Eng,CIVIL,1
+STU00404,CE301,Structural Analysis,CIVIL,2
+STU00404,CE302,Geotechnical Eng,CIVIL,3
+STU00404,CE305,Transportation Eng,CIVIL,4
+STU00404,CE305,Transportation Eng,CIVIL,5
+STU00405,CE303,Surveying,CIVIL,1
+STU00405,CE302,Geotechnical Eng,CIVIL,2
+STU00405,CE303,Surveying,CIVIL,3
+STU00406,CE303,Surveying,CIVIL,1
+STU00406,CE305,Transportation Eng,CIVIL,2
+STU00407,ME304,Manufacturing Tech,MECH,1
+STU00407,ME304,Manufacturing Tech,MECH,2
+STU00407,ME303,Machine Design,MECH,3
+STU00407,ME305,Heat Transfer,MECH,4
+STU00407,ME301,Thermodynamics,MECH,5
+STU00408,CS304,Computer Networks,CSE,1
+STU00408,CS302,DBMS,CSE,2
+STU00408,CS305,Data Warehousing and Mining,CSE,3
+STU00408,CS304,Computer Networks,CSE,4
+STU00408,CS304,Computer Networks,CSE,5
+STU00409,ME301,Thermodynamics,MECH,1
+STU00409,ME301,Thermodynamics,MECH,2
+STU00409,ME301,Thermodynamics,MECH,3
+STU00409,ME301,Thermodynamics,MECH,4
+STU00409,ME305,Heat Transfer,MECH,5
+STU00409,ME304,Manufacturing Tech,MECH,6
+STU00410,CE304,Concrete Tech,CIVIL,1
+STU00410,CE302,Geotechnical Eng,CIVIL,2
+STU00410,CE305,Transportation Eng,CIVIL,3
+STU00410,CE301,Structural Analysis,CIVIL,4
+STU00411,CE301,Structural Analysis,CIVIL,1
+STU00411,CE304,Concrete Tech,CIVIL,2
+STU00411,CE304,Concrete Tech,CIVIL,3
+STU00411,CE303,Surveying,CIVIL,4
+STU00411,CE305,Transportation Eng,CIVIL,5
+STU00412,EC303,Communication Systems,ECE,1
+STU00412,EC304,VLSI Design,ECE,2
+STU00412,EC301,Signals and Systems,ECE,3
+STU00412,EC301,Signals and Systems,ECE,4
+STU00413,EE302,Control Systems,EEE,1
+STU00413,EE305,Circuit Theory,EEE,2
+STU00414,CS302,DBMS,CSE,1
+STU00414,CS302,DBMS,CSE,2
+STU00414,CS302,DBMS,CSE,3
+STU00414,CS301,Data Structures,CSE,4
+STU00415,CS304,Computer Networks,CSE,1
+STU00415,CS304,Computer Networks,CSE,2
+STU00415,CS305,Data Warehousing and Mining,CSE,3
+STU00416,CS302,DBMS,CSE,1
+STU00416,CS302,DBMS,CSE,2
+STU00416,CS305,Data Warehousing and Mining,CSE,3
+STU00416,CS303,Operating Systems,CSE,4
+STU00416,CS303,Operating Systems,CSE,5
+STU00417,CS301,Data Structures,CSE,1
+STU00417,CS304,Computer Networks,CSE,2
+STU00418,EC302,Digital Electronics,ECE,1
+STU00418,EC305,Microprocessors,ECE,2
+STU00418,EC305,Microprocessors,ECE,3
+STU00418,EC301,Signals and Systems,ECE,4
+STU00418,EC304,VLSI Design,ECE,5
+STU00418,EC302,Digital Electronics,ECE,6
+STU00419,ME303,Machine Design,MECH,1
+STU00419,ME305,Heat Transfer,MECH,2
+STU00419,ME304,Manufacturing Tech,MECH,3
+STU00420,EE303,Electrical Machines,EEE,1
+STU00420,EE302,Control Systems,EEE,2
+STU00421,EE301,Power Systems,EEE,1
+STU00421,EE304,Power Electronics,EEE,2
+STU00421,EE301,Power Systems,EEE,3
+STU00421,EE303,Electrical Machines,EEE,4
+STU00421,EE302,Control Systems,EEE,5
+STU00421,EE301,Power Systems,EEE,6
+STU00422,CS302,DBMS,CSE,1
+STU00422,CS301,Data Structures,CSE,2
+STU00422,CS301,Data Structures,CSE,3
+STU00422,CS301,Data Structures,CSE,4
+STU00423,EE302,Control Systems,EEE,1
+STU00423,EE304,Power Electronics,EEE,2
+STU00424,EC302,Digital Electronics,ECE,1
+STU00424,EC303,Communication Systems,ECE,2
+STU00424,EC302,Digital Electronics,ECE,3
+STU00424,EC301,Signals and Systems,ECE,4
+STU00424,EC303,Communication Systems,ECE,5
+STU00425,CS305,Data Warehousing and Mining,CSE,1
+STU00425,CS302,DBMS,CSE,2
+STU00425,CS301,Data Structures,CSE,3
+STU00425,CS305,Data Warehousing and Mining,CSE,4
+STU00425,CS305,Data Warehousing and Mining,CSE,5
+STU00425,CS305,Data Warehousing and Mining,CSE,6
+STU00426,ME303,Machine Design,MECH,1
+STU00426,ME302,Fluid Mechanics,MECH,2
+STU00426,ME303,Machine Design,MECH,3
+STU00427,CS301,Data Structures,CSE,1
+STU00427,CS303,Operating Systems,CSE,2
+STU00427,CS304,Computer Networks,CSE,3
+STU00428,EE303,Electrical Machines,EEE,1
+STU00428,EE304,Power Electronics,EEE,2
+STU00429,IT305,Mobile Computing,IT,1
+STU00429,IT302,Cloud Computing,IT,2
+STU00429,IT302,Cloud Computing,IT,3
+STU00429,IT303,Software Engineering,IT,4
+STU00429,IT301,Web Technologies,IT,5
+STU00430,ME302,Fluid Mechanics,MECH,1
+STU00430,ME304,Manufacturing Tech,MECH,2
+STU00430,ME304,Manufacturing Tech,MECH,3
+STU00431,CE305,Transportation Eng,CIVIL,1
+STU00431,CE305,Transportation Eng,CIVIL,2
+STU00431,CE304,Concrete Tech,CIVIL,3
+STU00431,CE305,Transportation Eng,CIVIL,4
+STU00432,EE301,Power Systems,EEE,1
+STU00432,EE302,Control Systems,EEE,2
+STU00432,EE305,Circuit Theory,EEE,3
+STU00432,EE305,Circuit Theory,EEE,4
+STU00433,EE305,Circuit Theory,EEE,1
+STU00433,EE304,Power Electronics,EEE,2
+STU00433,EE301,Power Systems,EEE,3
+STU00433,EE303,Electrical Machines,EEE,4
+STU00434,EE303,Electrical Machines,EEE,1
+STU00434,EE301,Power Systems,EEE,2
+STU00434,EE303,Electrical Machines,EEE,3
+STU00435,ME303,Machine Design,MECH,1
+STU00435,ME301,Thermodynamics,MECH,2
+STU00435,ME301,Thermodynamics,MECH,3
+STU00436,EC304,VLSI Design,ECE,1
+STU00436,EC302,Digital Electronics,ECE,2
+STU00436,EC304,VLSI Design,ECE,3
+STU00437,CS302,DBMS,CSE,1
+STU00437,CS301,Data Structures,CSE,2
+STU00437,CS305,Data Warehousing and Mining,CSE,3
+STU00437,CS305,Data Warehousing and Mining,CSE,4
+STU00437,CS304,Computer Networks,CSE,5
+STU00437,CS303,Operating Systems,CSE,6
+STU00438,CE301,Structural Analysis,CIVIL,1
+STU00438,CE304,Concrete Tech,CIVIL,2
+STU00438,CE303,Surveying,CIVIL,3
+STU00439,EE301,Power Systems,EEE,1
+STU00439,EE302,Control Systems,EEE,2
+STU00440,EC304,VLSI Design,ECE,1
+STU00440,EC305,Microprocessors,ECE,2
+STU00440,EC303,Communication Systems,ECE,3
+STU00440,EC305,Microprocessors,ECE,4
+STU00440,EC304,VLSI Design,ECE,5
+STU00440,EC302,Digital Electronics,ECE,6
+STU00441,CS305,Data Warehousing and Mining,CSE,1
+STU00441,CS303,Operating Systems,CSE,2
+STU00442,CS304,Computer Networks,CSE,1
+STU00442,CS304,Computer Networks,CSE,2
+STU00443,IT303,Software Engineering,IT,1
+STU00443,IT304,Information Security,IT,2
+STU00443,IT305,Mobile Computing,IT,3
+STU00443,IT304,Information Security,IT,4
+STU00444,CE303,Surveying,CIVIL,1
+STU00444,CE304,Concrete Tech,CIVIL,2
+STU00444,CE303,Surveying,CIVIL,3
+STU00444,CE301,Structural Analysis,CIVIL,4
+STU00444,CE301,Structural Analysis,CIVIL,5
+STU00445,CE301,Structural Analysis,CIVIL,1
+STU00445,CE304,Concrete Tech,CIVIL,2
+STU00445,CE302,Geotechnical Eng,CIVIL,3
+STU00446,ME303,Machine Design,MECH,1
+STU00446,ME301,Thermodynamics,MECH,2
+STU00446,ME301,Thermodynamics,MECH,3
+STU00447,ME303,Machine Design,MECH,1
+STU00447,ME303,Machine Design,MECH,2
+STU00448,CE304,Concrete Tech,CIVIL,1
+STU00448,CE302,Geotechnical Eng,CIVIL,2
+STU00448,CE305,Transportation Eng,CIVIL,3
+STU00448,CE301,Structural Analysis,CIVIL,4
+STU00448,CE303,Surveying,CIVIL,5
+STU00448,CE305,Transportation Eng,CIVIL,6
+STU00449,EE301,Power Systems,EEE,1
+STU00449,EE305,Circuit Theory,EEE,2
+STU00449,EE304,Power Electronics,EEE,3
+STU00449,EE303,Electrical Machines,EEE,4
+STU00449,EE302,Control Systems,EEE,5
+STU00450,EE303,Electrical Machines,EEE,1
+STU00450,EE303,Electrical Machines,EEE,2
+STU00450,EE302,Control Systems,EEE,3
+STU00450,EE301,Power Systems,EEE,4
+STU00451,EC302,Digital Electronics,ECE,1
+STU00451,EC302,Digital Electronics,ECE,2
+STU00452,CS302,DBMS,CSE,1
+STU00452,CS301,Data Structures,CSE,2
+STU00452,CS302,DBMS,CSE,3
+STU00452,CS303,Operating Systems,CSE,4
+STU00452,CS302,DBMS,CSE,5
+STU00453,IT302,Cloud Computing,IT,1
+STU00453,IT304,Information Security,IT,2
+STU00453,IT305,Mobile Computing,IT,3
+STU00454,CS302,DBMS,CSE,1
+STU00454,CS303,Operating Systems,CSE,2
+STU00454,CS302,DBMS,CSE,3
+STU00454,CS305,Data Warehousing and Mining,CSE,4
+STU00454,CS302,DBMS,CSE,5
+STU00455,IT301,Web Technologies,IT,1
+STU00455,IT301,Web Technologies,IT,2
+STU00456,ME303,Machine Design,MECH,1
+STU00456,ME304,Manufacturing Tech,MECH,2
+STU00456,ME303,Machine Design,MECH,3
+STU00457,CE305,Transportation Eng,CIVIL,1
+STU00457,CE303,Surveying,CIVIL,2
+STU00458,ME302,Fluid Mechanics,MECH,1
+STU00458,ME305,Heat Transfer,MECH,2
+STU00458,ME305,Heat Transfer,MECH,3
+STU00459,CS304,Computer Networks,CSE,1
+STU00459,CS303,Operating Systems,CSE,2
+STU00460,IT304,Information Security,IT,1
+STU00460,IT302,Cloud Computing,IT,2
+STU00461,ME304,Manufacturing Tech,MECH,1
+STU00461,ME305,Heat Transfer,MECH,2
+STU00461,ME305,Heat Transfer,MECH,3
+STU00462,CS304,Computer Networks,CSE,1
+STU00462,CS301,Data Structures,CSE,2
+STU00462,CS301,Data Structures,CSE,3
+STU00462,CS301,Data Structures,CSE,4
+STU00462,CS301,Data Structures,CSE,5
+STU00462,CS302,DBMS,CSE,6
+STU00463,EE301,Power Systems,EEE,1
+STU00463,EE302,Control Systems,EEE,2
+STU00463,EE304,Power Electronics,EEE,3
+STU00463,EE301,Power Systems,EEE,4
+STU00463,EE303,Electrical Machines,EEE,5
+STU00463,EE302,Control Systems,EEE,6
+STU00464,IT303,Software Engineering,IT,1
+STU00464,IT305,Mobile Computing,IT,2
+STU00464,IT301,Web Technologies,IT,3
+STU00465,EC305,Microprocessors,ECE,1
+STU00465,EC303,Communication Systems,ECE,2
+STU00465,EC302,Digital Electronics,ECE,3
+STU00466,CE302,Geotechnical Eng,CIVIL,1
+STU00466,CE303,Surveying,CIVIL,2
+STU00467,ME301,Thermodynamics,MECH,1
+STU00467,ME304,Manufacturing Tech,MECH,2
+STU00467,ME301,Thermodynamics,MECH,3
+STU00468,ME301,Thermodynamics,MECH,1
+STU00468,ME301,Thermodynamics,MECH,2
+STU00468,ME304,Manufacturing Tech,MECH,3
+STU00468,ME304,Manufacturing Tech,MECH,4
+STU00469,IT301,Web Technologies,IT,1
+STU00469,IT301,Web Technologies,IT,2
+STU00469,IT302,Cloud Computing,IT,3
+STU00469,IT302,Cloud Computing,IT,4
+STU00469,IT301,Web Technologies,IT,5
+STU00470,ME304,Manufacturing Tech,MECH,1
+STU00470,ME303,Machine Design,MECH,2
+STU00470,ME304,Manufacturing Tech,MECH,3
+STU00470,ME303,Machine Design,MECH,4
+STU00471,IT303,Software Engineering,IT,1
+STU00471,IT303,Software Engineering,IT,2
+STU00472,ME303,Machine Design,MECH,1
+STU00472,ME302,Fluid Mechanics,MECH,2
+STU00473,CE302,Geotechnical Eng,CIVIL,1
+STU00473,CE304,Concrete Tech,CIVIL,2
+STU00473,CE302,Geotechnical Eng,CIVIL,3
+STU00474,EE302,Control Systems,EEE,1
+STU00474,EE302,Control Systems,EEE,2
+STU00474,EE301,Power Systems,EEE,3
+STU00474,EE305,Circuit Theory,EEE,4
+STU00475,EC302,Digital Electronics,ECE,1
+STU00475,EC303,Communication Systems,ECE,2
+STU00475,EC304,VLSI Design,ECE,3
+STU00475,EC303,Communication Systems,ECE,4
+STU00475,EC302,Digital Electronics,ECE,5
+STU00475,EC305,Microprocessors,ECE,6
+STU00476,CS301,Data Structures,CSE,1
+STU00476,CS304,Computer Networks,CSE,2
+STU00476,CS303,Operating Systems,CSE,3
+STU00476,CS301,Data Structures,CSE,4
+STU00476,CS302,DBMS,CSE,5
+STU00476,CS302,DBMS,CSE,6
+STU00477,CE305,Transportation Eng,CIVIL,1
+STU00477,CE303,Surveying,CIVIL,2
+STU00477,CE303,Surveying,CIVIL,3
+STU00477,CE303,Surveying,CIVIL,4
+STU00477,CE304,Concrete Tech,CIVIL,5
+STU00477,CE302,Geotechnical Eng,CIVIL,6
+STU00478,EC301,Signals and Systems,ECE,1
+STU00478,EC304,VLSI Design,ECE,2
+STU00478,EC301,Signals and Systems,ECE,3
+STU00478,EC303,Communication Systems,ECE,4
+STU00478,EC301,Signals and Systems,ECE,5
+STU00478,EC302,Digital Electronics,ECE,6
+STU00479,ME305,Heat Transfer,MECH,1
+STU00479,ME301,Thermodynamics,MECH,2
+STU00479,ME302,Fluid Mechanics,MECH,3
+STU00479,ME304,Manufacturing Tech,MECH,4
+STU00480,CE302,Geotechnical Eng,CIVIL,1
+STU00480,CE304,Concrete Tech,CIVIL,2
+STU00480,CE302,Geotechnical Eng,CIVIL,3
+STU00480,CE304,Concrete Tech,CIVIL,4
+STU00481,ME303,Machine Design,MECH,1
+STU00481,ME305,Heat Transfer,MECH,2
+STU00482,IT305,Mobile Computing,IT,1
+STU00482,IT303,Software Engineering,IT,2
+STU00482,IT302,Cloud Computing,IT,3
+STU00483,ME304,Manufacturing Tech,MECH,1
+STU00483,ME303,Machine Design,MECH,2
+STU00483,ME301,Thermodynamics,MECH,3
+STU00484,CE304,Concrete Tech,CIVIL,1
+STU00484,CE304,Concrete Tech,CIVIL,2
+STU00484,CE301,Structural Analysis,CIVIL,3
+STU00484,CE305,Transportation Eng,CIVIL,4
+STU00484,CE303,Surveying,CIVIL,5
+STU00484,CE304,Concrete Tech,CIVIL,6
+STU00485,EE304,Power Electronics,EEE,1
+STU00485,EE304,Power Electronics,EEE,2
+STU00485,EE301,Power Systems,EEE,3
+STU00485,EE304,Power Electronics,EEE,4
+STU00485,EE302,Control Systems,EEE,5
+STU00486,EC305,Microprocessors,ECE,1
+STU00486,EC302,Digital Electronics,ECE,2
+STU00486,EC301,Signals and Systems,ECE,3
+STU00487,ME304,Manufacturing Tech,MECH,1
+STU00487,ME304,Manufacturing Tech,MECH,2
+STU00487,ME301,Thermodynamics,MECH,3
+STU00488,EC303,Communication Systems,ECE,1
+STU00488,EC303,Communication Systems,ECE,2
+STU00489,EE305,Circuit Theory,EEE,1
+STU00489,EE303,Electrical Machines,EEE,2
+STU00489,EE301,Power Systems,EEE,3
+STU00489,EE302,Control Systems,EEE,4
+STU00490,EE304,Power Electronics,EEE,1
+STU00490,EE302,Control Systems,EEE,2
+STU00490,EE303,Electrical Machines,EEE,3
+STU00490,EE301,Power Systems,EEE,4
+STU00490,EE305,Circuit Theory,EEE,5
+STU00490,EE301,Power Systems,EEE,6
+STU00491,EE302,Control Systems,EEE,1
+STU00491,EE305,Circuit Theory,EEE,2
+STU00492,CE302,Geotechnical Eng,CIVIL,1
+STU00492,CE304,Concrete Tech,CIVIL,2
+STU00492,CE305,Transportation Eng,CIVIL,3
+STU00493,IT301,Web Technologies,IT,1
+STU00493,IT303,Software Engineering,IT,2
+STU00493,IT304,Information Security,IT,3
+STU00493,IT302,Cloud Computing,IT,4
+STU00493,IT305,Mobile Computing,IT,5
+STU00494,CS301,Data Structures,CSE,1
+STU00494,CS302,DBMS,CSE,2
+STU00494,CS302,DBMS,CSE,3
+STU00494,CS302,DBMS,CSE,4
+STU00494,CS305,Data Warehousing and Mining,CSE,5
+STU00494,CS304,Computer Networks,CSE,6
+STU00495,ME303,Machine Design,MECH,1
+STU00495,ME305,Heat Transfer,MECH,2
+STU00495,ME303,Machine Design,MECH,3
+STU00495,ME304,Manufacturing Tech,MECH,4
+STU00496,IT304,Information Security,IT,1
+STU00496,IT304,Information Security,IT,2
+STU00497,CS303,Operating Systems,CSE,1
+STU00497,CS301,Data Structures,CSE,2
+STU00498,CE305,Transportation Eng,CIVIL,1
+STU00498,CE301,Structural Analysis,CIVIL,2
+STU00499,EE303,Electrical Machines,EEE,1
+STU00499,EE304,Power Electronics,EEE,2
+STU00500,ME301,Thermodynamics,MECH,1
+STU00500,ME303,Machine Design,MECH,2
+STU00500,ME303,Machine Design,MECH,3
+STU00500,ME305,Heat Transfer,MECH,4
+STU00501,CS302,DBMS,CSE,1
+STU00501,CS305,Data Warehousing and Mining,CSE,2
+STU00501,CS304,Computer Networks,CSE,3
+STU00502,CE303,Surveying,CIVIL,1
+STU00502,CE301,Structural Analysis,CIVIL,2
+STU00502,CE304,Concrete Tech,CIVIL,3
+STU00502,CE305,Transportation Eng,CIVIL,4
+STU00503,CS305,Data Warehousing and Mining,CSE,1
+STU00503,CS302,DBMS,CSE,2
+STU00503,CS305,Data Warehousing and Mining,CSE,3
+STU00503,CS305,Data Warehousing and Mining,CSE,4
+STU00503,CS301,Data Structures,CSE,5
+STU00503,CS301,Data Structures,CSE,6
+STU00504,CS301,Data Structures,CSE,1
+STU00504,CS304,Computer Networks,CSE,2
+STU00504,CS303,Operating Systems,CSE,3
+STU00505,EE301,Power Systems,EEE,1
+STU00505,EE304,Power Electronics,EEE,2
+STU00505,EE301,Power Systems,EEE,3
+STU00506,EE303,Electrical Machines,EEE,1
+STU00506,EE301,Power Systems,EEE,2
+STU00506,EE304,Power Electronics,EEE,3
+STU00506,EE305,Circuit Theory,EEE,4
+STU00506,EE302,Control Systems,EEE,5
+STU00506,EE301,Power Systems,EEE,6
+STU00507,EC302,Digital Electronics,ECE,1
+STU00507,EC302,Digital Electronics,ECE,2
+STU00507,EC304,VLSI Design,ECE,3
+STU00507,EC303,Communication Systems,ECE,4
+STU00507,EC302,Digital Electronics,ECE,5
+STU00508,IT305,Mobile Computing,IT,1
+STU00508,IT301,Web Technologies,IT,2
+STU00508,IT301,Web Technologies,IT,3
+STU00508,IT301,Web Technologies,IT,4
+STU00508,IT301,Web Technologies,IT,5
+STU00509,EE305,Circuit Theory,EEE,1
+STU00509,EE303,Electrical Machines,EEE,2
+STU00509,EE305,Circuit Theory,EEE,3
+STU00509,EE302,Control Systems,EEE,4
+STU00509,EE305,Circuit Theory,EEE,5
+STU00510,IT303,Software Engineering,IT,1
+STU00510,IT305,Mobile Computing,IT,2
+STU00510,IT301,Web Technologies,IT,3
+STU00510,IT304,Information Security,IT,4
+STU00510,IT301,Web Technologies,IT,5
+STU00510,IT302,Cloud Computing,IT,6
+STU00511,CS301,Data Structures,CSE,1
+STU00511,CS302,DBMS,CSE,2
+STU00512,EC305,Microprocessors,ECE,1
+STU00512,EC301,Signals and Systems,ECE,2
+STU00512,EC303,Communication Systems,ECE,3
+STU00512,EC304,VLSI Design,ECE,4
+STU00512,EC301,Signals and Systems,ECE,5
+STU00512,EC303,Communication Systems,ECE,6
+STU00513,EE305,Circuit Theory,EEE,1
+STU00513,EE305,Circuit Theory,EEE,2
+STU00513,EE304,Power Electronics,EEE,3
+STU00513,EE305,Circuit Theory,EEE,4
+STU00513,EE305,Circuit Theory,EEE,5
+STU00513,EE303,Electrical Machines,EEE,6
+STU00514,EE303,Electrical Machines,EEE,1
+STU00514,EE303,Electrical Machines,EEE,2
+STU00515,CE301,Structural Analysis,CIVIL,1
+STU00515,CE302,Geotechnical Eng,CIVIL,2
+STU00515,CE301,Structural Analysis,CIVIL,3
+STU00515,CE304,Concrete Tech,CIVIL,4
+STU00516,IT305,Mobile Computing,IT,1
+STU00516,IT303,Software Engineering,IT,2
+STU00516,IT304,Information Security,IT,3
+STU00516,IT305,Mobile Computing,IT,4
+STU00516,IT302,Cloud Computing,IT,5
+STU00516,IT301,Web Technologies,IT,6
+STU00517,ME304,Manufacturing Tech,MECH,1
+STU00517,ME303,Machine Design,MECH,2
+STU00518,CS303,Operating Systems,CSE,1
+STU00518,CS301,Data Structures,CSE,2
+STU00518,CS301,Data Structures,CSE,3
+STU00518,CS305,Data Warehousing and Mining,CSE,4
+STU00518,CS301,Data Structures,CSE,5
+STU00519,IT304,Information Security,IT,1
+STU00519,IT302,Cloud Computing,IT,2
+STU00520,CE305,Transportation Eng,CIVIL,1
+STU00520,CE301,Structural Analysis,CIVIL,2
+STU00520,CE301,Structural Analysis,CIVIL,3
+STU00520,CE303,Surveying,CIVIL,4
+STU00520,CE303,Surveying,CIVIL,5
+STU00521,ME302,Fluid Mechanics,MECH,1
+STU00521,ME301,Thermodynamics,MECH,2
+STU00522,EC304,VLSI Design,ECE,1
+STU00522,EC301,Signals and Systems,ECE,2
+STU00522,EC301,Signals and Systems,ECE,3
+STU00523,ME302,Fluid Mechanics,MECH,1
+STU00523,ME302,Fluid Mechanics,MECH,2
+STU00524,CS303,Operating Systems,CSE,1
+STU00524,CS305,Data Warehousing and Mining,CSE,2
+STU00525,CS302,DBMS,CSE,1
+STU00525,CS304,Computer Networks,CSE,2
+STU00525,CS301,Data Structures,CSE,3
+STU00525,CS303,Operating Systems,CSE,4
+STU00526,ME303,Machine Design,MECH,1
+STU00526,ME304,Manufacturing Tech,MECH,2
+STU00526,ME303,Machine Design,MECH,3
+STU00526,ME302,Fluid Mechanics,MECH,4
+STU00526,ME303,Machine Design,MECH,5
+STU00527,EE303,Electrical Machines,EEE,1
+STU00527,EE305,Circuit Theory,EEE,2
+STU00528,IT301,Web Technologies,IT,1
+STU00528,IT302,Cloud Computing,IT,2
+STU00528,IT303,Software Engineering,IT,3
+STU00528,IT301,Web Technologies,IT,4
+STU00529,CE301,Structural Analysis,CIVIL,1
+STU00529,CE304,Concrete Tech,CIVIL,2
+STU00529,CE301,Structural Analysis,CIVIL,3
+STU00530,ME301,Thermodynamics,MECH,1
+STU00530,ME303,Machine Design,MECH,2
+STU00530,ME303,Machine Design,MECH,3
+STU00530,ME301,Thermodynamics,MECH,4
+STU00530,ME305,Heat Transfer,MECH,5
+STU00531,EC301,Signals and Systems,ECE,1
+STU00531,EC304,VLSI Design,ECE,2
+STU00531,EC301,Signals and Systems,ECE,3
+STU00531,EC302,Digital Electronics,ECE,4
+STU00531,EC302,Digital Electronics,ECE,5
+STU00532,ME301,Thermodynamics,MECH,1
+STU00532,ME301,Thermodynamics,MECH,2
+STU00532,ME301,Thermodynamics,MECH,3
+STU00532,ME303,Machine Design,MECH,4
+STU00532,ME301,Thermodynamics,MECH,5
+STU00532,ME305,Heat Transfer,MECH,6
+STU00533,IT301,Web Technologies,IT,1
+STU00533,IT305,Mobile Computing,IT,2
+STU00533,IT303,Software Engineering,IT,3
+STU00533,IT304,Information Security,IT,4
+STU00533,IT302,Cloud Computing,IT,5
+STU00534,ME302,Fluid Mechanics,MECH,1
+STU00534,ME301,Thermodynamics,MECH,2
+STU00534,ME303,Machine Design,MECH,3
+STU00534,ME302,Fluid Mechanics,MECH,4
+STU00534,ME303,Machine Design,MECH,5
+STU00535,EC305,Microprocessors,ECE,1
+STU00535,EC303,Communication Systems,ECE,2
+STU00536,ME305,Heat Transfer,MECH,1
+STU00536,ME301,Thermodynamics,MECH,2
+STU00536,ME305,Heat Transfer,MECH,3
+STU00536,ME303,Machine Design,MECH,4
+STU00537,ME304,Manufacturing Tech,MECH,1
+STU00537,ME304,Manufacturing Tech,MECH,2
+STU00537,ME304,Manufacturing Tech,MECH,3
+STU00537,ME303,Machine Design,MECH,4
+STU00537,ME305,Heat Transfer,MECH,5
+STU00538,CE301,Structural Analysis,CIVIL,1
+STU00538,CE303,Surveying,CIVIL,2
+STU00538,CE301,Structural Analysis,CIVIL,3
+STU00538,CE302,Geotechnical Eng,CIVIL,4
+STU00538,CE303,Surveying,CIVIL,5
+STU00539,EE302,Control Systems,EEE,1
+STU00539,EE302,Control Systems,EEE,2
+STU00539,EE305,Circuit Theory,EEE,3
+STU00539,EE302,Control Systems,EEE,4
+STU00539,EE301,Power Systems,EEE,5
+STU00540,EC304,VLSI Design,ECE,1
+STU00540,EC301,Signals and Systems,ECE,2
+STU00540,EC301,Signals and Systems,ECE,3
+STU00540,EC303,Communication Systems,ECE,4
+STU00540,EC303,Communication Systems,ECE,5
+STU00540,EC305,Microprocessors,ECE,6
+STU00541,CS301,Data Structures,CSE,1
+STU00541,CS305,Data Warehousing and Mining,CSE,2
+STU00541,CS301,Data Structures,CSE,3
+STU00541,CS302,DBMS,CSE,4
+STU00542,CE305,Transportation Eng,CIVIL,1
+STU00542,CE304,Concrete Tech,CIVIL,2
+STU00542,CE304,Concrete Tech,CIVIL,3
+STU00542,CE302,Geotechnical Eng,CIVIL,4
+STU00543,CS305,Data Warehousing and Mining,CSE,1
+STU00543,CS303,Operating Systems,CSE,2
+STU00543,CS303,Operating Systems,CSE,3
+STU00543,CS303,Operating Systems,CSE,4
+STU00544,CE303,Surveying,CIVIL,1
+STU00544,CE303,Surveying,CIVIL,2
+STU00544,CE305,Transportation Eng,CIVIL,3
+STU00545,CS305,Data Warehousing and Mining,CSE,1
+STU00545,CS303,Operating Systems,CSE,2
+STU00546,ME304,Manufacturing Tech,MECH,1
+STU00546,ME302,Fluid Mechanics,MECH,2
+STU00546,ME301,Thermodynamics,MECH,3
+STU00547,ME305,Heat Transfer,MECH,1
+STU00547,ME305,Heat Transfer,MECH,2
+STU00547,ME305,Heat Transfer,MECH,3
+STU00548,IT304,Information Security,IT,1
+STU00548,IT303,Software Engineering,IT,2
+STU00548,IT302,Cloud Computing,IT,3
+STU00548,IT302,Cloud Computing,IT,4
+STU00548,IT302,Cloud Computing,IT,5
+STU00548,IT302,Cloud Computing,IT,6
+STU00549,ME301,Thermodynamics,MECH,1
+STU00549,ME304,Manufacturing Tech,MECH,2
+STU00549,ME303,Machine Design,MECH,3
+STU00549,ME303,Machine Design,MECH,4
+STU00550,CE304,Concrete Tech,CIVIL,1
+STU00550,CE304,Concrete Tech,CIVIL,2
+STU00550,CE302,Geotechnical Eng,CIVIL,3
+STU00550,CE305,Transportation Eng,CIVIL,4
+STU00551,EC305,Microprocessors,ECE,1
+STU00551,EC305,Microprocessors,ECE,2
+STU00551,EC303,Communication Systems,ECE,3
+STU00551,EC303,Communication Systems,ECE,4
+STU00551,EC301,Signals and Systems,ECE,5
+STU00552,ME305,Heat Transfer,MECH,1
+STU00552,ME305,Heat Transfer,MECH,2
+STU00552,ME302,Fluid Mechanics,MECH,3
+STU00552,ME304,Manufacturing Tech,MECH,4
+STU00552,ME302,Fluid Mechanics,MECH,5
+STU00553,IT303,Software Engineering,IT,1
+STU00553,IT301,Web Technologies,IT,2
+STU00553,IT301,Web Technologies,IT,3
+STU00553,IT301,Web Technologies,IT,4
+STU00553,IT301,Web Technologies,IT,5
+STU00554,CS305,Data Warehousing and Mining,CSE,1
+STU00554,CS304,Computer Networks,CSE,2
+STU00554,CS302,DBMS,CSE,3
+STU00554,CS305,Data Warehousing and Mining,CSE,4
+STU00554,CS303,Operating Systems,CSE,5
+STU00554,CS303,Operating Systems,CSE,6
+STU00555,CS305,Data Warehousing and Mining,CSE,1
+STU00555,CS301,Data Structures,CSE,2
+STU00555,CS303,Operating Systems,CSE,3
+STU00555,CS304,Computer Networks,CSE,4
+STU00555,CS304,Computer Networks,CSE,5
+STU00555,CS304,Computer Networks,CSE,6
+STU00556,EC305,Microprocessors,ECE,1
+STU00556,EC302,Digital Electronics,ECE,2
+STU00556,EC305,Microprocessors,ECE,3
+STU00557,IT304,Information Security,IT,1
+STU00557,IT304,Information Security,IT,2
+STU00557,IT305,Mobile Computing,IT,3
+STU00557,IT301,Web Technologies,IT,4
+STU00557,IT303,Software Engineering,IT,5
+STU00558,EC301,Signals and Systems,ECE,1
+STU00558,EC303,Communication Systems,ECE,2
+STU00558,EC304,VLSI Design,ECE,3
+STU00558,EC302,Digital Electronics,ECE,4
+STU00559,EC302,Digital Electronics,ECE,1
+STU00559,EC305,Microprocessors,ECE,2
+STU00560,EC305,Microprocessors,ECE,1
+STU00560,EC301,Signals and Systems,ECE,2
+STU00560,EC303,Communication Systems,ECE,3
+STU00560,EC301,Signals and Systems,ECE,4
+STU00560,EC303,Communication Systems,ECE,5
+STU00560,EC304,VLSI Design,ECE,6
+STU00561,EC303,Communication Systems,ECE,1
+STU00561,EC305,Microprocessors,ECE,2
+STU00561,EC302,Digital Electronics,ECE,3
+STU00562,CE301,Structural Analysis,CIVIL,1
+STU00562,CE305,Transportation Eng,CIVIL,2
+STU00562,CE301,Structural Analysis,CIVIL,3
+STU00563,CE305,Transportation Eng,CIVIL,1
+STU00563,CE301,Structural Analysis,CIVIL,2
+STU00563,CE301,Structural Analysis,CIVIL,3
+STU00563,CE302,Geotechnical Eng,CIVIL,4
+STU00563,CE305,Transportation Eng,CIVIL,5
+STU00563,CE304,Concrete Tech,CIVIL,6
+STU00564,EE303,Electrical Machines,EEE,1
+STU00564,EE301,Power Systems,EEE,2
+STU00564,EE304,Power Electronics,EEE,3
+STU00564,EE303,Electrical Machines,EEE,4
+STU00564,EE302,Control Systems,EEE,5
+STU00565,ME303,Machine Design,MECH,1
+STU00565,ME302,Fluid Mechanics,MECH,2
+STU00566,IT302,Cloud Computing,IT,1
+STU00566,IT303,Software Engineering,IT,2
+STU00566,IT305,Mobile Computing,IT,3
+STU00566,IT303,Software Engineering,IT,4
+STU00567,IT301,Web Technologies,IT,1
+STU00567,IT302,Cloud Computing,IT,2
+STU00567,IT301,Web Technologies,IT,3
+STU00567,IT302,Cloud Computing,IT,4
+STU00567,IT302,Cloud Computing,IT,5
+STU00568,EE304,Power Electronics,EEE,1
+STU00568,EE304,Power Electronics,EEE,2
+STU00568,EE304,Power Electronics,EEE,3
+STU00568,EE302,Control Systems,EEE,4
+STU00569,EC305,Microprocessors,ECE,1
+STU00569,EC301,Signals and Systems,ECE,2
+STU00570,EE304,Power Electronics,EEE,1
+STU00570,EE302,Control Systems,EEE,2
+STU00571,IT303,Software Engineering,IT,1
+STU00571,IT305,Mobile Computing,IT,2
+STU00571,IT303,Software Engineering,IT,3
+STU00571,IT305,Mobile Computing,IT,4
+STU00571,IT303,Software Engineering,IT,5
+STU00572,IT304,Information Security,IT,1
+STU00572,IT304,Information Security,IT,2
+STU00572,IT305,Mobile Computing,IT,3
+STU00572,IT303,Software Engineering,IT,4
+STU00573,EC301,Signals and Systems,ECE,1
+STU00573,EC304,VLSI Design,ECE,2
+STU00573,EC303,Communication Systems,ECE,3
+STU00574,IT301,Web Technologies,IT,1
+STU00574,IT304,Information Security,IT,2
+STU00574,IT301,Web Technologies,IT,3
+STU00574,IT304,Information Security,IT,4
+STU00574,IT304,Information Security,IT,5
+STU00575,CS304,Computer Networks,CSE,1
+STU00575,CS301,Data Structures,CSE,2
+STU00575,CS303,Operating Systems,CSE,3
+STU00575,CS304,Computer Networks,CSE,4
+STU00575,CS305,Data Warehousing and Mining,CSE,5
+STU00575,CS303,Operating Systems,CSE,6
+STU00576,CS304,Computer Networks,CSE,1
+STU00576,CS304,Computer Networks,CSE,2
+STU00576,CS303,Operating Systems,CSE,3
+STU00576,CS303,Operating Systems,CSE,4
+STU00576,CS302,DBMS,CSE,5
+STU00577,IT303,Software Engineering,IT,1
+STU00577,IT304,Information Security,IT,2
+STU00578,EE302,Control Systems,EEE,1
+STU00578,EE301,Power Systems,EEE,2
+STU00578,EE302,Control Systems,EEE,3
+STU00578,EE301,Power Systems,EEE,4
+STU00578,EE301,Power Systems,EEE,5
+STU00578,EE303,Electrical Machines,EEE,6
+STU00579,EE305,Circuit Theory,EEE,1
+STU00579,EE303,Electrical Machines,EEE,2
+STU00580,CE305,Transportation Eng,CIVIL,1
+STU00580,CE302,Geotechnical Eng,CIVIL,2
+STU00580,CE302,Geotechnical Eng,CIVIL,3
+STU00581,EE304,Power Electronics,EEE,1
+STU00581,EE305,Circuit Theory,EEE,2
+STU00581,EE301,Power Systems,EEE,3
+STU00581,EE301,Power Systems,EEE,4
+STU00582,IT304,Information Security,IT,1
+STU00582,IT301,Web Technologies,IT,2
+STU00582,IT303,Software Engineering,IT,3
+STU00582,IT301,Web Technologies,IT,4
+STU00582,IT302,Cloud Computing,IT,5
+STU00582,IT303,Software Engineering,IT,6
+STU00583,EC304,VLSI Design,ECE,1
+STU00583,EC303,Communication Systems,ECE,2
+STU00583,EC301,Signals and Systems,ECE,3
+STU00583,EC305,Microprocessors,ECE,4
+STU00583,EC301,Signals and Systems,ECE,5
+STU00584,EE305,Circuit Theory,EEE,1
+STU00584,EE301,Power Systems,EEE,2
+STU00584,EE302,Control Systems,EEE,3
+STU00584,EE303,Electrical Machines,EEE,4
+STU00584,EE305,Circuit Theory,EEE,5
+STU00584,EE303,Electrical Machines,EEE,6
+STU00585,CE302,Geotechnical Eng,CIVIL,1
+STU00585,CE303,Surveying,CIVIL,2
+STU00585,CE304,Concrete Tech,CIVIL,3
+STU00585,CE304,Concrete Tech,CIVIL,4
+STU00585,CE302,Geotechnical Eng,CIVIL,5
+STU00586,ME303,Machine Design,MECH,1
+STU00586,ME303,Machine Design,MECH,2
+STU00586,ME304,Manufacturing Tech,MECH,3
+STU00586,ME304,Manufacturing Tech,MECH,4
+STU00586,ME303,Machine Design,MECH,5
+STU00586,ME304,Manufacturing Tech,MECH,6
+STU00587,CE301,Structural Analysis,CIVIL,1
+STU00587,CE302,Geotechnical Eng,CIVIL,2
+STU00587,CE303,Surveying,CIVIL,3
+STU00587,CE305,Transportation Eng,CIVIL,4
+STU00587,CE303,Surveying,CIVIL,5
+STU00587,CE302,Geotechnical Eng,CIVIL,6
+STU00588,ME305,Heat Transfer,MECH,1
+STU00588,ME302,Fluid Mechanics,MECH,2
+STU00589,EC302,Digital Electronics,ECE,1
+STU00589,EC302,Digital Electronics,ECE,2
+STU00589,EC305,Microprocessors,ECE,3
+STU00589,EC305,Microprocessors,ECE,4
+STU00589,EC301,Signals and Systems,ECE,5
+STU00589,EC303,Communication Systems,ECE,6
+STU00590,ME303,Machine Design,MECH,1
+STU00590,ME301,Thermodynamics,MECH,2
+STU00590,ME305,Heat Transfer,MECH,3
+STU00590,ME301,Thermodynamics,MECH,4
+STU00591,EC305,Microprocessors,ECE,1
+STU00591,EC305,Microprocessors,ECE,2
+STU00591,EC303,Communication Systems,ECE,3
+STU00592,EE304,Power Electronics,EEE,1
+STU00592,EE305,Circuit Theory,EEE,2
+STU00592,EE301,Power Systems,EEE,3
+STU00592,EE301,Power Systems,EEE,4
+STU00593,EC301,Signals and Systems,ECE,1
+STU00593,EC305,Microprocessors,ECE,2
+STU00593,EC302,Digital Electronics,ECE,3
+STU00594,EE301,Power Systems,EEE,1
+STU00594,EE304,Power Electronics,EEE,2
+STU00594,EE302,Control Systems,EEE,3
+STU00594,EE302,Control Systems,EEE,4
+STU00594,EE304,Power Electronics,EEE,5
+STU00595,CS301,Data Structures,CSE,1
+STU00595,CS303,Operating Systems,CSE,2
+STU00595,CS305,Data Warehousing and Mining,CSE,3
+STU00595,CS305,Data Warehousing and Mining,CSE,4
+STU00596,CS302,DBMS,CSE,1
+STU00596,CS303,Operating Systems,CSE,2
+STU00596,CS305,Data Warehousing and Mining,CSE,3
+STU00596,CS305,Data Warehousing and Mining,CSE,4
+STU00596,CS304,Computer Networks,CSE,5
+STU00596,CS302,DBMS,CSE,6
+STU00597,EC302,Digital Electronics,ECE,1
+STU00597,EC301,Signals and Systems,ECE,2
+STU00597,EC304,VLSI Design,ECE,3
+STU00598,CS304,Computer Networks,CSE,1
+STU00598,CS301,Data Structures,CSE,2
+STU00598,CS302,DBMS,CSE,3
+STU00599,CE305,Transportation Eng,CIVIL,1
+STU00599,CE303,Surveying,CIVIL,2
+STU00600,ME305,Heat Transfer,MECH,1
+STU00600,ME305,Heat Transfer,MECH,2
+STU00601,CE303,Surveying,CIVIL,1
+STU00601,CE303,Surveying,CIVIL,2
+STU00602,EC303,Communication Systems,ECE,1
+STU00602,EC304,VLSI Design,ECE,2
+STU00602,EC303,Communication Systems,ECE,3
+STU00603,IT305,Mobile Computing,IT,1
+STU00603,IT301,Web Technologies,IT,2
+STU00603,IT301,Web Technologies,IT,3
+STU00603,IT303,Software Engineering,IT,4
+STU00604,IT305,Mobile Computing,IT,1
+STU00604,IT302,Cloud Computing,IT,2
+STU00604,IT303,Software Engineering,IT,3
+STU00604,IT305,Mobile Computing,IT,4
+STU00605,CE302,Geotechnical Eng,CIVIL,1
+STU00605,CE302,Geotechnical Eng,CIVIL,2
+STU00605,CE301,Structural Analysis,CIVIL,3
+STU00606,CS302,DBMS,CSE,1
+STU00606,CS301,Data Structures,CSE,2
+STU00606,CS301,Data Structures,CSE,3
+STU00607,EC305,Microprocessors,ECE,1
+STU00607,EC304,VLSI Design,ECE,2
+STU00607,EC303,Communication Systems,ECE,3
+STU00608,EE301,Power Systems,EEE,1
+STU00608,EE305,Circuit Theory,EEE,2
+STU00608,EE304,Power Electronics,EEE,3
+STU00608,EE304,Power Electronics,EEE,4
+STU00608,EE303,Electrical Machines,EEE,5
+STU00608,EE305,Circuit Theory,EEE,6
+STU00609,CS302,DBMS,CSE,1
+STU00609,CS303,Operating Systems,CSE,2
+STU00609,CS304,Computer Networks,CSE,3
+STU00609,CS304,Computer Networks,CSE,4
+STU00609,CS301,Data Structures,CSE,5
+STU00609,CS303,Operating Systems,CSE,6
+STU00610,IT303,Software Engineering,IT,1
+STU00610,IT303,Software Engineering,IT,2
+STU00611,CS305,Data Warehousing and Mining,CSE,1
+STU00611,CS304,Computer Networks,CSE,2
+STU00611,CS302,DBMS,CSE,3
+STU00612,CS304,Computer Networks,CSE,1
+STU00612,CS305,Data Warehousing and Mining,CSE,2
+STU00612,CS301,Data Structures,CSE,3
+STU00613,ME301,Thermodynamics,MECH,1
+STU00613,ME303,Machine Design,MECH,2
+STU00613,ME305,Heat Transfer,MECH,3
+STU00613,ME301,Thermodynamics,MECH,4
+STU00614,CS304,Computer Networks,CSE,1
+STU00614,CS303,Operating Systems,CSE,2
+STU00614,CS301,Data Structures,CSE,3
+STU00614,CS304,Computer Networks,CSE,4
+STU00614,CS304,Computer Networks,CSE,5
+STU00615,CS305,Data Warehousing and Mining,CSE,1
+STU00615,CS301,Data Structures,CSE,2
+STU00615,CS301,Data Structures,CSE,3
+STU00615,CS302,DBMS,CSE,4
+STU00615,CS301,Data Structures,CSE,5
+STU00616,ME301,Thermodynamics,MECH,1
+STU00616,ME301,Thermodynamics,MECH,2
+STU00617,ME305,Heat Transfer,MECH,1
+STU00617,ME302,Fluid Mechanics,MECH,2
+STU00618,EC303,Communication Systems,ECE,1
+STU00618,EC305,Microprocessors,ECE,2
+STU00618,EC305,Microprocessors,ECE,3
+STU00618,EC304,VLSI Design,ECE,4
+STU00619,IT301,Web Technologies,IT,1
+STU00619,IT305,Mobile Computing,IT,2
+STU00620,EE301,Power Systems,EEE,1
+STU00620,EE304,Power Electronics,EEE,2
+STU00620,EE303,Electrical Machines,EEE,3
+STU00620,EE305,Circuit Theory,EEE,4
+STU00621,CS301,Data Structures,CSE,1
+STU00621,CS303,Operating Systems,CSE,2
+STU00621,CS301,Data Structures,CSE,3
+STU00622,EC305,Microprocessors,ECE,1
+STU00622,EC305,Microprocessors,ECE,2
+STU00622,EC301,Signals and Systems,ECE,3
+STU00622,EC301,Signals and Systems,ECE,4
+STU00622,EC301,Signals and Systems,ECE,5
+STU00623,CS305,Data Warehousing and Mining,CSE,1
+STU00623,CS302,DBMS,CSE,2
+STU00623,CS302,DBMS,CSE,3
+STU00623,CS304,Computer Networks,CSE,4
+STU00624,IT303,Software Engineering,IT,1
+STU00624,IT302,Cloud Computing,IT,2
+STU00624,IT301,Web Technologies,IT,3
+STU00625,ME302,Fluid Mechanics,MECH,1
+STU00625,ME302,Fluid Mechanics,MECH,2
+STU00625,ME304,Manufacturing Tech,MECH,3
+STU00625,ME302,Fluid Mechanics,MECH,4
+STU00626,IT302,Cloud Computing,IT,1
+STU00626,IT303,Software Engineering,IT,2
+STU00626,IT303,Software Engineering,IT,3
+STU00627,EE303,Electrical Machines,EEE,1
+STU00627,EE303,Electrical Machines,EEE,2
+STU00627,EE302,Control Systems,EEE,3
+STU00627,EE305,Circuit Theory,EEE,4
+STU00627,EE302,Control Systems,EEE,5
+STU00628,IT303,Software Engineering,IT,1
+STU00628,IT302,Cloud Computing,IT,2
+STU00628,IT305,Mobile Computing,IT,3
+STU00628,IT301,Web Technologies,IT,4
+STU00628,IT303,Software Engineering,IT,5
+STU00629,ME303,Machine Design,MECH,1
+STU00629,ME301,Thermodynamics,MECH,2
+STU00629,ME304,Manufacturing Tech,MECH,3
+STU00629,ME304,Manufacturing Tech,MECH,4
+STU00629,ME303,Machine Design,MECH,5
+STU00630,CE301,Structural Analysis,CIVIL,1
+STU00630,CE301,Structural Analysis,CIVIL,2
+STU00630,CE301,Structural Analysis,CIVIL,3
+STU00630,CE304,Concrete Tech,CIVIL,4
+STU00630,CE303,Surveying,CIVIL,5
+STU00630,CE301,Structural Analysis,CIVIL,6
+STU00631,EC303,Communication Systems,ECE,1
+STU00631,EC304,VLSI Design,ECE,2
+STU00631,EC301,Signals and Systems,ECE,3
+STU00631,EC305,Microprocessors,ECE,4
+STU00632,CE305,Transportation Eng,CIVIL,1
+STU00632,CE304,Concrete Tech,CIVIL,2
+STU00632,CE302,Geotechnical Eng,CIVIL,3
+STU00632,CE303,Surveying,CIVIL,4
+STU00632,CE304,Concrete Tech,CIVIL,5
+STU00632,CE303,Surveying,CIVIL,6
+STU00633,ME305,Heat Transfer,MECH,1
+STU00633,ME304,Manufacturing Tech,MECH,2
+STU00633,ME303,Machine Design,MECH,3
+STU00634,IT301,Web Technologies,IT,1
+STU00634,IT305,Mobile Computing,IT,2
+STU00634,IT303,Software Engineering,IT,3
+STU00634,IT305,Mobile Computing,IT,4
+STU00634,IT302,Cloud Computing,IT,5
+STU00634,IT301,Web Technologies,IT,6
+STU00635,ME302,Fluid Mechanics,MECH,1
+STU00635,ME304,Manufacturing Tech,MECH,2
+STU00635,ME302,Fluid Mechanics,MECH,3
+STU00635,ME301,Thermodynamics,MECH,4
+STU00636,EE302,Control Systems,EEE,1
+STU00636,EE303,Electrical Machines,EEE,2
+STU00636,EE302,Control Systems,EEE,3
+STU00637,CS304,Computer Networks,CSE,1
+STU00637,CS302,DBMS,CSE,2
+STU00637,CS305,Data Warehousing and Mining,CSE,3
+STU00638,EE304,Power Electronics,EEE,1
+STU00638,EE303,Electrical Machines,EEE,2
+STU00639,CE305,Transportation Eng,CIVIL,1
+STU00639,CE302,Geotechnical Eng,CIVIL,2
+STU00639,CE304,Concrete Tech,CIVIL,3
+STU00639,CE302,Geotechnical Eng,CIVIL,4
+STU00639,CE304,Concrete Tech,CIVIL,5
+STU00640,ME302,Fluid Mechanics,MECH,1
+STU00640,ME303,Machine Design,MECH,2
+STU00640,ME304,Manufacturing Tech,MECH,3
+STU00640,ME305,Heat Transfer,MECH,4
+STU00641,EE304,Power Electronics,EEE,1
+STU00641,EE302,Control Systems,EEE,2
+STU00641,EE302,Control Systems,EEE,3
+STU00641,EE303,Electrical Machines,EEE,4
+STU00642,ME301,Thermodynamics,MECH,1
+STU00642,ME301,Thermodynamics,MECH,2
+STU00642,ME302,Fluid Mechanics,MECH,3
+STU00642,ME302,Fluid Mechanics,MECH,4
+STU00642,ME302,Fluid Mechanics,MECH,5
+STU00642,ME304,Manufacturing Tech,MECH,6
+STU00643,EE304,Power Electronics,EEE,1
+STU00643,EE304,Power Electronics,EEE,2
+STU00643,EE303,Electrical Machines,EEE,3
+STU00643,EE304,Power Electronics,EEE,4
+STU00644,EE303,Electrical Machines,EEE,1
+STU00644,EE302,Control Systems,EEE,2
+STU00645,CE305,Transportation Eng,CIVIL,1
+STU00645,CE304,Concrete Tech,CIVIL,2
+STU00645,CE303,Surveying,CIVIL,3
+STU00645,CE304,Concrete Tech,CIVIL,4
+STU00645,CE302,Geotechnical Eng,CIVIL,5
+STU00646,CE305,Transportation Eng,CIVIL,1
+STU00646,CE304,Concrete Tech,CIVIL,2
+STU00646,CE304,Concrete Tech,CIVIL,3
+STU00647,IT301,Web Technologies,IT,1
+STU00647,IT304,Information Security,IT,2
+STU00647,IT301,Web Technologies,IT,3
+STU00647,IT305,Mobile Computing,IT,4
+STU00647,IT304,Information Security,IT,5
+STU00648,EC303,Communication Systems,ECE,1
+STU00648,EC302,Digital Electronics,ECE,2
+STU00648,EC305,Microprocessors,ECE,3
+STU00648,EC301,Signals and Systems,ECE,4
+STU00648,EC301,Signals and Systems,ECE,5
+STU00648,EC305,Microprocessors,ECE,6
+STU00649,EC305,Microprocessors,ECE,1
+STU00649,EC304,VLSI Design,ECE,2
+STU00649,EC304,VLSI Design,ECE,3
+STU00650,ME301,Thermodynamics,MECH,1
+STU00650,ME304,Manufacturing Tech,MECH,2
+STU00651,IT305,Mobile Computing,IT,1
+STU00651,IT303,Software Engineering,IT,2
+STU00652,EE303,Electrical Machines,EEE,1
+STU00652,EE305,Circuit Theory,EEE,2
+STU00652,EE302,Control Systems,EEE,3
+STU00652,EE303,Electrical Machines,EEE,4
+STU00653,CS304,Computer Networks,CSE,1
+STU00653,CS303,Operating Systems,CSE,2
+STU00654,CS301,Data Structures,CSE,1
+STU00654,CS301,Data Structures,CSE,2
+STU00654,CS302,DBMS,CSE,3
+STU00654,CS301,Data Structures,CSE,4
+STU00654,CS302,DBMS,CSE,5
+STU00654,CS304,Computer Networks,CSE,6
+STU00655,ME303,Machine Design,MECH,1
+STU00655,ME305,Heat Transfer,MECH,2
+STU00655,ME305,Heat Transfer,MECH,3
+STU00655,ME301,Thermodynamics,MECH,4
+STU00656,EC303,Communication Systems,ECE,1
+STU00656,EC302,Digital Electronics,ECE,2
+STU00656,EC304,VLSI Design,ECE,3
+STU00656,EC303,Communication Systems,ECE,4
+STU00657,CE304,Concrete Tech,CIVIL,1
+STU00657,CE302,Geotechnical Eng,CIVIL,2
+STU00657,CE301,Structural Analysis,CIVIL,3
+STU00657,CE301,Structural Analysis,CIVIL,4
+STU00657,CE305,Transportation Eng,CIVIL,5
+STU00658,EC305,Microprocessors,ECE,1
+STU00658,EC301,Signals and Systems,ECE,2
+STU00658,EC305,Microprocessors,ECE,3
+STU00658,EC302,Digital Electronics,ECE,4
+STU00659,EC302,Digital Electronics,ECE,1
+STU00659,EC305,Microprocessors,ECE,2
+STU00659,EC305,Microprocessors,ECE,3
+STU00659,EC302,Digital Electronics,ECE,4
+STU00660,EE301,Power Systems,EEE,1
+STU00660,EE302,Control Systems,EEE,2
+STU00660,EE304,Power Electronics,EEE,3
+STU00660,EE303,Electrical Machines,EEE,4
+STU00661,IT305,Mobile Computing,IT,1
+STU00661,IT301,Web Technologies,IT,2
+STU00661,IT302,Cloud Computing,IT,3
+STU00661,IT303,Software Engineering,IT,4
+STU00661,IT301,Web Technologies,IT,5
+STU00662,CS304,Computer Networks,CSE,1
+STU00662,CS305,Data Warehousing and Mining,CSE,2
+STU00662,CS305,Data Warehousing and Mining,CSE,3
+STU00662,CS304,Computer Networks,CSE,4
+STU00662,CS303,Operating Systems,CSE,5
+STU00662,CS303,Operating Systems,CSE,6
+STU00663,CE302,Geotechnical Eng,CIVIL,1
+STU00663,CE304,Concrete Tech,CIVIL,2
+STU00663,CE305,Transportation Eng,CIVIL,3
+STU00663,CE304,Concrete Tech,CIVIL,4
+STU00663,CE304,Concrete Tech,CIVIL,5
+STU00664,ME301,Thermodynamics,MECH,1
+STU00664,ME305,Heat Transfer,MECH,2
+STU00664,ME301,Thermodynamics,MECH,3
+STU00664,ME305,Heat Transfer,MECH,4
+STU00664,ME303,Machine Design,MECH,5
+STU00664,ME303,Machine Design,MECH,6
+STU00665,IT301,Web Technologies,IT,1
+STU00665,IT305,Mobile Computing,IT,2
+STU00665,IT305,Mobile Computing,IT,3
+STU00665,IT305,Mobile Computing,IT,4
+STU00665,IT304,Information Security,IT,5
+STU00666,ME305,Heat Transfer,MECH,1
+STU00666,ME302,Fluid Mechanics,MECH,2
+STU00666,ME305,Heat Transfer,MECH,3
+STU00666,ME304,Manufacturing Tech,MECH,4
+STU00667,ME304,Manufacturing Tech,MECH,1
+STU00667,ME302,Fluid Mechanics,MECH,2
+STU00668,CS303,Operating Systems,CSE,1
+STU00668,CS302,DBMS,CSE,2
+STU00668,CS305,Data Warehousing and Mining,CSE,3
+STU00668,CS303,Operating Systems,CSE,4
+STU00668,CS304,Computer Networks,CSE,5
+STU00668,CS303,Operating Systems,CSE,6
+STU00669,EC303,Communication Systems,ECE,1
+STU00669,EC302,Digital Electronics,ECE,2
+STU00670,IT304,Information Security,IT,1
+STU00670,IT304,Information Security,IT,2
+STU00670,IT302,Cloud Computing,IT,3
+STU00670,IT303,Software Engineering,IT,4
+STU00670,IT305,Mobile Computing,IT,5
+STU00671,EE302,Control Systems,EEE,1
+STU00671,EE304,Power Electronics,EEE,2
+STU00671,EE304,Power Electronics,EEE,3
+STU00671,EE302,Control Systems,EEE,4
+STU00671,EE305,Circuit Theory,EEE,5
+STU00672,ME305,Heat Transfer,MECH,1
+STU00672,ME305,Heat Transfer,MECH,2
+STU00672,ME301,Thermodynamics,MECH,3
+STU00673,ME302,Fluid Mechanics,MECH,1
+STU00673,ME305,Heat Transfer,MECH,2
+STU00673,ME301,Thermodynamics,MECH,3
+STU00673,ME301,Thermodynamics,MECH,4
+STU00673,ME305,Heat Transfer,MECH,5
+STU00673,ME302,Fluid Mechanics,MECH,6
+STU00674,CS302,DBMS,CSE,1
+STU00674,CS304,Computer Networks,CSE,2
+STU00674,CS303,Operating Systems,CSE,3
+STU00674,CS303,Operating Systems,CSE,4
+STU00675,ME302,Fluid Mechanics,MECH,1
+STU00675,ME304,Manufacturing Tech,MECH,2
+STU00676,ME304,Manufacturing Tech,MECH,1
+STU00676,ME302,Fluid Mechanics,MECH,2
+STU00676,ME305,Heat Transfer,MECH,3
+STU00676,ME305,Heat Transfer,MECH,4
+STU00676,ME302,Fluid Mechanics,MECH,5
+STU00676,ME304,Manufacturing Tech,MECH,6
+STU00677,ME301,Thermodynamics,MECH,1
+STU00677,ME305,Heat Transfer,MECH,2
+STU00678,CS301,Data Structures,CSE,1
+STU00678,CS303,Operating Systems,CSE,2
+STU00678,CS305,Data Warehousing and Mining,CSE,3
+STU00678,CS304,Computer Networks,CSE,4
+STU00678,CS301,Data Structures,CSE,5
+STU00679,CS301,Data Structures,CSE,1
+STU00679,CS304,Computer Networks,CSE,2
+STU00679,CS304,Computer Networks,CSE,3
+STU00679,CS301,Data Structures,CSE,4
+STU00679,CS303,Operating Systems,CSE,5
+STU00680,EC303,Communication Systems,ECE,1
+STU00680,EC303,Communication Systems,ECE,2
+STU00680,EC302,Digital Electronics,ECE,3
+STU00681,CE303,Surveying,CIVIL,1
+STU00681,CE303,Surveying,CIVIL,2
+STU00681,CE304,Concrete Tech,CIVIL,3
+STU00682,ME303,Machine Design,MECH,1
+STU00682,ME303,Machine Design,MECH,2
+STU00682,ME303,Machine Design,MECH,3
+STU00683,EE305,Circuit Theory,EEE,1
+STU00683,EE305,Circuit Theory,EEE,2
+STU00683,EE302,Control Systems,EEE,3
+STU00683,EE305,Circuit Theory,EEE,4
+STU00684,CE302,Geotechnical Eng,CIVIL,1
+STU00684,CE305,Transportation Eng,CIVIL,2
+STU00685,EC303,Communication Systems,ECE,1
+STU00685,EC305,Microprocessors,ECE,2
+STU00685,EC304,VLSI Design,ECE,3
+STU00685,EC303,Communication Systems,ECE,4
+STU00686,CE302,Geotechnical Eng,CIVIL,1
+STU00686,CE304,Concrete Tech,CIVIL,2
+STU00686,CE302,Geotechnical Eng,CIVIL,3
+STU00687,ME305,Heat Transfer,MECH,1
+STU00687,ME302,Fluid Mechanics,MECH,2
+STU00687,ME303,Machine Design,MECH,3
+STU00688,CE305,Transportation Eng,CIVIL,1
+STU00688,CE304,Concrete Tech,CIVIL,2
+STU00688,CE303,Surveying,CIVIL,3
+STU00688,CE305,Transportation Eng,CIVIL,4
+STU00688,CE305,Transportation Eng,CIVIL,5
+STU00688,CE304,Concrete Tech,CIVIL,6
+STU00689,CS305,Data Warehousing and Mining,CSE,1
+STU00689,CS302,DBMS,CSE,2
+STU00689,CS304,Computer Networks,CSE,3
+STU00690,CS303,Operating Systems,CSE,1
+STU00690,CS303,Operating Systems,CSE,2
+STU00691,CS302,DBMS,CSE,1
+STU00691,CS305,Data Warehousing and Mining,CSE,2
+STU00691,CS302,DBMS,CSE,3
+STU00692,ME304,Manufacturing Tech,MECH,1
+STU00692,ME305,Heat Transfer,MECH,2
+STU00692,ME302,Fluid Mechanics,MECH,3
+STU00692,ME301,Thermodynamics,MECH,4
+STU00692,ME301,Thermodynamics,MECH,5
+STU00693,IT301,Web Technologies,IT,1
+STU00693,IT305,Mobile Computing,IT,2
+STU00693,IT301,Web Technologies,IT,3
+STU00693,IT305,Mobile Computing,IT,4
+STU00693,IT302,Cloud Computing,IT,5
+STU00693,IT302,Cloud Computing,IT,6
+STU00694,CS304,Computer Networks,CSE,1
+STU00694,CS301,Data Structures,CSE,2
+STU00694,CS305,Data Warehousing and Mining,CSE,3
+STU00695,IT302,Cloud Computing,IT,1
+STU00695,IT302,Cloud Computing,IT,2
+STU00696,CE302,Geotechnical Eng,CIVIL,1
+STU00696,CE302,Geotechnical Eng,CIVIL,2
+STU00697,EC301,Signals and Systems,ECE,1
+STU00697,EC303,Communication Systems,ECE,2
+STU00697,EC302,Digital Electronics,ECE,3
+STU00697,EC301,Signals and Systems,ECE,4
+STU00697,EC301,Signals and Systems,ECE,5
+STU00698,EE301,Power Systems,EEE,1
+STU00698,EE305,Circuit Theory,EEE,2
+STU00698,EE303,Electrical Machines,EEE,3
+STU00699,CE304,Concrete Tech,CIVIL,1
+STU00699,CE304,Concrete Tech,CIVIL,2
+STU00699,CE305,Transportation Eng,CIVIL,3
+STU00699,CE301,Structural Analysis,CIVIL,4
+STU00699,CE304,Concrete Tech,CIVIL,5
+STU00699,CE304,Concrete Tech,CIVIL,6
+STU00700,CS305,Data Warehousing and Mining,CSE,1
+STU00700,CS305,Data Warehousing and Mining,CSE,2
+STU00700,CS303,Operating Systems,CSE,3
+STU00700,CS305,Data Warehousing and Mining,CSE,4
+STU00701,IT303,Software Engineering,IT,1
+STU00701,IT304,Information Security,IT,2
+STU00701,IT302,Cloud Computing,IT,3
+STU00701,IT301,Web Technologies,IT,4
+STU00702,CS304,Computer Networks,CSE,1
+STU00702,CS302,DBMS,CSE,2
+STU00702,CS301,Data Structures,CSE,3
+STU00702,CS303,Operating Systems,CSE,4
+STU00702,CS304,Computer Networks,CSE,5
+STU00702,CS305,Data Warehousing and Mining,CSE,6
+STU00703,IT301,Web Technologies,IT,1
+STU00703,IT302,Cloud Computing,IT,2
+STU00703,IT305,Mobile Computing,IT,3
+STU00704,ME305,Heat Transfer,MECH,1
+STU00704,ME301,Thermodynamics,MECH,2
+STU00704,ME305,Heat Transfer,MECH,3
+STU00704,ME305,Heat Transfer,MECH,4
+STU00705,EC302,Digital Electronics,ECE,1
+STU00705,EC304,VLSI Design,ECE,2
+STU00705,EC302,Digital Electronics,ECE,3
+STU00705,EC303,Communication Systems,ECE,4
+STU00706,EE304,Power Electronics,EEE,1
+STU00706,EE302,Control Systems,EEE,2
+STU00706,EE304,Power Electronics,EEE,3
+STU00706,EE303,Electrical Machines,EEE,4
+STU00706,EE303,Electrical Machines,EEE,5
+STU00706,EE303,Electrical Machines,EEE,6
+STU00707,IT303,Software Engineering,IT,1
+STU00707,IT305,Mobile Computing,IT,2
+STU00707,IT304,Information Security,IT,3
+STU00707,IT304,Information Security,IT,4
+STU00707,IT304,Information Security,IT,5
+STU00708,EE304,Power Electronics,EEE,1
+STU00708,EE301,Power Systems,EEE,2
+STU00708,EE302,Control Systems,EEE,3
+STU00709,EE303,Electrical Machines,EEE,1
+STU00709,EE303,Electrical Machines,EEE,2
+STU00709,EE304,Power Electronics,EEE,3
+STU00709,EE305,Circuit Theory,EEE,4
+STU00710,EE305,Circuit Theory,EEE,1
+STU00710,EE303,Electrical Machines,EEE,2
+STU00710,EE301,Power Systems,EEE,3
+STU00711,CE303,Surveying,CIVIL,1
+STU00711,CE305,Transportation Eng,CIVIL,2
+STU00711,CE301,Structural Analysis,CIVIL,3
+STU00712,EC302,Digital Electronics,ECE,1
+STU00712,EC305,Microprocessors,ECE,2
+STU00712,EC301,Signals and Systems,ECE,3
+STU00712,EC301,Signals and Systems,ECE,4
+STU00712,EC303,Communication Systems,ECE,5
+STU00713,EE303,Electrical Machines,EEE,1
+STU00713,EE304,Power Electronics,EEE,2
+STU00713,EE301,Power Systems,EEE,3
+STU00713,EE304,Power Electronics,EEE,4
+STU00713,EE302,Control Systems,EEE,5
+STU00714,CS302,DBMS,CSE,1
+STU00714,CS304,Computer Networks,CSE,2
+STU00714,CS303,Operating Systems,CSE,3
+STU00714,CS305,Data Warehousing and Mining,CSE,4
+STU00714,CS301,Data Structures,CSE,5
+STU00714,CS301,Data Structures,CSE,6
+STU00715,EE304,Power Electronics,EEE,1
+STU00715,EE302,Control Systems,EEE,2
+STU00715,EE304,Power Electronics,EEE,3
+STU00715,EE304,Power Electronics,EEE,4
+STU00716,IT302,Cloud Computing,IT,1
+STU00716,IT303,Software Engineering,IT,2
+STU00716,IT302,Cloud Computing,IT,3
+STU00716,IT304,Information Security,IT,4
+STU00717,EC304,VLSI Design,ECE,1
+STU00717,EC305,Microprocessors,ECE,2
+STU00717,EC305,Microprocessors,ECE,3
+STU00717,EC301,Signals and Systems,ECE,4
+STU00717,EC301,Signals and Systems,ECE,5
+STU00718,EE304,Power Electronics,EEE,1
+STU00718,EE305,Circuit Theory,EEE,2
+STU00718,EE301,Power Systems,EEE,3
+STU00718,EE305,Circuit Theory,EEE,4
+STU00718,EE305,Circuit Theory,EEE,5
+STU00718,EE305,Circuit Theory,EEE,6
+STU00719,EC301,Signals and Systems,ECE,1
+STU00719,EC305,Microprocessors,ECE,2
+STU00719,EC301,Signals and Systems,ECE,3
+STU00719,EC303,Communication Systems,ECE,4
+STU00719,EC304,VLSI Design,ECE,5
+STU00719,EC303,Communication Systems,ECE,6
+STU00720,ME305,Heat Transfer,MECH,1
+STU00720,ME304,Manufacturing Tech,MECH,2
+STU00720,ME301,Thermodynamics,MECH,3
+STU00721,CS303,Operating Systems,CSE,1
+STU00721,CS305,Data Warehousing and Mining,CSE,2
+STU00721,CS301,Data Structures,CSE,3
+STU00721,CS302,DBMS,CSE,4
+STU00721,CS304,Computer Networks,CSE,5
+STU00721,CS303,Operating Systems,CSE,6
+STU00722,EC303,Communication Systems,ECE,1
+STU00722,EC302,Digital Electronics,ECE,2
+STU00722,EC305,Microprocessors,ECE,3
+STU00722,EC302,Digital Electronics,ECE,4
+STU00722,EC302,Digital Electronics,ECE,5
+STU00722,EC302,Digital Electronics,ECE,6
+STU00723,CE305,Transportation Eng,CIVIL,1
+STU00723,CE302,Geotechnical Eng,CIVIL,2
+STU00724,EC303,Communication Systems,ECE,1
+STU00724,EC302,Digital Electronics,ECE,2
+STU00725,CS303,Operating Systems,CSE,1
+STU00725,CS304,Computer Networks,CSE,2
+STU00725,CS302,DBMS,CSE,3
+STU00726,ME301,Thermodynamics,MECH,1
+STU00726,ME304,Manufacturing Tech,MECH,2
+STU00726,ME304,Manufacturing Tech,MECH,3
+STU00726,ME304,Manufacturing Tech,MECH,4
+STU00727,CS301,Data Structures,CSE,1
+STU00727,CS304,Computer Networks,CSE,2
+STU00727,CS302,DBMS,CSE,3
+STU00727,CS304,Computer Networks,CSE,4
+STU00727,CS301,Data Structures,CSE,5
+STU00728,CS305,Data Warehousing and Mining,CSE,1
+STU00728,CS302,DBMS,CSE,2
+STU00728,CS301,Data Structures,CSE,3
+STU00728,CS305,Data Warehousing and Mining,CSE,4
+STU00728,CS303,Operating Systems,CSE,5
+STU00728,CS302,DBMS,CSE,6
+STU00729,CS305,Data Warehousing and Mining,CSE,1
+STU00729,CS304,Computer Networks,CSE,2
+STU00730,ME301,Thermodynamics,MECH,1
+STU00730,ME301,Thermodynamics,MECH,2
+STU00730,ME304,Manufacturing Tech,MECH,3
+STU00730,ME304,Manufacturing Tech,MECH,4
+STU00730,ME303,Machine Design,MECH,5
+STU00730,ME303,Machine Design,MECH,6
+STU00731,IT303,Software Engineering,IT,1
+STU00731,IT301,Web Technologies,IT,2
+STU00731,IT304,Information Security,IT,3
+STU00731,IT303,Software Engineering,IT,4
+STU00731,IT301,Web Technologies,IT,5
+STU00732,EE302,Control Systems,EEE,1
+STU00732,EE302,Control Systems,EEE,2
+STU00732,EE302,Control Systems,EEE,3
+STU00733,EE301,Power Systems,EEE,1
+STU00733,EE303,Electrical Machines,EEE,2
+STU00734,CS304,Computer Networks,CSE,1
+STU00734,CS304,Computer Networks,CSE,2
+STU00734,CS302,DBMS,CSE,3
+STU00734,CS302,DBMS,CSE,4
+STU00734,CS301,Data Structures,CSE,5
+STU00734,CS301,Data Structures,CSE,6
+STU00735,IT303,Software Engineering,IT,1
+STU00735,IT303,Software Engineering,IT,2
+STU00735,IT305,Mobile Computing,IT,3
+STU00736,CE301,Structural Analysis,CIVIL,1
+STU00736,CE301,Structural Analysis,CIVIL,2
+STU00737,CE302,Geotechnical Eng,CIVIL,1
+STU00737,CE301,Structural Analysis,CIVIL,2
+STU00738,EE305,Circuit Theory,EEE,1
+STU00738,EE302,Control Systems,EEE,2
+STU00738,EE301,Power Systems,EEE,3
+STU00738,EE302,Control Systems,EEE,4
+STU00738,EE304,Power Electronics,EEE,5
+STU00738,EE301,Power Systems,EEE,6
+STU00739,ME304,Manufacturing Tech,MECH,1
+STU00739,ME302,Fluid Mechanics,MECH,2
+STU00739,ME303,Machine Design,MECH,3
+STU00739,ME304,Manufacturing Tech,MECH,4
+STU00739,ME302,Fluid Mechanics,MECH,5
+STU00740,CE303,Surveying,CIVIL,1
+STU00740,CE304,Concrete Tech,CIVIL,2
+STU00740,CE305,Transportation Eng,CIVIL,3
+STU00740,CE302,Geotechnical Eng,CIVIL,4
+STU00740,CE305,Transportation Eng,CIVIL,5
+STU00740,CE302,Geotechnical Eng,CIVIL,6
+STU00741,EC301,Signals and Systems,ECE,1
+STU00741,EC303,Communication Systems,ECE,2
+STU00742,EE302,Control Systems,EEE,1
+STU00742,EE302,Control Systems,EEE,2
+STU00742,EE303,Electrical Machines,EEE,3
+STU00743,CS305,Data Warehousing and Mining,CSE,1
+STU00743,CS302,DBMS,CSE,2
+STU00743,CS304,Computer Networks,CSE,3
+STU00743,CS302,DBMS,CSE,4
+STU00743,CS304,Computer Networks,CSE,5
+STU00743,CS302,DBMS,CSE,6
+STU00744,ME302,Fluid Mechanics,MECH,1
+STU00744,ME302,Fluid Mechanics,MECH,2
+STU00745,EC303,Communication Systems,ECE,1
+STU00745,EC305,Microprocessors,ECE,2
+STU00745,EC304,VLSI Design,ECE,3
+STU00745,EC302,Digital Electronics,ECE,4
+STU00745,EC304,VLSI Design,ECE,5
+STU00746,CS305,Data Warehousing and Mining,CSE,1
+STU00746,CS305,Data Warehousing and Mining,CSE,2
+STU00746,CS301,Data Structures,CSE,3
+STU00746,CS305,Data Warehousing and Mining,CSE,4
+STU00746,CS303,Operating Systems,CSE,5
+STU00747,EE303,Electrical Machines,EEE,1
+STU00747,EE305,Circuit Theory,EEE,2
+STU00747,EE301,Power Systems,EEE,3
+STU00747,EE305,Circuit Theory,EEE,4
+STU00748,EC303,Communication Systems,ECE,1
+STU00748,EC301,Signals and Systems,ECE,2
+STU00749,CS302,DBMS,CSE,1
+STU00749,CS301,Data Structures,CSE,2
+STU00750,CE303,Surveying,CIVIL,1
+STU00750,CE303,Surveying,CIVIL,2
+STU00750,CE304,Concrete Tech,CIVIL,3
+STU00750,CE305,Transportation Eng,CIVIL,4
+STU00750,CE305,Transportation Eng,CIVIL,5
+STU00750,CE304,Concrete Tech,CIVIL,6
+STU00751,IT302,Cloud Computing,IT,1
+STU00751,IT302,Cloud Computing,IT,2
+STU00751,IT305,Mobile Computing,IT,3
+STU00752,EC305,Microprocessors,ECE,1
+STU00752,EC305,Microprocessors,ECE,2
+STU00752,EC305,Microprocessors,ECE,3
+STU00752,EC305,Microprocessors,ECE,4
+STU00752,EC303,Communication Systems,ECE,5
+STU00752,EC301,Signals and Systems,ECE,6
+STU00753,EC302,Digital Electronics,ECE,1
+STU00753,EC305,Microprocessors,ECE,2
+STU00753,EC302,Digital Electronics,ECE,3
+STU00753,EC301,Signals and Systems,ECE,4
+STU00753,EC303,Communication Systems,ECE,5
+STU00753,EC305,Microprocessors,ECE,6
+STU00754,CE304,Concrete Tech,CIVIL,1
+STU00754,CE302,Geotechnical Eng,CIVIL,2
+STU00754,CE301,Structural Analysis,CIVIL,3
+STU00754,CE303,Surveying,CIVIL,4
+STU00754,CE302,Geotechnical Eng,CIVIL,5
+STU00755,EC304,VLSI Design,ECE,1
+STU00755,EC302,Digital Electronics,ECE,2
+STU00756,EE302,Control Systems,EEE,1
+STU00756,EE302,Control Systems,EEE,2
+STU00756,EE304,Power Electronics,EEE,3
+STU00757,IT303,Software Engineering,IT,1
+STU00757,IT302,Cloud Computing,IT,2
+STU00757,IT302,Cloud Computing,IT,3
+STU00758,EE305,Circuit Theory,EEE,1
+STU00758,EE302,Control Systems,EEE,2
+STU00759,EC303,Communication Systems,ECE,1
+STU00759,EC301,Signals and Systems,ECE,2
+STU00759,EC305,Microprocessors,ECE,3
+STU00760,IT301,Web Technologies,IT,1
+STU00760,IT302,Cloud Computing,IT,2
+STU00760,IT303,Software Engineering,IT,3
+STU00760,IT305,Mobile Computing,IT,4
+STU00760,IT302,Cloud Computing,IT,5
+STU00760,IT303,Software Engineering,IT,6
+STU00761,IT304,Information Security,IT,1
+STU00761,IT301,Web Technologies,IT,2
+STU00762,EE305,Circuit Theory,EEE,1
+STU00762,EE304,Power Electronics,EEE,2
+STU00762,EE302,Control Systems,EEE,3
+STU00762,EE301,Power Systems,EEE,4
+STU00762,EE302,Control Systems,EEE,5
+STU00763,EC304,VLSI Design,ECE,1
+STU00763,EC301,Signals and Systems,ECE,2
+STU00763,EC303,Communication Systems,ECE,3
+STU00763,EC305,Microprocessors,ECE,4
+STU00763,EC304,VLSI Design,ECE,5
+STU00764,IT301,Web Technologies,IT,1
+STU00764,IT301,Web Technologies,IT,2
+STU00764,IT302,Cloud Computing,IT,3
+STU00764,IT302,Cloud Computing,IT,4
+STU00765,CS301,Data Structures,CSE,1
+STU00765,CS305,Data Warehousing and Mining,CSE,2
+STU00765,CS305,Data Warehousing and Mining,CSE,3
+STU00765,CS301,Data Structures,CSE,4
+STU00766,EE301,Power Systems,EEE,1
+STU00766,EE301,Power Systems,EEE,2
+STU00766,EE303,Electrical Machines,EEE,3
+STU00766,EE304,Power Electronics,EEE,4
+STU00766,EE303,Electrical Machines,EEE,5
+STU00766,EE304,Power Electronics,EEE,6
+STU00767,EE304,Power Electronics,EEE,1
+STU00767,EE302,Control Systems,EEE,2
+STU00767,EE301,Power Systems,EEE,3
+STU00767,EE301,Power Systems,EEE,4
+STU00767,EE304,Power Electronics,EEE,5
+STU00768,IT303,Software Engineering,IT,1
+STU00768,IT303,Software Engineering,IT,2
+STU00768,IT302,Cloud Computing,IT,3
+STU00768,IT304,Information Security,IT,4
+STU00768,IT303,Software Engineering,IT,5
+STU00769,ME302,Fluid Mechanics,MECH,1
+STU00769,ME305,Heat Transfer,MECH,2
+STU00769,ME304,Manufacturing Tech,MECH,3
+STU00769,ME302,Fluid Mechanics,MECH,4
+STU00770,CE303,Surveying,CIVIL,1
+STU00770,CE305,Transportation Eng,CIVIL,2
+STU00771,EC303,Communication Systems,ECE,1
+STU00771,EC301,Signals and Systems,ECE,2
+STU00771,EC303,Communication Systems,ECE,3
+STU00771,EC302,Digital Electronics,ECE,4
+STU00772,EE303,Electrical Machines,EEE,1
+STU00772,EE303,Electrical Machines,EEE,2
+STU00772,EE304,Power Electronics,EEE,3
+STU00773,EE302,Control Systems,EEE,1
+STU00773,EE301,Power Systems,EEE,2
+STU00773,EE302,Control Systems,EEE,3
+STU00774,CS305,Data Warehousing and Mining,CSE,1
+STU00774,CS305,Data Warehousing and Mining,CSE,2
+STU00774,CS304,Computer Networks,CSE,3
+STU00774,CS302,DBMS,CSE,4
+STU00774,CS301,Data Structures,CSE,5
+STU00774,CS303,Operating Systems,CSE,6
+STU00775,EC305,Microprocessors,ECE,1
+STU00775,EC304,VLSI Design,ECE,2
+STU00775,EC304,VLSI Design,ECE,3
+STU00775,EC303,Communication Systems,ECE,4
+STU00776,EC302,Digital Electronics,ECE,1
+STU00776,EC301,Signals and Systems,ECE,2
+STU00776,EC305,Microprocessors,ECE,3
+STU00776,EC303,Communication Systems,ECE,4
+STU00777,CS302,DBMS,CSE,1
+STU00777,CS302,DBMS,CSE,2
+STU00777,CS304,Computer Networks,CSE,3
+STU00777,CS302,DBMS,CSE,4
+STU00777,CS303,Operating Systems,CSE,5
+STU00778,EC305,Microprocessors,ECE,1
+STU00778,EC304,VLSI Design,ECE,2
+STU00779,IT305,Mobile Computing,IT,1
+STU00779,IT304,Information Security,IT,2
+STU00779,IT305,Mobile Computing,IT,3
+STU00779,IT305,Mobile Computing,IT,4
+STU00779,IT303,Software Engineering,IT,5
+STU00779,IT303,Software Engineering,IT,6
+STU00780,IT303,Software Engineering,IT,1
+STU00780,IT303,Software Engineering,IT,2
+STU00780,IT301,Web Technologies,IT,3
+STU00780,IT303,Software Engineering,IT,4
+STU00781,CS305,Data Warehousing and Mining,CSE,1
+STU00781,CS301,Data Structures,CSE,2
+STU00781,CS305,Data Warehousing and Mining,CSE,3
+STU00781,CS301,Data Structures,CSE,4
+STU00781,CS303,Operating Systems,CSE,5
+STU00781,CS304,Computer Networks,CSE,6
+STU00782,IT301,Web Technologies,IT,1
+STU00782,IT305,Mobile Computing,IT,2
+STU00782,IT304,Information Security,IT,3
+STU00782,IT301,Web Technologies,IT,4
+STU00782,IT301,Web Technologies,IT,5
+STU00782,IT305,Mobile Computing,IT,6
+STU00783,IT304,Information Security,IT,1
+STU00783,IT301,Web Technologies,IT,2
+STU00783,IT301,Web Technologies,IT,3
+STU00783,IT305,Mobile Computing,IT,4
+STU00784,EE305,Circuit Theory,EEE,1
+STU00784,EE304,Power Electronics,EEE,2
+STU00785,EE302,Control Systems,EEE,1
+STU00785,EE303,Electrical Machines,EEE,2
+STU00785,EE303,Electrical Machines,EEE,3
+STU00785,EE305,Circuit Theory,EEE,4
+STU00785,EE302,Control Systems,EEE,5
+STU00786,ME305,Heat Transfer,MECH,1
+STU00786,ME303,Machine Design,MECH,2
+STU00787,CS305,Data Warehousing and Mining,CSE,1
+STU00787,CS305,Data Warehousing and Mining,CSE,2
+STU00788,CS302,DBMS,CSE,1
+STU00788,CS305,Data Warehousing and Mining,CSE,2
+STU00788,CS302,DBMS,CSE,3
+STU00789,CE301,Structural Analysis,CIVIL,1
+STU00789,CE301,Structural Analysis,CIVIL,2
+STU00789,CE304,Concrete Tech,CIVIL,3
+STU00789,CE304,Concrete Tech,CIVIL,4
+STU00789,CE304,Concrete Tech,CIVIL,5
+STU00790,EC302,Digital Electronics,ECE,1
+STU00790,EC303,Communication Systems,ECE,2
+STU00790,EC302,Digital Electronics,ECE,3
+STU00790,EC303,Communication Systems,ECE,4
+STU00791,IT302,Cloud Computing,IT,1
+STU00791,IT304,Information Security,IT,2
+STU00792,CE303,Surveying,CIVIL,1
+STU00792,CE303,Surveying,CIVIL,2
+STU00792,CE301,Structural Analysis,CIVIL,3
+STU00793,ME305,Heat Transfer,MECH,1
+STU00793,ME305,Heat Transfer,MECH,2
+STU00794,EE301,Power Systems,EEE,1
+STU00794,EE301,Power Systems,EEE,2
+STU00794,EE301,Power Systems,EEE,3
+STU00794,EE304,Power Electronics,EEE,4
+STU00795,EE305,Circuit Theory,EEE,1
+STU00795,EE301,Power Systems,EEE,2
+STU00796,IT305,Mobile Computing,IT,1
+STU00796,IT302,Cloud Computing,IT,2
+STU00796,IT303,Software Engineering,IT,3
+STU00797,EC305,Microprocessors,ECE,1
+STU00797,EC305,Microprocessors,ECE,2
+STU00797,EC304,VLSI Design,ECE,3
+STU00798,EC302,Digital Electronics,ECE,1
+STU00798,EC301,Signals and Systems,ECE,2
+STU00798,EC305,Microprocessors,ECE,3
+STU00798,EC303,Communication Systems,ECE,4
+STU00798,EC301,Signals and Systems,ECE,5
+STU00798,EC302,Digital Electronics,ECE,6
+STU00799,CE304,Concrete Tech,CIVIL,1
+STU00799,CE305,Transportation Eng,CIVIL,2
+STU00800,EE303,Electrical Machines,EEE,1
+STU00800,EE305,Circuit Theory,EEE,2
+STU00800,EE304,Power Electronics,EEE,3
+STU00800,EE305,Circuit Theory,EEE,4
+STU00800,EE303,Electrical Machines,EEE,5
+STU00800,EE303,Electrical Machines,EEE,6
+STU00801,EC304,VLSI Design,ECE,1
+STU00801,EC304,VLSI Design,ECE,2
+STU00801,EC303,Communication Systems,ECE,3
+STU00802,IT305,Mobile Computing,IT,1
+STU00802,IT305,Mobile Computing,IT,2
+STU00802,IT303,Software Engineering,IT,3
+STU00802,IT305,Mobile Computing,IT,4
+STU00802,IT303,Software Engineering,IT,5
+STU00803,EC304,VLSI Design,ECE,1
+STU00803,EC303,Communication Systems,ECE,2
+STU00803,EC304,VLSI Design,ECE,3
+STU00804,CE301,Structural Analysis,CIVIL,1
+STU00804,CE301,Structural Analysis,CIVIL,2
+STU00804,CE301,Structural Analysis,CIVIL,3
+STU00804,CE305,Transportation Eng,CIVIL,4
+STU00804,CE305,Transportation Eng,CIVIL,5
+STU00805,CS304,Computer Networks,CSE,1
+STU00805,CS301,Data Structures,CSE,2
+STU00805,CS302,DBMS,CSE,3
+STU00805,CS303,Operating Systems,CSE,4
+STU00806,EC301,Signals and Systems,ECE,1
+STU00806,EC301,Signals and Systems,ECE,2
+STU00806,EC304,VLSI Design,ECE,3
+STU00806,EC303,Communication Systems,ECE,4
+STU00807,EC305,Microprocessors,ECE,1
+STU00807,EC305,Microprocessors,ECE,2
+STU00807,EC301,Signals and Systems,ECE,3
+STU00807,EC301,Signals and Systems,ECE,4
+STU00807,EC302,Digital Electronics,ECE,5
+STU00808,ME301,Thermodynamics,MECH,1
+STU00808,ME304,Manufacturing Tech,MECH,2
+STU00808,ME305,Heat Transfer,MECH,3
+STU00808,ME301,Thermodynamics,MECH,4
+STU00809,EE301,Power Systems,EEE,1
+STU00809,EE301,Power Systems,EEE,2
+STU00809,EE303,Electrical Machines,EEE,3
+STU00810,ME302,Fluid Mechanics,MECH,1
+STU00810,ME304,Manufacturing Tech,MECH,2
+STU00810,ME302,Fluid Mechanics,MECH,3
+STU00810,ME305,Heat Transfer,MECH,4
+STU00810,ME305,Heat Transfer,MECH,5
+STU00811,CE305,Transportation Eng,CIVIL,1
+STU00811,CE302,Geotechnical Eng,CIVIL,2
+STU00811,CE304,Concrete Tech,CIVIL,3
+STU00811,CE304,Concrete Tech,CIVIL,4
+STU00811,CE304,Concrete Tech,CIVIL,5
+STU00812,EE304,Power Electronics,EEE,1
+STU00812,EE305,Circuit Theory,EEE,2
+STU00812,EE304,Power Electronics,EEE,3
+STU00813,EE302,Control Systems,EEE,1
+STU00813,EE301,Power Systems,EEE,2
+STU00813,EE301,Power Systems,EEE,3
+STU00813,EE304,Power Electronics,EEE,4
+STU00813,EE302,Control Systems,EEE,5
+STU00814,CS303,Operating Systems,CSE,1
+STU00814,CS303,Operating Systems,CSE,2
+STU00814,CS303,Operating Systems,CSE,3
+STU00815,EC301,Signals and Systems,ECE,1
+STU00815,EC302,Digital Electronics,ECE,2
+STU00816,ME304,Manufacturing Tech,MECH,1
+STU00816,ME302,Fluid Mechanics,MECH,2
+STU00816,ME304,Manufacturing Tech,MECH,3
+STU00816,ME301,Thermodynamics,MECH,4
+STU00816,ME302,Fluid Mechanics,MECH,5
+STU00816,ME304,Manufacturing Tech,MECH,6
+STU00817,EC301,Signals and Systems,ECE,1
+STU00817,EC304,VLSI Design,ECE,2
+STU00818,IT302,Cloud Computing,IT,1
+STU00818,IT305,Mobile Computing,IT,2
+STU00818,IT305,Mobile Computing,IT,3
+STU00818,IT302,Cloud Computing,IT,4
+STU00818,IT301,Web Technologies,IT,5
+STU00819,IT303,Software Engineering,IT,1
+STU00819,IT302,Cloud Computing,IT,2
+STU00819,IT304,Information Security,IT,3
+STU00820,EC304,VLSI Design,ECE,1
+STU00820,EC302,Digital Electronics,ECE,2
+STU00821,CS301,Data Structures,CSE,1
+STU00821,CS302,DBMS,CSE,2
+STU00821,CS303,Operating Systems,CSE,3
+STU00821,CS301,Data Structures,CSE,4
+STU00821,CS301,Data Structures,CSE,5
+STU00821,CS305,Data Warehousing and Mining,CSE,6
+STU00822,CE302,Geotechnical Eng,CIVIL,1
+STU00822,CE305,Transportation Eng,CIVIL,2
+STU00822,CE301,Structural Analysis,CIVIL,3
+STU00822,CE301,Structural Analysis,CIVIL,4
+STU00822,CE305,Transportation Eng,CIVIL,5
+STU00822,CE305,Transportation Eng,CIVIL,6
+STU00823,ME303,Machine Design,MECH,1
+STU00823,ME302,Fluid Mechanics,MECH,2
+STU00823,ME302,Fluid Mechanics,MECH,3
+STU00823,ME304,Manufacturing Tech,MECH,4
+STU00824,ME301,Thermodynamics,MECH,1
+STU00824,ME305,Heat Transfer,MECH,2
+STU00824,ME302,Fluid Mechanics,MECH,3
+STU00824,ME305,Heat Transfer,MECH,4
+STU00824,ME301,Thermodynamics,MECH,5
+STU00824,ME305,Heat Transfer,MECH,6
+STU00825,EC305,Microprocessors,ECE,1
+STU00825,EC304,VLSI Design,ECE,2
+STU00825,EC304,VLSI Design,ECE,3
+STU00825,EC303,Communication Systems,ECE,4
+STU00826,CE302,Geotechnical Eng,CIVIL,1
+STU00826,CE305,Transportation Eng,CIVIL,2
+STU00826,CE302,Geotechnical Eng,CIVIL,3
+STU00826,CE303,Surveying,CIVIL,4
+STU00826,CE304,Concrete Tech,CIVIL,5
+STU00827,ME303,Machine Design,MECH,1
+STU00827,ME304,Manufacturing Tech,MECH,2
+STU00827,ME302,Fluid Mechanics,MECH,3
+STU00828,IT304,Information Security,IT,1
+STU00828,IT304,Information Security,IT,2
+STU00828,IT303,Software Engineering,IT,3
+STU00828,IT304,Information Security,IT,4
+STU00828,IT304,Information Security,IT,5
+STU00829,IT304,Information Security,IT,1
+STU00829,IT304,Information Security,IT,2
+STU00829,IT303,Software Engineering,IT,3
+STU00829,IT304,Information Security,IT,4
+STU00829,IT305,Mobile Computing,IT,5
+STU00830,CE302,Geotechnical Eng,CIVIL,1
+STU00830,CE305,Transportation Eng,CIVIL,2
+STU00830,CE305,Transportation Eng,CIVIL,3
+STU00831,CE305,Transportation Eng,CIVIL,1
+STU00831,CE303,Surveying,CIVIL,2
+STU00831,CE302,Geotechnical Eng,CIVIL,3
+STU00831,CE302,Geotechnical Eng,CIVIL,4
+STU00831,CE301,Structural Analysis,CIVIL,5
+STU00832,CE305,Transportation Eng,CIVIL,1
+STU00832,CE301,Structural Analysis,CIVIL,2
+STU00832,CE302,Geotechnical Eng,CIVIL,3
+STU00832,CE305,Transportation Eng,CIVIL,4
+STU00833,CE305,Transportation Eng,CIVIL,1
+STU00833,CE302,Geotechnical Eng,CIVIL,2
+STU00833,CE301,Structural Analysis,CIVIL,3
+STU00833,CE304,Concrete Tech,CIVIL,4
+STU00833,CE303,Surveying,CIVIL,5
+STU00834,ME305,Heat Transfer,MECH,1
+STU00834,ME302,Fluid Mechanics,MECH,2
+STU00834,ME303,Machine Design,MECH,3
+STU00834,ME302,Fluid Mechanics,MECH,4
+STU00834,ME304,Manufacturing Tech,MECH,5
+STU00835,EE305,Circuit Theory,EEE,1
+STU00835,EE301,Power Systems,EEE,2
+STU00835,EE301,Power Systems,EEE,3
+STU00835,EE301,Power Systems,EEE,4
+STU00835,EE303,Electrical Machines,EEE,5
+STU00835,EE303,Electrical Machines,EEE,6
+STU00836,ME302,Fluid Mechanics,MECH,1
+STU00836,ME303,Machine Design,MECH,2
+STU00836,ME303,Machine Design,MECH,3
+STU00837,CS304,Computer Networks,CSE,1
+STU00837,CS303,Operating Systems,CSE,2
+STU00837,CS303,Operating Systems,CSE,3
+STU00837,CS301,Data Structures,CSE,4
+STU00837,CS302,DBMS,CSE,5
+STU00837,CS304,Computer Networks,CSE,6
+STU00838,EC305,Microprocessors,ECE,1
+STU00838,EC302,Digital Electronics,ECE,2
+STU00838,EC303,Communication Systems,ECE,3
+STU00838,EC301,Signals and Systems,ECE,4
+STU00838,EC304,VLSI Design,ECE,5
+STU00838,EC301,Signals and Systems,ECE,6
+STU00839,CS304,Computer Networks,CSE,1
+STU00839,CS304,Computer Networks,CSE,2
+STU00839,CS301,Data Structures,CSE,3
+STU00839,CS304,Computer Networks,CSE,4
+STU00839,CS304,Computer Networks,CSE,5
+STU00840,EE305,Circuit Theory,EEE,1
+STU00840,EE303,Electrical Machines,EEE,2
+STU00840,EE303,Electrical Machines,EEE,3
+STU00840,EE302,Control Systems,EEE,4
+STU00840,EE305,Circuit Theory,EEE,5
+STU00841,CE302,Geotechnical Eng,CIVIL,1
+STU00841,CE302,Geotechnical Eng,CIVIL,2
+STU00841,CE303,Surveying,CIVIL,3
+STU00841,CE303,Surveying,CIVIL,4
+STU00841,CE301,Structural Analysis,CIVIL,5
+STU00842,EC303,Communication Systems,ECE,1
+STU00842,EC302,Digital Electronics,ECE,2
+STU00842,EC305,Microprocessors,ECE,3
+STU00843,EE303,Electrical Machines,EEE,1
+STU00843,EE301,Power Systems,EEE,2
+STU00843,EE303,Electrical Machines,EEE,3
+STU00843,EE304,Power Electronics,EEE,4
+STU00843,EE303,Electrical Machines,EEE,5
+STU00844,CS304,Computer Networks,CSE,1
+STU00844,CS303,Operating Systems,CSE,2
+STU00844,CS302,DBMS,CSE,3
+STU00844,CS305,Data Warehousing and Mining,CSE,4
+STU00845,IT304,Information Security,IT,1
+STU00845,IT304,Information Security,IT,2
+STU00845,IT304,Information Security,IT,3
+STU00845,IT303,Software Engineering,IT,4
+STU00846,EE303,Electrical Machines,EEE,1
+STU00846,EE304,Power Electronics,EEE,2
+STU00846,EE302,Control Systems,EEE,3
+STU00846,EE303,Electrical Machines,EEE,4
+STU00847,CE303,Surveying,CIVIL,1
+STU00847,CE301,Structural Analysis,CIVIL,2
+STU00847,CE301,Structural Analysis,CIVIL,3
+STU00847,CE305,Transportation Eng,CIVIL,4
+STU00847,CE301,Structural Analysis,CIVIL,5
+STU00848,CS302,DBMS,CSE,1
+STU00848,CS302,DBMS,CSE,2
+STU00849,IT302,Cloud Computing,IT,1
+STU00849,IT301,Web Technologies,IT,2
+STU00850,EE301,Power Systems,EEE,1
+STU00850,EE305,Circuit Theory,EEE,2
+STU00851,ME305,Heat Transfer,MECH,1
+STU00851,ME303,Machine Design,MECH,2
+STU00851,ME305,Heat Transfer,MECH,3
+STU00852,ME302,Fluid Mechanics,MECH,1
+STU00852,ME301,Thermodynamics,MECH,2
+STU00853,CS301,Data Structures,CSE,1
+STU00853,CS304,Computer Networks,CSE,2
+STU00854,EE301,Power Systems,EEE,1
+STU00854,EE304,Power Electronics,EEE,2
+STU00854,EE305,Circuit Theory,EEE,3
+STU00855,ME302,Fluid Mechanics,MECH,1
+STU00855,ME305,Heat Transfer,MECH,2
+STU00855,ME304,Manufacturing Tech,MECH,3
+STU00855,ME305,Heat Transfer,MECH,4
+STU00855,ME304,Manufacturing Tech,MECH,5
+STU00856,IT301,Web Technologies,IT,1
+STU00856,IT302,Cloud Computing,IT,2
+STU00856,IT303,Software Engineering,IT,3
+STU00856,IT305,Mobile Computing,IT,4
+STU00856,IT301,Web Technologies,IT,5
+STU00856,IT302,Cloud Computing,IT,6
+STU00857,CE302,Geotechnical Eng,CIVIL,1
+STU00857,CE304,Concrete Tech,CIVIL,2
+STU00857,CE305,Transportation Eng,CIVIL,3
+STU00857,CE305,Transportation Eng,CIVIL,4
+STU00858,IT304,Information Security,IT,1
+STU00858,IT303,Software Engineering,IT,2
+STU00858,IT305,Mobile Computing,IT,3
+STU00859,CE303,Surveying,CIVIL,1
+STU00859,CE301,Structural Analysis,CIVIL,2
+STU00859,CE301,Structural Analysis,CIVIL,3
+STU00859,CE303,Surveying,CIVIL,4
+STU00860,EE304,Power Electronics,EEE,1
+STU00860,EE304,Power Electronics,EEE,2
+STU00860,EE301,Power Systems,EEE,3
+STU00860,EE305,Circuit Theory,EEE,4
+STU00860,EE305,Circuit Theory,EEE,5
+STU00860,EE305,Circuit Theory,EEE,6
+STU00861,EC304,VLSI Design,ECE,1
+STU00861,EC304,VLSI Design,ECE,2
+STU00861,EC304,VLSI Design,ECE,3
+STU00861,EC304,VLSI Design,ECE,4
+STU00862,EC302,Digital Electronics,ECE,1
+STU00862,EC305,Microprocessors,ECE,2
+STU00862,EC301,Signals and Systems,ECE,3
+STU00862,EC304,VLSI Design,ECE,4
+STU00862,EC304,VLSI Design,ECE,5
+STU00862,EC304,VLSI Design,ECE,6
+STU00863,EE304,Power Electronics,EEE,1
+STU00863,EE302,Control Systems,EEE,2
+STU00863,EE304,Power Electronics,EEE,3
+STU00863,EE302,Control Systems,EEE,4
+STU00863,EE304,Power Electronics,EEE,5
+STU00864,EC303,Communication Systems,ECE,1
+STU00864,EC304,VLSI Design,ECE,2
+STU00864,EC302,Digital Electronics,ECE,3
+STU00864,EC302,Digital Electronics,ECE,4
+STU00864,EC301,Signals and Systems,ECE,5
+STU00865,ME302,Fluid Mechanics,MECH,1
+STU00865,ME303,Machine Design,MECH,2
+STU00865,ME301,Thermodynamics,MECH,3
+STU00865,ME304,Manufacturing Tech,MECH,4
+STU00865,ME303,Machine Design,MECH,5
+STU00866,CS302,DBMS,CSE,1
+STU00866,CS305,Data Warehousing and Mining,CSE,2
+STU00866,CS304,Computer Networks,CSE,3
+STU00867,EC304,VLSI Design,ECE,1
+STU00867,EC303,Communication Systems,ECE,2
+STU00867,EC301,Signals and Systems,ECE,3
+STU00868,CE305,Transportation Eng,CIVIL,1
+STU00868,CE302,Geotechnical Eng,CIVIL,2
+STU00868,CE305,Transportation Eng,CIVIL,3
+STU00868,CE302,Geotechnical Eng,CIVIL,4
+STU00868,CE304,Concrete Tech,CIVIL,5
+STU00869,EE302,Control Systems,EEE,1
+STU00869,EE303,Electrical Machines,EEE,2
+STU00869,EE305,Circuit Theory,EEE,3
+STU00869,EE305,Circuit Theory,EEE,4
+STU00870,EE303,Electrical Machines,EEE,1
+STU00870,EE303,Electrical Machines,EEE,2
+STU00870,EE303,Electrical Machines,EEE,3
+STU00870,EE301,Power Systems,EEE,4
+STU00870,EE304,Power Electronics,EEE,5
+STU00870,EE304,Power Electronics,EEE,6
+STU00871,EE303,Electrical Machines,EEE,1
+STU00871,EE303,Electrical Machines,EEE,2
+STU00871,EE303,Electrical Machines,EEE,3
+STU00872,ME303,Machine Design,MECH,1
+STU00872,ME302,Fluid Mechanics,MECH,2
+STU00872,ME305,Heat Transfer,MECH,3
+STU00872,ME305,Heat Transfer,MECH,4
+STU00872,ME302,Fluid Mechanics,MECH,5
+STU00872,ME305,Heat Transfer,MECH,6
+STU00873,ME303,Machine Design,MECH,1
+STU00873,ME304,Manufacturing Tech,MECH,2
+STU00874,EC303,Communication Systems,ECE,1
+STU00874,EC305,Microprocessors,ECE,2
+STU00874,EC304,VLSI Design,ECE,3
+STU00874,EC301,Signals and Systems,ECE,4
+STU00874,EC304,VLSI Design,ECE,5
+STU00874,EC303,Communication Systems,ECE,6
+STU00875,EE301,Power Systems,EEE,1
+STU00875,EE302,Control Systems,EEE,2
+STU00875,EE301,Power Systems,EEE,3
+STU00875,EE303,Electrical Machines,EEE,4
+STU00876,CS302,DBMS,CSE,1
+STU00876,CS303,Operating Systems,CSE,2
+STU00876,CS303,Operating Systems,CSE,3
+STU00876,CS302,DBMS,CSE,4
+STU00876,CS303,Operating Systems,CSE,5
+STU00876,CS302,DBMS,CSE,6
+STU00877,EE304,Power Electronics,EEE,1
+STU00877,EE301,Power Systems,EEE,2
+STU00877,EE303,Electrical Machines,EEE,3
+STU00878,CE303,Surveying,CIVIL,1
+STU00878,CE301,Structural Analysis,CIVIL,2
+STU00878,CE301,Structural Analysis,CIVIL,3
+STU00879,ME302,Fluid Mechanics,MECH,1
+STU00879,ME304,Manufacturing Tech,MECH,2
+STU00879,ME305,Heat Transfer,MECH,3
+STU00879,ME303,Machine Design,MECH,4
+STU00879,ME303,Machine Design,MECH,5
+STU00880,IT302,Cloud Computing,IT,1
+STU00880,IT303,Software Engineering,IT,2
+STU00880,IT305,Mobile Computing,IT,3
+STU00880,IT303,Software Engineering,IT,4
+STU00881,ME301,Thermodynamics,MECH,1
+STU00881,ME305,Heat Transfer,MECH,2
+STU00882,CS302,DBMS,CSE,1
+STU00882,CS304,Computer Networks,CSE,2
+STU00882,CS304,Computer Networks,CSE,3
+STU00882,CS304,Computer Networks,CSE,4
+STU00883,CE305,Transportation Eng,CIVIL,1
+STU00883,CE303,Surveying,CIVIL,2
+STU00883,CE305,Transportation Eng,CIVIL,3
+STU00883,CE305,Transportation Eng,CIVIL,4
+STU00884,CS304,Computer Networks,CSE,1
+STU00884,CS301,Data Structures,CSE,2
+STU00884,CS302,DBMS,CSE,3
+STU00885,EE302,Control Systems,EEE,1
+STU00885,EE301,Power Systems,EEE,2
+STU00885,EE303,Electrical Machines,EEE,3
+STU00885,EE301,Power Systems,EEE,4
+STU00885,EE303,Electrical Machines,EEE,5
+STU00885,EE304,Power Electronics,EEE,6
+STU00886,IT301,Web Technologies,IT,1
+STU00886,IT304,Information Security,IT,2
+STU00886,IT305,Mobile Computing,IT,3
+STU00886,IT302,Cloud Computing,IT,4
+STU00886,IT302,Cloud Computing,IT,5
+STU00886,IT303,Software Engineering,IT,6
+STU00887,CS301,Data Structures,CSE,1
+STU00887,CS301,Data Structures,CSE,2
+STU00887,CS304,Computer Networks,CSE,3
+STU00888,EC302,Digital Electronics,ECE,1
+STU00888,EC302,Digital Electronics,ECE,2
+STU00889,EE303,Electrical Machines,EEE,1
+STU00889,EE304,Power Electronics,EEE,2
+STU00889,EE301,Power Systems,EEE,3
+STU00889,EE304,Power Electronics,EEE,4
+STU00889,EE304,Power Electronics,EEE,5
+STU00889,EE301,Power Systems,EEE,6
+STU00890,CS301,Data Structures,CSE,1
+STU00890,CS302,DBMS,CSE,2
+STU00890,CS301,Data Structures,CSE,3
+STU00890,CS301,Data Structures,CSE,4
+STU00890,CS305,Data Warehousing and Mining,CSE,5
+STU00890,CS304,Computer Networks,CSE,6
+STU00891,EC305,Microprocessors,ECE,1
+STU00891,EC305,Microprocessors,ECE,2
+STU00891,EC303,Communication Systems,ECE,3
+STU00892,ME304,Manufacturing Tech,MECH,1
+STU00892,ME302,Fluid Mechanics,MECH,2
+STU00892,ME303,Machine Design,MECH,3
+STU00892,ME303,Machine Design,MECH,4
+STU00892,ME304,Manufacturing Tech,MECH,5
+STU00892,ME303,Machine Design,MECH,6
+STU00893,IT304,Information Security,IT,1
+STU00893,IT302,Cloud Computing,IT,2
+STU00894,CS301,Data Structures,CSE,1
+STU00894,CS301,Data Structures,CSE,2
+STU00895,IT305,Mobile Computing,IT,1
+STU00895,IT302,Cloud Computing,IT,2
+STU00895,IT303,Software Engineering,IT,3
+STU00896,EE302,Control Systems,EEE,1
+STU00896,EE302,Control Systems,EEE,2
+STU00897,CS301,Data Structures,CSE,1
+STU00897,CS302,DBMS,CSE,2
+STU00897,CS302,DBMS,CSE,3
+STU00897,CS304,Computer Networks,CSE,4
+STU00898,EE304,Power Electronics,EEE,1
+STU00898,EE304,Power Electronics,EEE,2
+STU00898,EE305,Circuit Theory,EEE,3
+STU00898,EE302,Control Systems,EEE,4
+STU00898,EE305,Circuit Theory,EEE,5
+STU00899,ME301,Thermodynamics,MECH,1
+STU00899,ME301,Thermodynamics,MECH,2
+STU00900,EE303,Electrical Machines,EEE,1
+STU00900,EE304,Power Electronics,EEE,2
+STU00901,CE301,Structural Analysis,CIVIL,1
+STU00901,CE302,Geotechnical Eng,CIVIL,2
+STU00902,EE303,Electrical Machines,EEE,1
+STU00902,EE303,Electrical Machines,EEE,2
+STU00902,EE301,Power Systems,EEE,3
+STU00902,EE301,Power Systems,EEE,4
+STU00902,EE303,Electrical Machines,EEE,5
+STU00903,ME304,Manufacturing Tech,MECH,1
+STU00903,ME301,Thermodynamics,MECH,2
+STU00903,ME304,Manufacturing Tech,MECH,3
+STU00903,ME301,Thermodynamics,MECH,4
+STU00904,CS302,DBMS,CSE,1
+STU00904,CS305,Data Warehousing and Mining,CSE,2
+STU00905,CS301,Data Structures,CSE,1
+STU00905,CS301,Data Structures,CSE,2
+STU00905,CS302,DBMS,CSE,3
+STU00905,CS304,Computer Networks,CSE,4
+STU00906,ME301,Thermodynamics,MECH,1
+STU00906,ME304,Manufacturing Tech,MECH,2
+STU00907,IT302,Cloud Computing,IT,1
+STU00907,IT305,Mobile Computing,IT,2
+STU00907,IT301,Web Technologies,IT,3
+STU00907,IT303,Software Engineering,IT,4
+STU00907,IT302,Cloud Computing,IT,5
+STU00908,CE303,Surveying,CIVIL,1
+STU00908,CE302,Geotechnical Eng,CIVIL,2
+STU00909,IT301,Web Technologies,IT,1
+STU00909,IT305,Mobile Computing,IT,2
+STU00910,CS301,Data Structures,CSE,1
+STU00910,CS303,Operating Systems,CSE,2
+STU00910,CS305,Data Warehousing and Mining,CSE,3
+STU00911,CE304,Concrete Tech,CIVIL,1
+STU00911,CE303,Surveying,CIVIL,2
+STU00911,CE305,Transportation Eng,CIVIL,3
+STU00911,CE303,Surveying,CIVIL,4
+STU00911,CE304,Concrete Tech,CIVIL,5
+STU00912,EE304,Power Electronics,EEE,1
+STU00912,EE304,Power Electronics,EEE,2
+STU00912,EE303,Electrical Machines,EEE,3
+STU00912,EE304,Power Electronics,EEE,4
+STU00912,EE303,Electrical Machines,EEE,5
+STU00912,EE301,Power Systems,EEE,6
+STU00913,IT303,Software Engineering,IT,1
+STU00913,IT304,Information Security,IT,2
+STU00913,IT305,Mobile Computing,IT,3
+STU00914,CS303,Operating Systems,CSE,1
+STU00914,CS305,Data Warehousing and Mining,CSE,2
+STU00915,EC302,Digital Electronics,ECE,1
+STU00915,EC302,Digital Electronics,ECE,2
+STU00915,EC301,Signals and Systems,ECE,3
+STU00915,EC301,Signals and Systems,ECE,4
+STU00915,EC305,Microprocessors,ECE,5
+STU00915,EC305,Microprocessors,ECE,6
+STU00916,CS305,Data Warehousing and Mining,CSE,1
+STU00916,CS302,DBMS,CSE,2
+STU00916,CS304,Computer Networks,CSE,3
+STU00916,CS303,Operating Systems,CSE,4
+STU00917,ME304,Manufacturing Tech,MECH,1
+STU00917,ME302,Fluid Mechanics,MECH,2
+STU00917,ME304,Manufacturing Tech,MECH,3
+STU00917,ME302,Fluid Mechanics,MECH,4
+STU00917,ME302,Fluid Mechanics,MECH,5
+STU00917,ME301,Thermodynamics,MECH,6
+STU00918,EC302,Digital Electronics,ECE,1
+STU00918,EC303,Communication Systems,ECE,2
+STU00918,EC304,VLSI Design,ECE,3
+STU00918,EC302,Digital Electronics,ECE,4
+STU00918,EC302,Digital Electronics,ECE,5
+STU00919,IT301,Web Technologies,IT,1
+STU00919,IT301,Web Technologies,IT,2
+STU00920,ME301,Thermodynamics,MECH,1
+STU00920,ME303,Machine Design,MECH,2
+STU00920,ME301,Thermodynamics,MECH,3
+STU00921,ME304,Manufacturing Tech,MECH,1
+STU00921,ME305,Heat Transfer,MECH,2
+STU00921,ME303,Machine Design,MECH,3
+STU00921,ME303,Machine Design,MECH,4
+STU00922,ME304,Manufacturing Tech,MECH,1
+STU00922,ME305,Heat Transfer,MECH,2
+STU00922,ME304,Manufacturing Tech,MECH,3
+STU00922,ME304,Manufacturing Tech,MECH,4
+STU00923,IT301,Web Technologies,IT,1
+STU00923,IT304,Information Security,IT,2
+STU00923,IT305,Mobile Computing,IT,3
+STU00923,IT304,Information Security,IT,4
+STU00924,EC301,Signals and Systems,ECE,1
+STU00924,EC301,Signals and Systems,ECE,2
+STU00924,EC301,Signals and Systems,ECE,3
+STU00924,EC303,Communication Systems,ECE,4
+STU00924,EC301,Signals and Systems,ECE,5
+STU00925,EE304,Power Electronics,EEE,1
+STU00925,EE303,Electrical Machines,EEE,2
+STU00926,CS304,Computer Networks,CSE,1
+STU00926,CS303,Operating Systems,CSE,2
+STU00926,CS305,Data Warehousing and Mining,CSE,3
+STU00926,CS302,DBMS,CSE,4
+STU00926,CS301,Data Structures,CSE,5
+STU00926,CS302,DBMS,CSE,6
+STU00927,CS304,Computer Networks,CSE,1
+STU00927,CS305,Data Warehousing and Mining,CSE,2
+STU00927,CS304,Computer Networks,CSE,3
+STU00927,CS305,Data Warehousing and Mining,CSE,4
+STU00927,CS305,Data Warehousing and Mining,CSE,5
+STU00927,CS303,Operating Systems,CSE,6
+STU00928,IT304,Information Security,IT,1
+STU00928,IT304,Information Security,IT,2
+STU00928,IT302,Cloud Computing,IT,3
+STU00928,IT303,Software Engineering,IT,4
+STU00928,IT304,Information Security,IT,5
+STU00928,IT302,Cloud Computing,IT,6
+STU00929,EE304,Power Electronics,EEE,1
+STU00929,EE302,Control Systems,EEE,2
+STU00929,EE304,Power Electronics,EEE,3
+STU00930,ME301,Thermodynamics,MECH,1
+STU00930,ME302,Fluid Mechanics,MECH,2
+STU00930,ME303,Machine Design,MECH,3
+STU00930,ME302,Fluid Mechanics,MECH,4
+STU00930,ME301,Thermodynamics,MECH,5
+STU00931,CS302,DBMS,CSE,1
+STU00931,CS305,Data Warehousing and Mining,CSE,2
+STU00931,CS304,Computer Networks,CSE,3
+STU00932,EE304,Power Electronics,EEE,1
+STU00932,EE305,Circuit Theory,EEE,2
+STU00932,EE305,Circuit Theory,EEE,3
+STU00932,EE304,Power Electronics,EEE,4
+STU00933,EC303,Communication Systems,ECE,1
+STU00933,EC305,Microprocessors,ECE,2
+STU00934,CE301,Structural Analysis,CIVIL,1
+STU00934,CE303,Surveying,CIVIL,2
+STU00935,CS304,Computer Networks,CSE,1
+STU00935,CS302,DBMS,CSE,2
+STU00935,CS301,Data Structures,CSE,3
+STU00935,CS301,Data Structures,CSE,4
+STU00935,CS302,DBMS,CSE,5
+STU00936,EE303,Electrical Machines,EEE,1
+STU00936,EE304,Power Electronics,EEE,2
+STU00936,EE302,Control Systems,EEE,3
+STU00936,EE301,Power Systems,EEE,4
+STU00936,EE302,Control Systems,EEE,5
+STU00936,EE302,Control Systems,EEE,6
+STU00937,EE304,Power Electronics,EEE,1
+STU00937,EE303,Electrical Machines,EEE,2
+STU00937,EE305,Circuit Theory,EEE,3
+STU00938,EE305,Circuit Theory,EEE,1
+STU00938,EE305,Circuit Theory,EEE,2
+STU00939,EC302,Digital Electronics,ECE,1
+STU00939,EC302,Digital Electronics,ECE,2
+STU00939,EC302,Digital Electronics,ECE,3
+STU00939,EC304,VLSI Design,ECE,4
+STU00940,IT302,Cloud Computing,IT,1
+STU00940,IT302,Cloud Computing,IT,2
+STU00940,IT305,Mobile Computing,IT,3
+STU00940,IT302,Cloud Computing,IT,4
+STU00940,IT305,Mobile Computing,IT,5
+STU00941,ME304,Manufacturing Tech,MECH,1
+STU00941,ME305,Heat Transfer,MECH,2
+STU00942,IT304,Information Security,IT,1
+STU00942,IT302,Cloud Computing,IT,2
+STU00942,IT304,Information Security,IT,3
+STU00943,CE301,Structural Analysis,CIVIL,1
+STU00943,CE304,Concrete Tech,CIVIL,2
+STU00943,CE302,Geotechnical Eng,CIVIL,3
+STU00943,CE304,Concrete Tech,CIVIL,4
+STU00943,CE305,Transportation Eng,CIVIL,5
+STU00944,CS304,Computer Networks,CSE,1
+STU00944,CS302,DBMS,CSE,2
+STU00944,CS305,Data Warehousing and Mining,CSE,3
+STU00945,EE301,Power Systems,EEE,1
+STU00945,EE305,Circuit Theory,EEE,2
+STU00945,EE304,Power Electronics,EEE,3
+STU00945,EE305,Circuit Theory,EEE,4
+STU00945,EE302,Control Systems,EEE,5
+STU00946,EE303,Electrical Machines,EEE,1
+STU00946,EE303,Electrical Machines,EEE,2
+STU00946,EE303,Electrical Machines,EEE,3
+STU00946,EE305,Circuit Theory,EEE,4
+STU00947,CS304,Computer Networks,CSE,1
+STU00947,CS304,Computer Networks,CSE,2
+STU00947,CS304,Computer Networks,CSE,3
+STU00947,CS301,Data Structures,CSE,4
+STU00948,EC305,Microprocessors,ECE,1
+STU00948,EC303,Communication Systems,ECE,2
+STU00948,EC303,Communication Systems,ECE,3
+STU00948,EC305,Microprocessors,ECE,4
+STU00949,EC303,Communication Systems,ECE,1
+STU00949,EC305,Microprocessors,ECE,2
+STU00949,EC303,Communication Systems,ECE,3
+STU00949,EC302,Digital Electronics,ECE,4
+STU00950,CE304,Concrete Tech,CIVIL,1
+STU00950,CE303,Surveying,CIVIL,2
+STU00950,CE302,Geotechnical Eng,CIVIL,3
+STU00950,CE303,Surveying,CIVIL,4
+STU00950,CE303,Surveying,CIVIL,5
+STU00950,CE302,Geotechnical Eng,CIVIL,6
+STU00951,CE305,Transportation Eng,CIVIL,1
+STU00951,CE301,Structural Analysis,CIVIL,2
+STU00951,CE302,Geotechnical Eng,CIVIL,3
+STU00951,CE305,Transportation Eng,CIVIL,4
+STU00951,CE302,Geotechnical Eng,CIVIL,5
+STU00951,CE303,Surveying,CIVIL,6
+STU00952,EC304,VLSI Design,ECE,1
+STU00952,EC305,Microprocessors,ECE,2
+STU00952,EC305,Microprocessors,ECE,3
+STU00952,EC302,Digital Electronics,ECE,4
+STU00952,EC305,Microprocessors,ECE,5
+STU00953,EE301,Power Systems,EEE,1
+STU00953,EE305,Circuit Theory,EEE,2
+STU00953,EE301,Power Systems,EEE,3
+STU00953,EE302,Control Systems,EEE,4
+STU00954,IT304,Information Security,IT,1
+STU00954,IT305,Mobile Computing,IT,2
+STU00954,IT302,Cloud Computing,IT,3
+STU00954,IT301,Web Technologies,IT,4
+STU00954,IT304,Information Security,IT,5
+STU00955,IT304,Information Security,IT,1
+STU00955,IT303,Software Engineering,IT,2
+STU00955,IT302,Cloud Computing,IT,3
+STU00955,IT301,Web Technologies,IT,4
+STU00955,IT301,Web Technologies,IT,5
+STU00956,EC303,Communication Systems,ECE,1
+STU00956,EC305,Microprocessors,ECE,2
+STU00957,EC301,Signals and Systems,ECE,1
+STU00957,EC302,Digital Electronics,ECE,2
+STU00957,EC305,Microprocessors,ECE,3
+STU00958,CE301,Structural Analysis,CIVIL,1
+STU00958,CE305,Transportation Eng,CIVIL,2
+STU00959,EE304,Power Electronics,EEE,1
+STU00959,EE302,Control Systems,EEE,2
+STU00959,EE305,Circuit Theory,EEE,3
+STU00959,EE305,Circuit Theory,EEE,4
+STU00960,EC302,Digital Electronics,ECE,1
+STU00960,EC305,Microprocessors,ECE,2
+STU00960,EC302,Digital Electronics,ECE,3
+STU00961,EC302,Digital Electronics,ECE,1
+STU00961,EC302,Digital Electronics,ECE,2
+STU00961,EC305,Microprocessors,ECE,3
+STU00961,EC304,VLSI Design,ECE,4
+STU00961,EC301,Signals and Systems,ECE,5
+STU00962,CS302,DBMS,CSE,1
+STU00962,CS304,Computer Networks,CSE,2
+STU00962,CS302,DBMS,CSE,3
+STU00962,CS303,Operating Systems,CSE,4
+STU00962,CS301,Data Structures,CSE,5
+STU00963,EE304,Power Electronics,EEE,1
+STU00963,EE304,Power Electronics,EEE,2
+STU00963,EE302,Control Systems,EEE,3
+STU00963,EE301,Power Systems,EEE,4
+STU00964,CS304,Computer Networks,CSE,1
+STU00964,CS304,Computer Networks,CSE,2
+STU00964,CS301,Data Structures,CSE,3
+STU00964,CS302,DBMS,CSE,4
+STU00964,CS304,Computer Networks,CSE,5
+STU00965,CS301,Data Structures,CSE,1
+STU00965,CS305,Data Warehousing and Mining,CSE,2
+STU00965,CS304,Computer Networks,CSE,3
+STU00965,CS303,Operating Systems,CSE,4
+STU00966,EC305,Microprocessors,ECE,1
+STU00966,EC302,Digital Electronics,ECE,2
+STU00967,ME302,Fluid Mechanics,MECH,1
+STU00967,ME303,Machine Design,MECH,2
+STU00967,ME303,Machine Design,MECH,3
+STU00968,EC302,Digital Electronics,ECE,1
+STU00968,EC305,Microprocessors,ECE,2
+STU00968,EC301,Signals and Systems,ECE,3
+STU00968,EC301,Signals and Systems,ECE,4
+STU00969,CE304,Concrete Tech,CIVIL,1
+STU00969,CE303,Surveying,CIVIL,2
+STU00970,CE304,Concrete Tech,CIVIL,1
+STU00970,CE304,Concrete Tech,CIVIL,2
+STU00971,EC304,VLSI Design,ECE,1
+STU00971,EC303,Communication Systems,ECE,2
+STU00972,CS303,Operating Systems,CSE,1
+STU00972,CS304,Computer Networks,CSE,2
+STU00972,CS302,DBMS,CSE,3
+STU00972,CS305,Data Warehousing and Mining,CSE,4
+STU00973,EC304,VLSI Design,ECE,1
+STU00973,EC301,Signals and Systems,ECE,2
+STU00974,ME302,Fluid Mechanics,MECH,1
+STU00974,ME305,Heat Transfer,MECH,2
+STU00975,EE301,Power Systems,EEE,1
+STU00975,EE304,Power Electronics,EEE,2
+STU00975,EE303,Electrical Machines,EEE,3
+STU00975,EE304,Power Electronics,EEE,4
+STU00976,CE302,Geotechnical Eng,CIVIL,1
+STU00976,CE303,Surveying,CIVIL,2
+STU00976,CE305,Transportation Eng,CIVIL,3
+STU00977,ME301,Thermodynamics,MECH,1
+STU00977,ME305,Heat Transfer,MECH,2
+STU00977,ME303,Machine Design,MECH,3
+STU00978,ME302,Fluid Mechanics,MECH,1
+STU00978,ME301,Thermodynamics,MECH,2
+STU00978,ME305,Heat Transfer,MECH,3
+STU00978,ME301,Thermodynamics,MECH,4
+STU00978,ME303,Machine Design,MECH,5
+STU00979,ME301,Thermodynamics,MECH,1
+STU00979,ME305,Heat Transfer,MECH,2
+STU00979,ME302,Fluid Mechanics,MECH,3
+STU00979,ME305,Heat Transfer,MECH,4
+STU00979,ME302,Fluid Mechanics,MECH,5
+STU00979,ME303,Machine Design,MECH,6
+STU00980,CS305,Data Warehousing and Mining,CSE,1
+STU00980,CS305,Data Warehousing and Mining,CSE,2
+STU00980,CS304,Computer Networks,CSE,3
+STU00980,CS302,DBMS,CSE,4
+STU00981,CE302,Geotechnical Eng,CIVIL,1
+STU00981,CE302,Geotechnical Eng,CIVIL,2
+STU00981,CE305,Transportation Eng,CIVIL,3
+STU00981,CE304,Concrete Tech,CIVIL,4
+STU00981,CE304,Concrete Tech,CIVIL,5
+STU00982,EC302,Digital Electronics,ECE,1
+STU00982,EC305,Microprocessors,ECE,2
+STU00983,EC304,VLSI Design,ECE,1
+STU00983,EC301,Signals and Systems,ECE,2
+STU00984,CS305,Data Warehousing and Mining,CSE,1
+STU00984,CS304,Computer Networks,CSE,2
+STU00984,CS305,Data Warehousing and Mining,CSE,3
+STU00984,CS305,Data Warehousing and Mining,CSE,4
+STU00984,CS305,Data Warehousing and Mining,CSE,5
+STU00985,IT305,Mobile Computing,IT,1
+STU00985,IT302,Cloud Computing,IT,2
+STU00985,IT302,Cloud Computing,IT,3
+STU00985,IT302,Cloud Computing,IT,4
+STU00986,CS303,Operating Systems,CSE,1
+STU00986,CS301,Data Structures,CSE,2
+STU00986,CS304,Computer Networks,CSE,3
+STU00986,CS303,Operating Systems,CSE,4
+STU00986,CS301,Data Structures,CSE,5
+STU00986,CS304,Computer Networks,CSE,6
+STU00987,ME302,Fluid Mechanics,MECH,1
+STU00987,ME302,Fluid Mechanics,MECH,2
+STU00988,CS302,DBMS,CSE,1
+STU00988,CS304,Computer Networks,CSE,2
+STU00988,CS302,DBMS,CSE,3
+STU00988,CS302,DBMS,CSE,4
+STU00988,CS303,Operating Systems,CSE,5
+STU00988,CS304,Computer Networks,CSE,6
+STU00989,EC303,Communication Systems,ECE,1
+STU00989,EC304,VLSI Design,ECE,2
+STU00989,EC304,VLSI Design,ECE,3
+STU00989,EC302,Digital Electronics,ECE,4
+STU00989,EC301,Signals and Systems,ECE,5
+STU00990,CE301,Structural Analysis,CIVIL,1
+STU00990,CE304,Concrete Tech,CIVIL,2
+STU00990,CE304,Concrete Tech,CIVIL,3
+STU00990,CE305,Transportation Eng,CIVIL,4
+STU00991,IT305,Mobile Computing,IT,1
+STU00991,IT301,Web Technologies,IT,2
+STU00991,IT301,Web Technologies,IT,3
+STU00991,IT303,Software Engineering,IT,4
+STU00992,IT305,Mobile Computing,IT,1
+STU00992,IT301,Web Technologies,IT,2
+STU00992,IT302,Cloud Computing,IT,3
+STU00992,IT301,Web Technologies,IT,4
+STU00993,EC302,Digital Electronics,ECE,1
+STU00993,EC301,Signals and Systems,ECE,2
+STU00993,EC304,VLSI Design,ECE,3
+STU00993,EC305,Microprocessors,ECE,4
+STU00993,EC303,Communication Systems,ECE,5
+STU00993,EC303,Communication Systems,ECE,6
+STU00994,ME305,Heat Transfer,MECH,1
+STU00994,ME304,Manufacturing Tech,MECH,2
+STU00995,EC305,Microprocessors,ECE,1
+STU00995,EC305,Microprocessors,ECE,2
+STU00995,EC302,Digital Electronics,ECE,3
+STU00995,EC303,Communication Systems,ECE,4
+STU00995,EC303,Communication Systems,ECE,5
+STU00996,ME302,Fluid Mechanics,MECH,1
+STU00996,ME305,Heat Transfer,MECH,2
+STU00996,ME303,Machine Design,MECH,3
+STU00997,CE301,Structural Analysis,CIVIL,1
+STU00997,CE303,Surveying,CIVIL,2
+STU00997,CE302,Geotechnical Eng,CIVIL,3
+STU00998,ME305,Heat Transfer,MECH,1
+STU00998,ME304,Manufacturing Tech,MECH,2
+STU00998,ME304,Manufacturing Tech,MECH,3
+STU00998,ME302,Fluid Mechanics,MECH,4
+STU00998,ME301,Thermodynamics,MECH,5
+STU00999,CE303,Surveying,CIVIL,1
+STU00999,CE301,Structural Analysis,CIVIL,2
+STU01000,ME302,Fluid Mechanics,MECH,1
+STU01000,ME301,Thermodynamics,MECH,2
+STU01000,ME304,Manufacturing Tech,MECH,3
+STU01000,ME305,Heat Transfer,MECH,4
+STU01000,ME304,Manufacturing Tech,MECH,5
+STU01001,EE305,Circuit Theory,EEE,1
+STU01001,EE303,Electrical Machines,EEE,2
+STU01001,EE305,Circuit Theory,EEE,3
+STU01001,EE305,Circuit Theory,EEE,4
+STU01001,EE302,Control Systems,EEE,5
+STU01001,EE304,Power Electronics,EEE,6
+STU01002,CS303,Operating Systems,CSE,1
+STU01002,CS304,Computer Networks,CSE,2
+STU01002,CS301,Data Structures,CSE,3
+STU01002,CS303,Operating Systems,CSE,4
+STU01003,ME305,Heat Transfer,MECH,1
+STU01003,ME302,Fluid Mechanics,MECH,2
+STU01003,ME304,Manufacturing Tech,MECH,3
+STU01004,CS305,Data Warehousing and Mining,CSE,1
+STU01004,CS304,Computer Networks,CSE,2
+STU01005,ME305,Heat Transfer,MECH,1
+STU01005,ME303,Machine Design,MECH,2
+STU01005,ME302,Fluid Mechanics,MECH,3
+STU01005,ME305,Heat Transfer,MECH,4
+STU01005,ME301,Thermodynamics,MECH,5
+STU01006,ME304,Manufacturing Tech,MECH,1
+STU01006,ME304,Manufacturing Tech,MECH,2
+STU01007,EC304,VLSI Design,ECE,1
+STU01007,EC303,Communication Systems,ECE,2
+STU01007,EC301,Signals and Systems,ECE,3
+STU01007,EC302,Digital Electronics,ECE,4
+STU01007,EC304,VLSI Design,ECE,5
+STU01008,IT302,Cloud Computing,IT,1
+STU01008,IT304,Information Security,IT,2
+STU01008,IT303,Software Engineering,IT,3
+STU01008,IT305,Mobile Computing,IT,4
+STU01008,IT303,Software Engineering,IT,5
+STU01008,IT305,Mobile Computing,IT,6
+STU01009,IT304,Information Security,IT,1
+STU01009,IT301,Web Technologies,IT,2
+STU01009,IT301,Web Technologies,IT,3
+STU01009,IT302,Cloud Computing,IT,4
+STU01009,IT304,Information Security,IT,5
+STU01009,IT302,Cloud Computing,IT,6
+STU01010,CS304,Computer Networks,CSE,1
+STU01010,CS301,Data Structures,CSE,2
+STU01011,EE303,Electrical Machines,EEE,1
+STU01011,EE305,Circuit Theory,EEE,2
+STU01011,EE301,Power Systems,EEE,3
+STU01011,EE303,Electrical Machines,EEE,4
+STU01012,EE301,Power Systems,EEE,1
+STU01012,EE301,Power Systems,EEE,2
+STU01013,CS302,DBMS,CSE,1
+STU01013,CS304,Computer Networks,CSE,2
+STU01013,CS303,Operating Systems,CSE,3
+STU01014,CE305,Transportation Eng,CIVIL,1
+STU01014,CE305,Transportation Eng,CIVIL,2
+STU01014,CE302,Geotechnical Eng,CIVIL,3
+STU01014,CE304,Concrete Tech,CIVIL,4
+STU01014,CE302,Geotechnical Eng,CIVIL,5
+STU01014,CE304,Concrete Tech,CIVIL,6
+STU01015,ME301,Thermodynamics,MECH,1
+STU01015,ME303,Machine Design,MECH,2
+STU01015,ME304,Manufacturing Tech,MECH,3
+STU01015,ME303,Machine Design,MECH,4
+STU01016,ME304,Manufacturing Tech,MECH,1
+STU01016,ME302,Fluid Mechanics,MECH,2
+STU01016,ME303,Machine Design,MECH,3
+STU01016,ME302,Fluid Mechanics,MECH,4
+STU01017,ME302,Fluid Mechanics,MECH,1
+STU01017,ME301,Thermodynamics,MECH,2
+STU01017,ME305,Heat Transfer,MECH,3
+STU01018,IT301,Web Technologies,IT,1
+STU01018,IT302,Cloud Computing,IT,2
+STU01018,IT301,Web Technologies,IT,3
+STU01019,ME303,Machine Design,MECH,1
+STU01019,ME304,Manufacturing Tech,MECH,2
+STU01019,ME304,Manufacturing Tech,MECH,3
+STU01019,ME305,Heat Transfer,MECH,4
+STU01020,EC304,VLSI Design,ECE,1
+STU01020,EC303,Communication Systems,ECE,2
+STU01020,EC304,VLSI Design,ECE,3
+STU01021,ME301,Thermodynamics,MECH,1
+STU01021,ME301,Thermodynamics,MECH,2
+STU01021,ME304,Manufacturing Tech,MECH,3
+STU01021,ME304,Manufacturing Tech,MECH,4
+STU01022,IT303,Software Engineering,IT,1
+STU01022,IT302,Cloud Computing,IT,2
+STU01022,IT304,Information Security,IT,3
+STU01022,IT305,Mobile Computing,IT,4
+STU01022,IT301,Web Technologies,IT,5
+STU01023,EE304,Power Electronics,EEE,1
+STU01023,EE304,Power Electronics,EEE,2
+STU01023,EE302,Control Systems,EEE,3
+STU01023,EE302,Control Systems,EEE,4
+STU01024,IT305,Mobile Computing,IT,1
+STU01024,IT303,Software Engineering,IT,2
+STU01024,IT302,Cloud Computing,IT,3
+STU01024,IT301,Web Technologies,IT,4
+STU01024,IT303,Software Engineering,IT,5
+STU01024,IT305,Mobile Computing,IT,6
+STU01025,IT301,Web Technologies,IT,1
+STU01025,IT304,Information Security,IT,2
+STU01025,IT302,Cloud Computing,IT,3
+STU01025,IT303,Software Engineering,IT,4
+STU01026,ME304,Manufacturing Tech,MECH,1
+STU01026,ME304,Manufacturing Tech,MECH,2
+STU01026,ME304,Manufacturing Tech,MECH,3
+STU01026,ME305,Heat Transfer,MECH,4
+STU01026,ME301,Thermodynamics,MECH,5
+STU01026,ME303,Machine Design,MECH,6
+STU01027,EC305,Microprocessors,ECE,1
+STU01027,EC304,VLSI Design,ECE,2
+STU01027,EC304,VLSI Design,ECE,3
+STU01027,EC303,Communication Systems,ECE,4
+STU01027,EC304,VLSI Design,ECE,5
+STU01028,CE301,Structural Analysis,CIVIL,1
+STU01028,CE305,Transportation Eng,CIVIL,2
+STU01028,CE304,Concrete Tech,CIVIL,3
+STU01028,CE301,Structural Analysis,CIVIL,4
+STU01029,ME302,Fluid Mechanics,MECH,1
+STU01029,ME302,Fluid Mechanics,MECH,2
+STU01030,IT304,Information Security,IT,1
+STU01030,IT301,Web Technologies,IT,2
+STU01031,ME305,Heat Transfer,MECH,1
+STU01031,ME301,Thermodynamics,MECH,2
+STU01031,ME305,Heat Transfer,MECH,3
+STU01031,ME304,Manufacturing Tech,MECH,4
+STU01031,ME305,Heat Transfer,MECH,5
+STU01031,ME301,Thermodynamics,MECH,6
+STU01032,CS305,Data Warehousing and Mining,CSE,1
+STU01032,CS302,DBMS,CSE,2
+STU01032,CS301,Data Structures,CSE,3
+STU01032,CS301,Data Structures,CSE,4
+STU01032,CS302,DBMS,CSE,5
+STU01033,EE301,Power Systems,EEE,1
+STU01033,EE303,Electrical Machines,EEE,2
+STU01034,EE303,Electrical Machines,EEE,1
+STU01034,EE302,Control Systems,EEE,2
+STU01034,EE302,Control Systems,EEE,3
+STU01034,EE303,Electrical Machines,EEE,4
+STU01035,ME303,Machine Design,MECH,1
+STU01035,ME301,Thermodynamics,MECH,2
+STU01035,ME301,Thermodynamics,MECH,3
+STU01035,ME302,Fluid Mechanics,MECH,4
+STU01036,EC302,Digital Electronics,ECE,1
+STU01036,EC304,VLSI Design,ECE,2
+STU01036,EC301,Signals and Systems,ECE,3
+STU01036,EC305,Microprocessors,ECE,4
+STU01037,EE305,Circuit Theory,EEE,1
+STU01037,EE301,Power Systems,EEE,2
+STU01037,EE301,Power Systems,EEE,3
+STU01037,EE302,Control Systems,EEE,4
+STU01037,EE302,Control Systems,EEE,5
+STU01038,CE305,Transportation Eng,CIVIL,1
+STU01038,CE301,Structural Analysis,CIVIL,2
+STU01039,IT303,Software Engineering,IT,1
+STU01039,IT305,Mobile Computing,IT,2
+STU01039,IT304,Information Security,IT,3
+STU01040,IT303,Software Engineering,IT,1
+STU01040,IT304,Information Security,IT,2
+STU01041,EE304,Power Electronics,EEE,1
+STU01041,EE302,Control Systems,EEE,2
+STU01041,EE305,Circuit Theory,EEE,3
+STU01041,EE305,Circuit Theory,EEE,4
+STU01041,EE302,Control Systems,EEE,5
+STU01041,EE305,Circuit Theory,EEE,6
+STU01042,CS303,Operating Systems,CSE,1
+STU01042,CS302,DBMS,CSE,2
+STU01042,CS301,Data Structures,CSE,3
+STU01042,CS302,DBMS,CSE,4
+STU01042,CS305,Data Warehousing and Mining,CSE,5
+STU01043,EE303,Electrical Machines,EEE,1
+STU01043,EE304,Power Electronics,EEE,2
+STU01044,CE304,Concrete Tech,CIVIL,1
+STU01044,CE302,Geotechnical Eng,CIVIL,2
+STU01044,CE305,Transportation Eng,CIVIL,3
+STU01044,CE305,Transportation Eng,CIVIL,4
+STU01045,EE304,Power Electronics,EEE,1
+STU01045,EE301,Power Systems,EEE,2
+STU01045,EE303,Electrical Machines,EEE,3
+STU01045,EE303,Electrical Machines,EEE,4
+STU01045,EE303,Electrical Machines,EEE,5
+STU01046,IT301,Web Technologies,IT,1
+STU01046,IT302,Cloud Computing,IT,2
+STU01047,CE302,Geotechnical Eng,CIVIL,1
+STU01047,CE303,Surveying,CIVIL,2
+STU01047,CE301,Structural Analysis,CIVIL,3
+STU01047,CE301,Structural Analysis,CIVIL,4
+STU01047,CE303,Surveying,CIVIL,5
+STU01048,ME301,Thermodynamics,MECH,1
+STU01048,ME303,Machine Design,MECH,2
+STU01048,ME302,Fluid Mechanics,MECH,3
+STU01048,ME302,Fluid Mechanics,MECH,4
+STU01048,ME303,Machine Design,MECH,5
+STU01049,EE303,Electrical Machines,EEE,1
+STU01049,EE303,Electrical Machines,EEE,2
+STU01050,IT305,Mobile Computing,IT,1
+STU01050,IT305,Mobile Computing,IT,2
+STU01050,IT302,Cloud Computing,IT,3
+STU01051,ME303,Machine Design,MECH,1
+STU01051,ME305,Heat Transfer,MECH,2
+STU01051,ME305,Heat Transfer,MECH,3
+STU01051,ME301,Thermodynamics,MECH,4
+STU01052,ME303,Machine Design,MECH,1
+STU01052,ME301,Thermodynamics,MECH,2
+STU01053,CS301,Data Structures,CSE,1
+STU01053,CS301,Data Structures,CSE,2
+STU01053,CS305,Data Warehousing and Mining,CSE,3
+STU01053,CS301,Data Structures,CSE,4
+STU01054,EE304,Power Electronics,EEE,1
+STU01054,EE304,Power Electronics,EEE,2
+STU01055,CE302,Geotechnical Eng,CIVIL,1
+STU01055,CE301,Structural Analysis,CIVIL,2
+STU01055,CE302,Geotechnical Eng,CIVIL,3
+STU01055,CE305,Transportation Eng,CIVIL,4
+STU01056,IT304,Information Security,IT,1
+STU01056,IT302,Cloud Computing,IT,2
+STU01057,EE302,Control Systems,EEE,1
+STU01057,EE301,Power Systems,EEE,2
+STU01057,EE305,Circuit Theory,EEE,3
+STU01057,EE304,Power Electronics,EEE,4
+STU01057,EE301,Power Systems,EEE,5
+STU01057,EE302,Control Systems,EEE,6
+STU01058,CS305,Data Warehousing and Mining,CSE,1
+STU01058,CS303,Operating Systems,CSE,2
+STU01058,CS304,Computer Networks,CSE,3
+STU01059,CE303,Surveying,CIVIL,1
+STU01059,CE302,Geotechnical Eng,CIVIL,2
+STU01059,CE304,Concrete Tech,CIVIL,3
+STU01059,CE305,Transportation Eng,CIVIL,4
+STU01059,CE301,Structural Analysis,CIVIL,5
+STU01059,CE304,Concrete Tech,CIVIL,6
+STU01060,CE302,Geotechnical Eng,CIVIL,1
+STU01060,CE305,Transportation Eng,CIVIL,2
+STU01060,CE302,Geotechnical Eng,CIVIL,3
+STU01060,CE301,Structural Analysis,CIVIL,4
+STU01061,CS301,Data Structures,CSE,1
+STU01061,CS304,Computer Networks,CSE,2
+STU01061,CS302,DBMS,CSE,3
+STU01062,CS305,Data Warehousing and Mining,CSE,1
+STU01062,CS302,DBMS,CSE,2
+STU01063,ME304,Manufacturing Tech,MECH,1
+STU01063,ME303,Machine Design,MECH,2
+STU01064,CE302,Geotechnical Eng,CIVIL,1
+STU01064,CE301,Structural Analysis,CIVIL,2
+STU01064,CE303,Surveying,CIVIL,3
+STU01064,CE304,Concrete Tech,CIVIL,4
+STU01064,CE304,Concrete Tech,CIVIL,5
+STU01065,EE302,Control Systems,EEE,1
+STU01065,EE303,Electrical Machines,EEE,2
+STU01065,EE302,Control Systems,EEE,3
+STU01066,CS303,Operating Systems,CSE,1
+STU01066,CS301,Data Structures,CSE,2
+STU01066,CS301,Data Structures,CSE,3
+STU01066,CS304,Computer Networks,CSE,4
+STU01066,CS301,Data Structures,CSE,5
+STU01067,ME305,Heat Transfer,MECH,1
+STU01067,ME302,Fluid Mechanics,MECH,2
+STU01067,ME301,Thermodynamics,MECH,3
+STU01067,ME302,Fluid Mechanics,MECH,4
+STU01067,ME303,Machine Design,MECH,5
+STU01068,IT301,Web Technologies,IT,1
+STU01068,IT305,Mobile Computing,IT,2
+STU01068,IT305,Mobile Computing,IT,3
+STU01068,IT303,Software Engineering,IT,4
+STU01068,IT302,Cloud Computing,IT,5
+STU01069,IT303,Software Engineering,IT,1
+STU01069,IT304,Information Security,IT,2
+STU01069,IT302,Cloud Computing,IT,3
+STU01070,CE304,Concrete Tech,CIVIL,1
+STU01070,CE301,Structural Analysis,CIVIL,2
+STU01070,CE304,Concrete Tech,CIVIL,3
+STU01071,CE305,Transportation Eng,CIVIL,1
+STU01071,CE301,Structural Analysis,CIVIL,2
+STU01071,CE303,Surveying,CIVIL,3
+STU01072,EE303,Electrical Machines,EEE,1
+STU01072,EE304,Power Electronics,EEE,2
+STU01073,CS305,Data Warehousing and Mining,CSE,1
+STU01073,CS302,DBMS,CSE,2
+STU01074,EC302,Digital Electronics,ECE,1
+STU01074,EC304,VLSI Design,ECE,2
+STU01074,EC302,Digital Electronics,ECE,3
+STU01074,EC303,Communication Systems,ECE,4
+STU01075,EC303,Communication Systems,ECE,1
+STU01075,EC304,VLSI Design,ECE,2
+STU01075,EC302,Digital Electronics,ECE,3
+STU01075,EC303,Communication Systems,ECE,4
+STU01075,EC303,Communication Systems,ECE,5
+STU01075,EC305,Microprocessors,ECE,6
+STU01076,EC305,Microprocessors,ECE,1
+STU01076,EC301,Signals and Systems,ECE,2
+STU01076,EC304,VLSI Design,ECE,3
+STU01076,EC302,Digital Electronics,ECE,4
+STU01076,EC301,Signals and Systems,ECE,5
+STU01077,CS304,Computer Networks,CSE,1
+STU01077,CS305,Data Warehousing and Mining,CSE,2
+STU01077,CS304,Computer Networks,CSE,3
+STU01077,CS304,Computer Networks,CSE,4
+STU01078,CS301,Data Structures,CSE,1
+STU01078,CS302,DBMS,CSE,2
+STU01079,EE302,Control Systems,EEE,1
+STU01079,EE304,Power Electronics,EEE,2
+STU01080,IT305,Mobile Computing,IT,1
+STU01080,IT302,Cloud Computing,IT,2
+STU01081,CE302,Geotechnical Eng,CIVIL,1
+STU01081,CE301,Structural Analysis,CIVIL,2
+STU01081,CE303,Surveying,CIVIL,3
+STU01082,EE304,Power Electronics,EEE,1
+STU01082,EE303,Electrical Machines,EEE,2
+STU01082,EE302,Control Systems,EEE,3
+STU01082,EE303,Electrical Machines,EEE,4
+STU01082,EE305,Circuit Theory,EEE,5
+STU01082,EE301,Power Systems,EEE,6
+STU01083,ME305,Heat Transfer,MECH,1
+STU01083,ME301,Thermodynamics,MECH,2
+STU01083,ME303,Machine Design,MECH,3
+STU01083,ME301,Thermodynamics,MECH,4
+STU01083,ME302,Fluid Mechanics,MECH,5
+STU01083,ME303,Machine Design,MECH,6
+STU01084,ME305,Heat Transfer,MECH,1
+STU01084,ME305,Heat Transfer,MECH,2
+STU01085,EE304,Power Electronics,EEE,1
+STU01085,EE303,Electrical Machines,EEE,2
+STU01086,ME302,Fluid Mechanics,MECH,1
+STU01086,ME301,Thermodynamics,MECH,2
+STU01086,ME303,Machine Design,MECH,3
+STU01086,ME302,Fluid Mechanics,MECH,4
+STU01086,ME302,Fluid Mechanics,MECH,5
+STU01086,ME302,Fluid Mechanics,MECH,6
+STU01087,CS302,DBMS,CSE,1
+STU01087,CS303,Operating Systems,CSE,2
+STU01087,CS301,Data Structures,CSE,3
+STU01088,EE305,Circuit Theory,EEE,1
+STU01088,EE301,Power Systems,EEE,2
+STU01088,EE302,Control Systems,EEE,3
+STU01089,CE304,Concrete Tech,CIVIL,1
+STU01089,CE301,Structural Analysis,CIVIL,2
+STU01089,CE304,Concrete Tech,CIVIL,3
+STU01089,CE301,Structural Analysis,CIVIL,4
+STU01090,EE301,Power Systems,EEE,1
+STU01090,EE304,Power Electronics,EEE,2
+STU01090,EE301,Power Systems,EEE,3
+STU01090,EE302,Control Systems,EEE,4
+STU01091,EE304,Power Electronics,EEE,1
+STU01091,EE304,Power Electronics,EEE,2
+STU01091,EE302,Control Systems,EEE,3
+STU01092,EE305,Circuit Theory,EEE,1
+STU01092,EE304,Power Electronics,EEE,2
+STU01092,EE305,Circuit Theory,EEE,3
+STU01092,EE304,Power Electronics,EEE,4
+STU01092,EE302,Control Systems,EEE,5
+STU01092,EE303,Electrical Machines,EEE,6
+STU01093,EC305,Microprocessors,ECE,1
+STU01093,EC301,Signals and Systems,ECE,2
+STU01093,EC304,VLSI Design,ECE,3
+STU01093,EC304,VLSI Design,ECE,4
+STU01094,CS305,Data Warehousing and Mining,CSE,1
+STU01094,CS302,DBMS,CSE,2
+STU01095,CS305,Data Warehousing and Mining,CSE,1
+STU01095,CS305,Data Warehousing and Mining,CSE,2
+STU01095,CS304,Computer Networks,CSE,3
+STU01096,CS305,Data Warehousing and Mining,CSE,1
+STU01096,CS305,Data Warehousing and Mining,CSE,2
+STU01097,ME302,Fluid Mechanics,MECH,1
+STU01097,ME305,Heat Transfer,MECH,2
+STU01097,ME302,Fluid Mechanics,MECH,3
+STU01098,EC305,Microprocessors,ECE,1
+STU01098,EC303,Communication Systems,ECE,2
+STU01098,EC303,Communication Systems,ECE,3
+STU01098,EC302,Digital Electronics,ECE,4
+STU01099,ME304,Manufacturing Tech,MECH,1
+STU01099,ME302,Fluid Mechanics,MECH,2
+STU01099,ME301,Thermodynamics,MECH,3
+STU01099,ME305,Heat Transfer,MECH,4
+STU01099,ME301,Thermodynamics,MECH,5
+STU01100,CE301,Structural Analysis,CIVIL,1
+STU01100,CE304,Concrete Tech,CIVIL,2
+STU01100,CE303,Surveying,CIVIL,3
+STU01100,CE301,Structural Analysis,CIVIL,4
+STU01100,CE301,Structural Analysis,CIVIL,5
+STU01100,CE301,Structural Analysis,CIVIL,6
+STU01101,EC303,Communication Systems,ECE,1
+STU01101,EC305,Microprocessors,ECE,2
+STU01102,CS302,DBMS,CSE,1
+STU01102,CS301,Data Structures,CSE,2
+STU01103,EE303,Electrical Machines,EEE,1
+STU01103,EE305,Circuit Theory,EEE,2
+STU01103,EE302,Control Systems,EEE,3
+STU01103,EE303,Electrical Machines,EEE,4
+STU01103,EE301,Power Systems,EEE,5
+STU01103,EE303,Electrical Machines,EEE,6
+STU01104,CE301,Structural Analysis,CIVIL,1
+STU01104,CE305,Transportation Eng,CIVIL,2
+STU01104,CE303,Surveying,CIVIL,3
+STU01105,EE301,Power Systems,EEE,1
+STU01105,EE302,Control Systems,EEE,2
+STU01105,EE305,Circuit Theory,EEE,3
+STU01105,EE303,Electrical Machines,EEE,4
+STU01105,EE304,Power Electronics,EEE,5
+STU01105,EE305,Circuit Theory,EEE,6
+STU01106,ME301,Thermodynamics,MECH,1
+STU01106,ME305,Heat Transfer,MECH,2
+STU01106,ME301,Thermodynamics,MECH,3
+STU01106,ME302,Fluid Mechanics,MECH,4
+STU01106,ME303,Machine Design,MECH,5
+STU01107,IT303,Software Engineering,IT,1
+STU01107,IT305,Mobile Computing,IT,2
+STU01108,CE304,Concrete Tech,CIVIL,1
+STU01108,CE302,Geotechnical Eng,CIVIL,2
+STU01108,CE302,Geotechnical Eng,CIVIL,3
+STU01108,CE305,Transportation Eng,CIVIL,4
+STU01108,CE303,Surveying,CIVIL,5
+STU01109,EE303,Electrical Machines,EEE,1
+STU01109,EE302,Control Systems,EEE,2
+STU01110,CS305,Data Warehousing and Mining,CSE,1
+STU01110,CS304,Computer Networks,CSE,2
+STU01111,IT302,Cloud Computing,IT,1
+STU01111,IT304,Information Security,IT,2
+STU01111,IT305,Mobile Computing,IT,3
+STU01111,IT301,Web Technologies,IT,4
+STU01111,IT302,Cloud Computing,IT,5
+STU01112,EC303,Communication Systems,ECE,1
+STU01112,EC301,Signals and Systems,ECE,2
+STU01113,EE305,Circuit Theory,EEE,1
+STU01113,EE305,Circuit Theory,EEE,2
+STU01113,EE303,Electrical Machines,EEE,3
+STU01113,EE302,Control Systems,EEE,4
+STU01114,EE302,Control Systems,EEE,1
+STU01114,EE304,Power Electronics,EEE,2
+STU01114,EE305,Circuit Theory,EEE,3
+STU01114,EE304,Power Electronics,EEE,4
+STU01114,EE302,Control Systems,EEE,5
+STU01115,EC302,Digital Electronics,ECE,1
+STU01115,EC305,Microprocessors,ECE,2
+STU01116,CE305,Transportation Eng,CIVIL,1
+STU01116,CE304,Concrete Tech,CIVIL,2
+STU01116,CE302,Geotechnical Eng,CIVIL,3
+STU01117,EC304,VLSI Design,ECE,1
+STU01117,EC303,Communication Systems,ECE,2
+STU01117,EC302,Digital Electronics,ECE,3
+STU01118,EE303,Electrical Machines,EEE,1
+STU01118,EE304,Power Electronics,EEE,2
+STU01118,EE304,Power Electronics,EEE,3
+STU01118,EE304,Power Electronics,EEE,4
+STU01119,EE303,Electrical Machines,EEE,1
+STU01119,EE301,Power Systems,EEE,2
+STU01119,EE304,Power Electronics,EEE,3
+STU01119,EE303,Electrical Machines,EEE,4
+STU01120,CE302,Geotechnical Eng,CIVIL,1
+STU01120,CE302,Geotechnical Eng,CIVIL,2
+STU01120,CE301,Structural Analysis,CIVIL,3
+STU01120,CE304,Concrete Tech,CIVIL,4
+STU01120,CE304,Concrete Tech,CIVIL,5
+STU01120,CE303,Surveying,CIVIL,6
+STU01121,IT301,Web Technologies,IT,1
+STU01121,IT302,Cloud Computing,IT,2
+STU01121,IT303,Software Engineering,IT,3
+STU01122,CS304,Computer Networks,CSE,1
+STU01122,CS303,Operating Systems,CSE,2
+STU01122,CS303,Operating Systems,CSE,3
+STU01123,CE302,Geotechnical Eng,CIVIL,1
+STU01123,CE302,Geotechnical Eng,CIVIL,2
+STU01123,CE303,Surveying,CIVIL,3
+STU01123,CE305,Transportation Eng,CIVIL,4
+STU01124,EC303,Communication Systems,ECE,1
+STU01124,EC304,VLSI Design,ECE,2
+STU01124,EC302,Digital Electronics,ECE,3
+STU01124,EC301,Signals and Systems,ECE,4
+STU01124,EC305,Microprocessors,ECE,5
+STU01124,EC305,Microprocessors,ECE,6
+STU01125,IT305,Mobile Computing,IT,1
+STU01125,IT305,Mobile Computing,IT,2
+STU01126,CE305,Transportation Eng,CIVIL,1
+STU01126,CE302,Geotechnical Eng,CIVIL,2
+STU01126,CE302,Geotechnical Eng,CIVIL,3
+STU01127,CE303,Surveying,CIVIL,1
+STU01127,CE301,Structural Analysis,CIVIL,2
+STU01127,CE301,Structural Analysis,CIVIL,3
+STU01127,CE301,Structural Analysis,CIVIL,4
+STU01127,CE303,Surveying,CIVIL,5
+STU01128,EC304,VLSI Design,ECE,1
+STU01128,EC305,Microprocessors,ECE,2
+STU01129,CS302,DBMS,CSE,1
+STU01129,CS301,Data Structures,CSE,2
+STU01130,IT301,Web Technologies,IT,1
+STU01130,IT304,Information Security,IT,2
+STU01130,IT305,Mobile Computing,IT,3
+STU01130,IT305,Mobile Computing,IT,4
+STU01130,IT302,Cloud Computing,IT,5
+STU01130,IT303,Software Engineering,IT,6
+STU01131,EC303,Communication Systems,ECE,1
+STU01131,EC305,Microprocessors,ECE,2
+STU01131,EC304,VLSI Design,ECE,3
+STU01131,EC305,Microprocessors,ECE,4
+STU01131,EC304,VLSI Design,ECE,5
+STU01132,EE303,Electrical Machines,EEE,1
+STU01132,EE301,Power Systems,EEE,2
+STU01132,EE303,Electrical Machines,EEE,3
+STU01132,EE301,Power Systems,EEE,4
+STU01132,EE301,Power Systems,EEE,5
+STU01132,EE302,Control Systems,EEE,6
+STU01133,ME305,Heat Transfer,MECH,1
+STU01133,ME303,Machine Design,MECH,2
+STU01133,ME305,Heat Transfer,MECH,3
+STU01133,ME304,Manufacturing Tech,MECH,4
+STU01133,ME302,Fluid Mechanics,MECH,5
+STU01134,EE305,Circuit Theory,EEE,1
+STU01134,EE301,Power Systems,EEE,2
+STU01134,EE304,Power Electronics,EEE,3
+STU01135,IT303,Software Engineering,IT,1
+STU01135,IT301,Web Technologies,IT,2
+STU01135,IT303,Software Engineering,IT,3
+STU01135,IT303,Software Engineering,IT,4
+STU01136,IT305,Mobile Computing,IT,1
+STU01136,IT301,Web Technologies,IT,2
+STU01136,IT301,Web Technologies,IT,3
+STU01136,IT302,Cloud Computing,IT,4
+STU01136,IT304,Information Security,IT,5
+STU01136,IT304,Information Security,IT,6
+STU01137,IT301,Web Technologies,IT,1
+STU01137,IT302,Cloud Computing,IT,2
+STU01137,IT301,Web Technologies,IT,3
+STU01137,IT302,Cloud Computing,IT,4
+STU01137,IT305,Mobile Computing,IT,5
+STU01137,IT303,Software Engineering,IT,6
+STU01138,EE305,Circuit Theory,EEE,1
+STU01138,EE301,Power Systems,EEE,2
+STU01138,EE302,Control Systems,EEE,3
+STU01138,EE301,Power Systems,EEE,4
+STU01138,EE302,Control Systems,EEE,5
+STU01139,ME302,Fluid Mechanics,MECH,1
+STU01139,ME303,Machine Design,MECH,2
+STU01139,ME301,Thermodynamics,MECH,3
+STU01140,CS305,Data Warehousing and Mining,CSE,1
+STU01140,CS304,Computer Networks,CSE,2
+STU01140,CS304,Computer Networks,CSE,3
+STU01140,CS304,Computer Networks,CSE,4
+STU01140,CS305,Data Warehousing and Mining,CSE,5
+STU01140,CS305,Data Warehousing and Mining,CSE,6
+STU01141,CE301,Structural Analysis,CIVIL,1
+STU01141,CE302,Geotechnical Eng,CIVIL,2
+STU01141,CE305,Transportation Eng,CIVIL,3
+STU01141,CE305,Transportation Eng,CIVIL,4
+STU01142,EC303,Communication Systems,ECE,1
+STU01142,EC302,Digital Electronics,ECE,2
+STU01142,EC305,Microprocessors,ECE,3
+STU01143,ME301,Thermodynamics,MECH,1
+STU01143,ME302,Fluid Mechanics,MECH,2
+STU01143,ME305,Heat Transfer,MECH,3
+STU01143,ME301,Thermodynamics,MECH,4
+STU01143,ME303,Machine Design,MECH,5
+STU01144,CE305,Transportation Eng,CIVIL,1
+STU01144,CE305,Transportation Eng,CIVIL,2
+STU01145,CE305,Transportation Eng,CIVIL,1
+STU01145,CE303,Surveying,CIVIL,2
+STU01145,CE305,Transportation Eng,CIVIL,3
+STU01145,CE301,Structural Analysis,CIVIL,4
+STU01145,CE303,Surveying,CIVIL,5
+STU01145,CE304,Concrete Tech,CIVIL,6
+STU01146,ME305,Heat Transfer,MECH,1
+STU01146,ME303,Machine Design,MECH,2
+STU01146,ME301,Thermodynamics,MECH,3
+STU01146,ME302,Fluid Mechanics,MECH,4
+STU01146,ME305,Heat Transfer,MECH,5
+STU01146,ME305,Heat Transfer,MECH,6
+STU01147,IT303,Software Engineering,IT,1
+STU01147,IT303,Software Engineering,IT,2
+STU01147,IT305,Mobile Computing,IT,3
+STU01148,CE305,Transportation Eng,CIVIL,1
+STU01148,CE302,Geotechnical Eng,CIVIL,2
+STU01148,CE301,Structural Analysis,CIVIL,3
+STU01148,CE302,Geotechnical Eng,CIVIL,4
+STU01148,CE302,Geotechnical Eng,CIVIL,5
+STU01148,CE304,Concrete Tech,CIVIL,6
+STU01149,EC305,Microprocessors,ECE,1
+STU01149,EC305,Microprocessors,ECE,2
+STU01149,EC302,Digital Electronics,ECE,3
+STU01149,EC301,Signals and Systems,ECE,4
+STU01149,EC304,VLSI Design,ECE,5
+STU01150,EC302,Digital Electronics,ECE,1
+STU01150,EC303,Communication Systems,ECE,2
+STU01150,EC305,Microprocessors,ECE,3
+STU01150,EC303,Communication Systems,ECE,4
+STU01150,EC302,Digital Electronics,ECE,5
+STU01151,EE301,Power Systems,EEE,1
+STU01151,EE301,Power Systems,EEE,2
+STU01151,EE304,Power Electronics,EEE,3
+STU01151,EE302,Control Systems,EEE,4
+STU01151,EE303,Electrical Machines,EEE,5
+STU01151,EE305,Circuit Theory,EEE,6
+STU01152,EC305,Microprocessors,ECE,1
+STU01152,EC305,Microprocessors,ECE,2
+STU01152,EC304,VLSI Design,ECE,3
+STU01152,EC301,Signals and Systems,ECE,4
+STU01152,EC305,Microprocessors,ECE,5
+STU01153,CE304,Concrete Tech,CIVIL,1
+STU01153,CE302,Geotechnical Eng,CIVIL,2
+STU01153,CE305,Transportation Eng,CIVIL,3
+STU01153,CE304,Concrete Tech,CIVIL,4
+STU01154,EE302,Control Systems,EEE,1
+STU01154,EE305,Circuit Theory,EEE,2
+STU01154,EE301,Power Systems,EEE,3
+STU01155,IT303,Software Engineering,IT,1
+STU01155,IT305,Mobile Computing,IT,2
+STU01155,IT302,Cloud Computing,IT,3
+STU01156,EC303,Communication Systems,ECE,1
+STU01156,EC301,Signals and Systems,ECE,2
+STU01156,EC304,VLSI Design,ECE,3
+STU01156,EC301,Signals and Systems,ECE,4
+STU01156,EC305,Microprocessors,ECE,5
+STU01156,EC305,Microprocessors,ECE,6
+STU01157,EE301,Power Systems,EEE,1
+STU01157,EE301,Power Systems,EEE,2
+STU01157,EE305,Circuit Theory,EEE,3
+STU01157,EE301,Power Systems,EEE,4
+STU01157,EE302,Control Systems,EEE,5
+STU01158,IT301,Web Technologies,IT,1
+STU01158,IT304,Information Security,IT,2
+STU01159,CS303,Operating Systems,CSE,1
+STU01159,CS303,Operating Systems,CSE,2
+STU01159,CS303,Operating Systems,CSE,3
+STU01159,CS304,Computer Networks,CSE,4
+STU01159,CS302,DBMS,CSE,5
+STU01159,CS305,Data Warehousing and Mining,CSE,6
+STU01160,CE302,Geotechnical Eng,CIVIL,1
+STU01160,CE303,Surveying,CIVIL,2
+STU01160,CE303,Surveying,CIVIL,3
+STU01160,CE301,Structural Analysis,CIVIL,4
+STU01160,CE304,Concrete Tech,CIVIL,5
+STU01161,IT303,Software Engineering,IT,1
+STU01161,IT302,Cloud Computing,IT,2
+STU01161,IT304,Information Security,IT,3
+STU01161,IT304,Information Security,IT,4
+STU01161,IT302,Cloud Computing,IT,5
+STU01161,IT303,Software Engineering,IT,6
+STU01162,EC301,Signals and Systems,ECE,1
+STU01162,EC304,VLSI Design,ECE,2
+STU01162,EC301,Signals and Systems,ECE,3
+STU01162,EC305,Microprocessors,ECE,4
+STU01162,EC303,Communication Systems,ECE,5
+STU01162,EC304,VLSI Design,ECE,6
+STU01163,IT302,Cloud Computing,IT,1
+STU01163,IT302,Cloud Computing,IT,2
+STU01164,EE301,Power Systems,EEE,1
+STU01164,EE303,Electrical Machines,EEE,2
+STU01164,EE302,Control Systems,EEE,3
+STU01165,ME304,Manufacturing Tech,MECH,1
+STU01165,ME304,Manufacturing Tech,MECH,2
+STU01165,ME304,Manufacturing Tech,MECH,3
+STU01165,ME302,Fluid Mechanics,MECH,4
+STU01166,ME301,Thermodynamics,MECH,1
+STU01166,ME301,Thermodynamics,MECH,2
+STU01167,EE302,Control Systems,EEE,1
+STU01167,EE302,Control Systems,EEE,2
+STU01168,EE304,Power Electronics,EEE,1
+STU01168,EE305,Circuit Theory,EEE,2
+STU01168,EE304,Power Electronics,EEE,3
+STU01169,EC302,Digital Electronics,ECE,1
+STU01169,EC301,Signals and Systems,ECE,2
+STU01169,EC303,Communication Systems,ECE,3
+STU01170,CS301,Data Structures,CSE,1
+STU01170,CS305,Data Warehousing and Mining,CSE,2
+STU01170,CS301,Data Structures,CSE,3
+STU01170,CS304,Computer Networks,CSE,4
+STU01170,CS305,Data Warehousing and Mining,CSE,5
+STU01170,CS301,Data Structures,CSE,6
+STU01171,EC303,Communication Systems,ECE,1
+STU01171,EC302,Digital Electronics,ECE,2
+STU01171,EC302,Digital Electronics,ECE,3
+STU01171,EC301,Signals and Systems,ECE,4
+STU01172,ME305,Heat Transfer,MECH,1
+STU01172,ME302,Fluid Mechanics,MECH,2
+STU01172,ME304,Manufacturing Tech,MECH,3
+STU01172,ME302,Fluid Mechanics,MECH,4
+STU01172,ME301,Thermodynamics,MECH,5
+STU01173,CE304,Concrete Tech,CIVIL,1
+STU01173,CE301,Structural Analysis,CIVIL,2
+STU01174,ME305,Heat Transfer,MECH,1
+STU01174,ME302,Fluid Mechanics,MECH,2
+STU01174,ME304,Manufacturing Tech,MECH,3
+STU01174,ME302,Fluid Mechanics,MECH,4
+STU01175,CE305,Transportation Eng,CIVIL,1
+STU01175,CE301,Structural Analysis,CIVIL,2
+STU01175,CE305,Transportation Eng,CIVIL,3
+STU01176,CS301,Data Structures,CSE,1
+STU01176,CS302,DBMS,CSE,2
+STU01176,CS301,Data Structures,CSE,3
+STU01176,CS305,Data Warehousing and Mining,CSE,4
+STU01176,CS304,Computer Networks,CSE,5
+STU01177,IT304,Information Security,IT,1
+STU01177,IT304,Information Security,IT,2
+STU01177,IT302,Cloud Computing,IT,3
+STU01177,IT305,Mobile Computing,IT,4
+STU01177,IT301,Web Technologies,IT,5
+STU01178,EE304,Power Electronics,EEE,1
+STU01178,EE301,Power Systems,EEE,2
+STU01179,ME302,Fluid Mechanics,MECH,1
+STU01179,ME303,Machine Design,MECH,2
+STU01179,ME301,Thermodynamics,MECH,3
+STU01180,EE301,Power Systems,EEE,1
+STU01180,EE305,Circuit Theory,EEE,2
+STU01180,EE301,Power Systems,EEE,3
+STU01180,EE304,Power Electronics,EEE,4
+STU01181,CE305,Transportation Eng,CIVIL,1
+STU01181,CE301,Structural Analysis,CIVIL,2
+STU01182,IT305,Mobile Computing,IT,1
+STU01182,IT304,Information Security,IT,2
+STU01182,IT305,Mobile Computing,IT,3
+STU01182,IT302,Cloud Computing,IT,4
+STU01183,IT305,Mobile Computing,IT,1
+STU01183,IT305,Mobile Computing,IT,2
+STU01183,IT302,Cloud Computing,IT,3
+STU01183,IT301,Web Technologies,IT,4
+STU01183,IT301,Web Technologies,IT,5
+STU01183,IT305,Mobile Computing,IT,6
+STU01184,EE303,Electrical Machines,EEE,1
+STU01184,EE302,Control Systems,EEE,2
+STU01184,EE305,Circuit Theory,EEE,3
+STU01184,EE305,Circuit Theory,EEE,4
+STU01184,EE301,Power Systems,EEE,5
+STU01184,EE303,Electrical Machines,EEE,6
+STU01185,CS305,Data Warehousing and Mining,CSE,1
+STU01185,CS301,Data Structures,CSE,2
+STU01185,CS301,Data Structures,CSE,3
+STU01185,CS302,DBMS,CSE,4
+STU01185,CS305,Data Warehousing and Mining,CSE,5
+STU01185,CS304,Computer Networks,CSE,6
+STU01186,CE302,Geotechnical Eng,CIVIL,1
+STU01186,CE301,Structural Analysis,CIVIL,2
+STU01186,CE303,Surveying,CIVIL,3
+STU01186,CE301,Structural Analysis,CIVIL,4
+STU01186,CE304,Concrete Tech,CIVIL,5
+STU01187,EC305,Microprocessors,ECE,1
+STU01187,EC304,VLSI Design,ECE,2
+STU01187,EC305,Microprocessors,ECE,3
+STU01187,EC305,Microprocessors,ECE,4
+STU01187,EC302,Digital Electronics,ECE,5
+STU01187,EC303,Communication Systems,ECE,6
+STU01188,EC301,Signals and Systems,ECE,1
+STU01188,EC305,Microprocessors,ECE,2
+STU01188,EC304,VLSI Design,ECE,3
+STU01188,EC302,Digital Electronics,ECE,4
+STU01188,EC301,Signals and Systems,ECE,5
+STU01189,EC303,Communication Systems,ECE,1
+STU01189,EC304,VLSI Design,ECE,2
+STU01190,EE305,Circuit Theory,EEE,1
+STU01190,EE301,Power Systems,EEE,2
+STU01190,EE302,Control Systems,EEE,3
+STU01190,EE305,Circuit Theory,EEE,4
+STU01190,EE303,Electrical Machines,EEE,5
+STU01191,EC303,Communication Systems,ECE,1
+STU01191,EC305,Microprocessors,ECE,2
+STU01191,EC304,VLSI Design,ECE,3
+STU01191,EC302,Digital Electronics,ECE,4
+STU01192,EC305,Microprocessors,ECE,1
+STU01192,EC302,Digital Electronics,ECE,2
+STU01192,EC302,Digital Electronics,ECE,3
+STU01192,EC304,VLSI Design,ECE,4
+STU01193,CS305,Data Warehousing and Mining,CSE,1
+STU01193,CS303,Operating Systems,CSE,2
+STU01193,CS302,DBMS,CSE,3
+STU01194,CS303,Operating Systems,CSE,1
+STU01194,CS305,Data Warehousing and Mining,CSE,2
+STU01195,CS302,DBMS,CSE,1
+STU01195,CS304,Computer Networks,CSE,2
+STU01195,CS305,Data Warehousing and Mining,CSE,3
+STU01195,CS304,Computer Networks,CSE,4
+STU01195,CS302,DBMS,CSE,5
+STU01196,IT305,Mobile Computing,IT,1
+STU01196,IT301,Web Technologies,IT,2
+STU01196,IT305,Mobile Computing,IT,3
+STU01196,IT305,Mobile Computing,IT,4
+STU01196,IT303,Software Engineering,IT,5
+STU01196,IT301,Web Technologies,IT,6
+STU01197,CS303,Operating Systems,CSE,1
+STU01197,CS305,Data Warehousing and Mining,CSE,2
+STU01197,CS301,Data Structures,CSE,3
+STU01197,CS304,Computer Networks,CSE,4
+STU01197,CS303,Operating Systems,CSE,5
+STU01197,CS301,Data Structures,CSE,6
+STU01198,ME305,Heat Transfer,MECH,1
+STU01198,ME305,Heat Transfer,MECH,2
+STU01198,ME301,Thermodynamics,MECH,3
+STU01198,ME305,Heat Transfer,MECH,4
+STU01199,CS301,Data Structures,CSE,1
+STU01199,CS305,Data Warehousing and Mining,CSE,2
+STU01199,CS305,Data Warehousing and Mining,CSE,3
+STU01200,EC301,Signals and Systems,ECE,1
+STU01200,EC303,Communication Systems,ECE,2
+STU01200,EC304,VLSI Design,ECE,3
+STU01200,EC301,Signals and Systems,ECE,4

@@ -1,0 +1,19 @@
+{
+  "best_k": 2,
+  "silhouette_scores": {
+    "2": 0.4309,
+    "3": 0.3433,
+    "4": 0.2805,
+    "5": 0.2439,
+    "6": 0.2247,
+    "7": 0.2075
+  },
+  "cluster_labels": {
+    "0": "High-performing, highly engaged",
+    "1": "Low-performing, low engagement"
+  },
+  "cluster_sizes": {
+    "1": 605,
+    "0": 595
+  }
+}

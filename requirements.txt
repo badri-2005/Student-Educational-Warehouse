@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sqlalchemy
+pymysql
+streamlit
+plotly
+matplotlib
+joblib
+python-dotenv
