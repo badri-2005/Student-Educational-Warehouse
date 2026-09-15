@@ -14,6 +14,7 @@ ml/ scripts (run ml/evaluate.py first if these don't exist yet).
 import os
 import sys
 import json
+import subprocess
 
 import pandas as pd
 import plotly.express as px
@@ -24,6 +25,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROCESSED_DIR = os.path.join(PROJECT_ROOT, "data", "processed")
 MODELS_DIR = os.path.join(PROJECT_ROOT, "models")
 VIZ_DIR = os.path.join(PROJECT_ROOT, "visualizations")
+FEATURES_PATH = os.path.join(PROCESSED_DIR, "student_features.csv")
 
 st.set_page_config(page_title="Educational Data Warehouse & Student Success Analytics",
                     layout="wide", page_icon="🎓")
@@ -32,6 +34,41 @@ st.set_page_config(page_title="Educational Data Warehouse & Student Success Anal
 # ----------------------------------------------------------------
 # Data loading (cached)
 # ----------------------------------------------------------------
+def ensure_processed_data():
+    """Create dashboard artifacts when running on a fresh deployment."""
+    if os.path.exists(FEATURES_PATH):
+        return None
+
+    try:
+        subprocess.run(
+            [sys.executable, "generate_dataset.py"],
+            cwd=PROJECT_ROOT,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        subprocess.run(
+            [sys.executable, os.path.join("ml", "evaluate.py")],
+            cwd=PROJECT_ROOT,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.CalledProcessError as error:
+        output = error.stderr.strip() or error.stdout.strip()
+        return f"The ML pipeline could not create the dashboard data: {output}"
+    except OSError as error:
+        return f"The ML pipeline could not start: {error}"
+
+    return None
+
+
+pipeline_error = ensure_processed_data()
+if pipeline_error:
+    st.error(pipeline_error)
+    st.stop()
+
+
 @st.cache_data
 def load_data():
     def read_csv(name):
@@ -62,8 +99,8 @@ features_df = data["features"]
 
 if features_df.empty:
     st.error(
-        "No processed data found. Run the ML pipeline first:\n\n"
-        "```\npython generate_dataset.py\npython ml/evaluate.py\n```"
+        "No processed data was created. Check that the repository contains "
+        "generate_dataset.py and the ml directory, then redeploy."
     )
     st.stop()
 
