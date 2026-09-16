@@ -114,7 +114,7 @@ page = st.sidebar.radio("Go to", [
     "Student Segmentation",
     "Academic Risk Prediction",
     "Anomaly Detection",
-    "ML Model Evaluation",
+    
     "Student Search",
 ])
 

@@ -1,8 +1,4 @@
 .env
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-models/*.joblib
-.streamlit/
-.DS_Store
 venv/
